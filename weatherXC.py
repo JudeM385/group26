@@ -30,6 +30,8 @@ for x, y, z in zip(zipcodes,dates,city):
     zipDF = pd.DataFrame(clean) #transform data to DF
     zipDF['zipCode'] = x
     zipDF['City'] = z
+    zipDF['Date'] = y
+    zipDF['Year'] = y[0:4]
     df_list.append(zipDF)
 
 weather = pd.concat(df_list)
