@@ -63,7 +63,7 @@ for i in xc:
     df_list.append(df)
 
 xc_df = pd.concat(df_list)
-xc_df.rename(columns = {'RANK':'Rank','Unnamed: 1':'Delete','TEAMCONFERENCE':'Team','Unnamed: 3':'Points','Unnamed: 5':'Change'}, inplace=True)
+xc_df.rename(columns = {'RANK':'Rank','Unnamed: 1':'Delete','TEAMCONFERENCE':'Team','Unnamed: 3':'Points','Unnamed: 5':'Change','Last Year':'Conference'}, inplace=True)
 xc_df = xc_df.drop(columns={'Delete'})
 
 df_list=[]
@@ -110,7 +110,7 @@ for i in outdoor:
     df_list.append(df)
     
 outdoor_df = pd.concat(df_list)
-outdoor_df.rename(columns = {'RANK':'Rank','Unnamed: 1':'Delete','TEAMCONFERENCE':'Team','Unnamed: 3':'Points','Unnamed: 5':'Change'}, inplace=True)
+outdoor_df.rename(columns = {'RANK':'Rank','Unnamed: 1':'Delete','TEAMCONFERENCE':'Team','Unnamed: 3':'Points','Unnamed: 5':'Change','Last Year':'Conference'}, inplace=True)
 outdoor_df = outdoor_df.drop(columns={'Delete'})
 
 df_list=[]
@@ -157,7 +157,7 @@ for i in indoor:
     df_list.append(df)
     
 indoor_df = pd.concat(df_list)
-indoor_df.rename(columns = {'RANK':'Rank','Unnamed: 1':'Delete','TEAMCONFERENCE':'Team','Unnamed: 3':'Points','Unnamed: 5':'Change'}, inplace=True)
+indoor_df.rename(columns = {'RANK':'Rank','Unnamed: 1':'Delete','TEAMCONFERENCE':'Team','Unnamed: 3':'Points','Unnamed: 5':'Change','Last Year':'Conference'}, inplace=True)
 indoor_df = indoor_df.drop(columns={'Delete'})
 
 xc_df.to_csv('xc_rank.csv', index=False)
