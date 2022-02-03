@@ -1,0 +1,682 @@
+Rank,Team,Points,Last Year,Change,Year,Season,Gender,Division,Description
+1,NORTHERN ARIZONA,92.0,Big Sky,◀▶(LW: 1),2021,Cross Country,Men,I,FINAL - November 21st
+2,IOWA STATE,137.0,Big 12,▲6(LW: 8),2021,Cross Country,Men,I,FINAL - November 21st
+3,OKLAHOMA STATE,186.0,Big 12,◀▶(LW: 3),2021,Cross Country,Men,I,FINAL - November 21st
+4,ARKANSAS,195.0,SEC,◀▶(LW: 4),2021,Cross Country,Men,I,FINAL - November 21st
+5,STANFORD,236.0,Pac-12,◀▶(LW: 5),2021,Cross Country,Men,I,FINAL - November 21st
+6,TULSA,237.0,American,◀▶(LW: 6),2021,Cross Country,Men,I,FINAL - November 21st
+7,BYU,246.0,WCC,◀▶(LW: 7),2021,Cross Country,Men,I,FINAL - November 21st
+8,COLORADO,249.0,Pac-12,▲6(LW: 14),2021,Cross Country,Men,I,FINAL - November 21st
+9,NOTRE DAME,290.0,ACC,▼7(LW: 2),2021,Cross Country,Men,I,FINAL - November 21st
+10,WAKE FOREST,356.0,ACC,▲5(LW: 15),2021,Cross Country,Men,I,FINAL - November 21st
+11,WISCONSIN,361.0,Big Ten,▲7(LW: 18),2021,Cross Country,Men,I,FINAL - November 21st
+12,HARVARD,364.0,Ivy League,NR,2021,Cross Country,Men,I,FINAL - November 21st
+13,WASHINGTON,373.0,Pac-12,▲12(LW: 25),2021,Cross Country,Men,I,FINAL - November 21st
+14,TEXAS,393.0,Big 12,NR,2021,Cross Country,Men,I,FINAL - November 21st
+15,OLE MISS,395.0,SEC,▼3(LW: 12),2021,Cross Country,Men,I,FINAL - November 21st
+16,PORTLAND,430.0,WCC,▲5(LW: 21),2021,Cross Country,Men,I,FINAL - November 21st
+17,AIR FORCE,453.0,Mountain West,▲2(LW: 19),2021,Cross Country,Men,I,FINAL - November 21st
+18,NORTH CAROLINA,460.0,ACC,NR,2021,Cross Country,Men,I,FINAL - November 21st
+19,SYRACUSE,485.0,ACC,▲11(LW: 30),2021,Cross Country,Men,I,FINAL - November 21st
+20,FLORIDA STATE,517.0,ACC,NR,2021,Cross Country,Men,I,FINAL - November 21st
+21,MINNESOTA,518.0,Big Ten,NR,2021,Cross Country,Men,I,FINAL - November 21st
+22,GEORGETOWN,566.0,Big East,◀▶(LW: 22),2021,Cross Country,Men,I,FINAL - November 21st
+23,PRINCETON,567.0,Ivy League,NR,2021,Cross Country,Men,I,FINAL - November 21st
+24,SOUTHERN UTAH,573.0,Big Sky,▼15(LW: 9),2021,Cross Country,Men,I,FINAL - November 21st
+25,MICHIGAN,588.0,Big Ten,NR,2021,Cross Country,Men,I,FINAL - November 21st
+26,GONZAGA,612.0,WCC,▲1(LW: 27),2021,Cross Country,Men,I,FINAL - November 21st
+27,ALABAMA,640.0,SEC,NR,2021,Cross Country,Men,I,FINAL - November 21st
+28,BUTLER,643.0,Big East,▼15(LW: 13),2021,Cross Country,Men,I,FINAL - November 21st
+29,OREGON,655.0,Pac-12,NR,2021,Cross Country,Men,I,FINAL - November 21st
+30,MICHIGAN STATE,681.0,Big Ten,▼13(LW: 17),2021,Cross Country,Men,I,FINAL - November 21st
+31,FURMAN,688.0,SoCon,▼7(LW: 24),2021,Cross Country,Men,I,FINAL - November 21st
+1,NC STATE,84.0,ACC,▲1(LW: 2),2021,Cross Country,Women,I,FINAL - November 21st
+2,BYU,122.0,WCC,▼1(LW: 1),2021,Cross Country,Women,I,FINAL - November 21st
+3,NEW MEXICO,130.0,Mountain West,▲3(LW: 6),2021,Cross Country,Women,I,FINAL - November 21st
+4,COLORADO,187.0,Pac-12,▲3(LW: 7),2021,Cross Country,Women,I,FINAL - November 21st
+5,NOTRE DAME,215.0,ACC,NR,2021,Cross Country,Women,I,FINAL - November 21st
+6,STANFORD,233.0,Pac-12,▼3(LW: 3),2021,Cross Country,Women,I,FINAL - November 21st
+7,MINNESOTA,313.0,Big Ten,▼2(LW: 5),2021,Cross Country,Women,I,FINAL - November 21st
+8,ARKANSAS,328.0,SEC,▲2(LW: 10),2021,Cross Country,Women,I,FINAL - November 21st
+9,IOWA STATE,332.0,Big 12,▲16(LW: 25),2021,Cross Country,Women,I,FINAL - November 21st
+10,OLE MISS,350.0,SEC,▲2(LW: 12),2021,Cross Country,Women,I,FINAL - November 21st
+11,WASHINGTON,366.0,Pac-12,▲2(LW: 13),2021,Cross Country,Women,I,FINAL - November 21st
+12,WISCONSIN,376.0,Big Ten,NR,2021,Cross Country,Women,I,FINAL - November 21st
+13,OKLAHOMA STATE,404.0,Big 12,▲11(LW: 24),2021,Cross Country,Women,I,FINAL - November 21st
+14,NORTH CAROLINA,405.0,ACC,◀▶(LW: 14),2021,Cross Country,Women,I,FINAL - November 21st
+15,ALABAMA,428.0,SEC,▼7(LW: 8),2021,Cross Country,Women,I,FINAL - November 21st
+16,MICHIGAN STATE,438.0,Big Ten,▼12(LW: 4),2021,Cross Country,Women,I,FINAL - November 21st
+17,COLORADO STATE,455.0,Mountain West,▲6(LW: 23),2021,Cross Country,Women,I,FINAL - November 21st
+18,GEORGETOWN,464.0,Big East,◀▶(LW: 18),2021,Cross Country,Women,I,FINAL - November 21st
+19,FLORIDA STATE,468.0,ACC,▼4(LW: 15),2021,Cross Country,Women,I,FINAL - November 21st
+20,UTAH,483.0,Pac-12,NR,2021,Cross Country,Women,I,FINAL - November 21st
+21,WEST VIRGINIA,489.0,Big 12,▲8(LW: 29),2021,Cross Country,Women,I,FINAL - November 21st
+22,MICHIGAN,500.0,Big Ten,▼5(LW: 17),2021,Cross Country,Women,I,FINAL - November 21st
+23,NORTHERN ARIZONA,532.0,Big Sky,▼12(LW: 11),2021,Cross Country,Women,I,FINAL - November 21st
+24,OREGON,534.0,Pac-12,NR,2021,Cross Country,Women,I,FINAL - November 21st
+25,HARVARD,541.0,Ivy League,NR,2021,Cross Country,Women,I,FINAL - November 21st
+26,PROVIDENCE,594.0,Big East,NR,2021,Cross Country,Women,I,FINAL - November 21st
+27,VILLANOVA,605.0,Big East,NR,2021,Cross Country,Women,I,FINAL - November 21st
+28,UTAH STATE,638.0,Mountain West,NR,2021,Cross Country,Women,I,FINAL - November 21st
+29,BUTLER,660.0,Big East,NR,2021,Cross Country,Women,I,FINAL - November 21st
+30,SYRACUSE,768.0,ACC,NR,2021,Cross Country,Women,I,FINAL - November 21st
+31,RICE,811.0,Conference USA,NR,2021,Cross Country,Women,I,FINAL - November 21st
+1,NORTHERN ARIZONA,60.0,Big Sky,▲1(LW: 2),2020,Cross Country,Men,I,FINAL - March 15th
+2,NOTRE DAME,87.0,ACC,▲7(LW: 9),2020,Cross Country,Men,I,FINAL - March 15th
+3,OKLAHOMA STATE,142.0,Big 12,▲3(LW: 6),2020,Cross Country,Men,I,FINAL - March 15th
+4,ARKANSAS,181.0,SEC,▼1(LW: 3),2020,Cross Country,Men,I,FINAL - March 15th
+5,STANFORD,194.0,Pac-12,▼1(LW: 4),2020,Cross Country,Men,I,FINAL - March 15th
+6,TULSA,237.0,American,▼1(LW: 5),2020,Cross Country,Men,I,FINAL - March 15th
+7,BYU,254.0,WCC,▼6(LW: 1),2020,Cross Country,Men,I,FINAL - March 15th
+8,IOWA STATE,265.0,Big 12,▼1(LW: 7),2020,Cross Country,Men,I,FINAL - March 15th
+9,SOUTHERN UTAH,270.0,Big Sky,▲17(LW: 26),2020,Cross Country,Men,I,FINAL - March 15th
+10,IONA,311.0,Metro Atlantic,▲2(LW: 12),2020,Cross Country,Men,I,FINAL - March 15th
+11,UTAH STATE,351.0,Mountain West,▲10(LW: 21),2020,Cross Country,Men,I,FINAL - March 15th
+12,OLE MISS,373.0,SEC,▲3(LW: 15),2020,Cross Country,Men,I,FINAL - March 15th
+13,BUTLER,379.0,Big East,▲9(LW: 22),2020,Cross Country,Men,I,FINAL - March 15th
+14,COLORADO,398.0,Pac-12,▼6(LW: 8),2020,Cross Country,Men,I,FINAL - March 15th
+15,WAKE FOREST,425.0,ACC,▲5(LW: 20),2020,Cross Country,Men,I,FINAL - March 15th
+16,DUKE,462.0,ACC,(LW: RV),2020,Cross Country,Men,I,FINAL - March 15th
+17,MICHIGAN STATE,463.0,Big Ten,▲11(LW: 28),2020,Cross Country,Men,I,FINAL - March 15th
+18,WISCONSIN,464.0,Big Ten,▼7(LW: 11),2020,Cross Country,Men,I,FINAL - March 15th
+19,AIR FORCE,464.0,Mountain West,◀▶(LW: 19),2020,Cross Country,Men,I,FINAL - March 15th
+20,VILLANOVA,468.0,Big East,(LW: RV),2020,Cross Country,Men,I,FINAL - March 15th
+21,PORTLAND,472.0,WCC,▼4(LW: 17),2020,Cross Country,Men,I,FINAL - March 15th
+22,GEORGETOWN,528.0,Big East,(LW: RV),2020,Cross Country,Men,I,FINAL - March 15th
+23,NC STATE,547.0,ACC,▼10(LW: 13),2020,Cross Country,Men,I,FINAL - March 15th
+24,FURMAN,560.0,SoCon,(LW: RV),2020,Cross Country,Men,I,FINAL - March 15th
+25,WASHINGTON,568.0,Pac-12,▼15(LW: 10),2020,Cross Country,Men,I,FINAL - March 15th
+26,INDIANA,572.0,Big Ten,▼9(LW: 17),2020,Cross Country,Men,I,FINAL - March 15th
+27,GONZAGA,591.0,WCC,▼13(LW: 14),2020,Cross Country,Men,I,FINAL - March 15th
+28,CHARLOTTE,634.0,Conference USA,▲2(LW: 30),2020,Cross Country,Men,I,FINAL - March 15th
+29,PURDUE,741.0,Big Ten,▼5(LW: 24),2020,Cross Country,Men,I,FINAL - March 15th
+30,SYRACUSE,761.0,ACC,▼5(LW: 25),2020,Cross Country,Men,I,FINAL - March 15th
+1,BYU,96.0,WCC,▲1(LW: 2),2020,Cross Country,Women,I,FINAL - March 15th
+2,NC STATE,161.0,ACC,▲3(LW: 5),2020,Cross Country,Women,I,FINAL - March 15th
+3,STANFORD,207.0,Pac-12,▲1(LW: 4),2020,Cross Country,Women,I,FINAL - March 15th
+4,MICHIGAN STATE,212.0,Big Ten,▲3(LW: 7),2020,Cross Country,Women,I,FINAL - March 15th
+5,MINNESOTA,239.0,Big Ten,▲6(LW: 11),2020,Cross Country,Women,I,FINAL - March 15th
+6,NEW MEXICO,274.0,Mountain West,▼3(LW: 3),2020,Cross Country,Women,I,FINAL - March 15th
+7,COLORADO,279.0,Pac-12,▼1(LW: 6),2020,Cross Country,Women,I,FINAL - March 15th
+8,ALABAMA,280.0,SEC,▲5(LW: 13),2020,Cross Country,Women,I,FINAL - March 15th
+9,BOISE STATE,304.0,Mountain West,▲1(LW: 10),2020,Cross Country,Women,I,FINAL - March 15th
+10,ARKANSAS,316.0,SEC,▼9(LW: 1),2020,Cross Country,Women,I,FINAL - March 15th
+11,NORTHERN ARIZONA,318.0,Big Sky,▼2(LW: 9),2020,Cross Country,Women,I,FINAL - March 15th
+12,OLE MISS,325.0,SEC,▲14(LW: 26),2020,Cross Country,Women,I,FINAL - March 15th
+13,WASHINGTON,330.0,Pac-12,▼1(LW: 12),2020,Cross Country,Women,I,FINAL - March 15th
+14,NORTH CAROLINA,354.0,ACC,(LW: RV),2020,Cross Country,Women,I,FINAL - March 15th
+15,FLORIDA STATE,363.0,ACC,▲3(LW: 18),2020,Cross Country,Women,I,FINAL - March 15th
+16,OREGON STATE,375.0,Pac-12,▲7(LW: 23),2020,Cross Country,Women,I,FINAL - March 15th
+17,MICHIGAN,400.0,Big Ten,▼9(LW: 8),2020,Cross Country,Women,I,FINAL - March 15th
+18,GEORGETOWN,494.0,Big East,▲3(LW: 21),2020,Cross Country,Women,I,FINAL - March 15th
+19,INDIANA,494.0,Big Ten,▼2(LW: 17),2020,Cross Country,Women,I,FINAL - March 15th
+20,GEORGIA TECH,508.0,ACC,▼5(LW: 15),2020,Cross Country,Women,I,FINAL - March 15th
+21,ILLINOIS,521.0,Big Ten,▼5(LW: 16),2020,Cross Country,Women,I,FINAL - March 15th
+22,PORTLAND,522.0,WCC,▼2(LW: 20),2020,Cross Country,Women,I,FINAL - March 15th
+23,COLORADO STATE,532.0,Mountain West,(LW: RV),2020,Cross Country,Women,I,FINAL - March 15th
+24,OKLAHOMA STATE,535.0,Big 12,▼2(LW: 22),2020,Cross Country,Women,I,FINAL - March 15th
+25,IOWA STATE,580.0,Big 12,▼1(LW: 24),2020,Cross Country,Women,I,FINAL - March 15th
+26,LIBERTY,611.0,ASUN,(LW: RV),2020,Cross Country,Women,I,FINAL - March 15th
+27,DUKE,625.0,ACC,▼8(LW: 19),2020,Cross Country,Women,I,FINAL - March 15th
+28,TULSA,650.0,American,(LW: RV),2020,Cross Country,Women,I,FINAL - March 15th
+29,WEST VIRGINIA,668.0,Big 12,▼2(LW: 27),2020,Cross Country,Women,I,FINAL - March 15th
+30,SAN FRANCISCO,688.0,WCC,▼3(LW: 27),2020,Cross Country,Women,I,FINAL - March 15th
+31,FURMAN,761.0,SoCon,▼17(LW: 14),2020,Cross Country,Women,I,FINAL - March 15th
+1,BYU,109.0,WCC,▲1(LW: 2),2019,Cross Country,Men,I,FINAL - November 23rd
+2,NORTHERN ARIZONA,163.0,Big Sky,▼1(LW: 1),2019,Cross Country,Men,I,FINAL - November 23rd
+3,COLORADO,164.0,Pac-12,▲1(LW: 4),2019,Cross Country,Men,I,FINAL - November 23rd
+4,IOWA STATE,211.0,Big 12,▲3(LW: 7),2019,Cross Country,Men,I,FINAL - November 23rd
+5,TULSA,243.0,American,▲25(LW: 30),2019,Cross Country,Men,I,FINAL - November 23rd
+6,STANFORD,248.0,Pac-12,▼1(LW: 5),2019,Cross Country,Men,I,FINAL - November 23rd
+7,MICHIGAN,250.0,Big Ten,▲12(LW: 19),2019,Cross Country,Men,I,FINAL - November 23rd
+8,NOTRE DAME,269.0,ACC,▲6(LW: 14),2019,Cross Country,Men,I,FINAL - November 23rd
+9,OREGON,307.0,Pac-12,▲6(LW: 15),2019,Cross Country,Men,I,FINAL - November 23rd
+10,PORTLAND,314.0,WCC,▼7(LW: 3),2019,Cross Country,Men,I,FINAL - November 23rd
+11,PURDUE,338.0,Big Ten,▲18(LW: 29),2019,Cross Country,Men,I,FINAL - November 23rd
+12,IONA,348.0,Metro Atlantic,▲16(LW: 28),2019,Cross Country,Men,I,FINAL - November 23rd
+13,INDIANA,367.0,Big Ten,▲5(LW: 18),2019,Cross Country,Men,I,FINAL - November 23rd
+14,FURMAN,379.0,SoCon,NR,2019,Cross Country,Men,I,FINAL - November 23rd
+15,HARVARD,384.0,Ivy League,NR,2019,Cross Country,Men,I,FINAL - November 23rd
+16,UTAH STATE,428.0,Mountain West,NR,2019,Cross Country,Men,I,FINAL - November 23rd
+17,VIRGINIA TECH,451.0,ACC,NR,2019,Cross Country,Men,I,FINAL - November 23rd
+18,WISCONSIN,462.0,Big Ten,▼10(LW: 8),2019,Cross Country,Men,I,FINAL - November 23rd
+19,WASHINGTON,466.0,Pac-12,▼13(LW: 6),2019,Cross Country,Men,I,FINAL - November 23rd
+20,VIRGINIA,468.0,ACC,NR,2019,Cross Country,Men,I,FINAL - November 23rd
+21,BOISE STATE,525.0,Mountain West,▼11(LW: 10),2019,Cross Country,Men,I,FINAL - November 23rd
+22,OLE MISS,535.0,SEC,▼5(LW: 17),2019,Cross Country,Men,I,FINAL - November 23rd
+23,VILLANOVA,556.0,Big East,◀▶(LW: 23),2019,Cross Country,Men,I,FINAL - November 23rd
+24,ALABAMA,582.0,SEC,NR,2019,Cross Country,Men,I,FINAL - November 23rd
+25,TEXAS,588.0,Big 12,▲2(LW: 27),2019,Cross Country,Men,I,FINAL - November 23rd
+26,NC STATE,605.0,ACC,▼15(LW: 11),2019,Cross Country,Men,I,FINAL - November 23rd
+27,SYRACUSE,610.0,ACC,▼1(LW: 26),2019,Cross Country,Men,I,FINAL - November 23rd
+28,GEORGETOWN,676.0,Big East,NR,2019,Cross Country,Men,I,FINAL - November 23rd
+29,FLORIDA STATE,694.0,ACC,▲2(LW: 31),2019,Cross Country,Men,I,FINAL - November 23rd
+30,ARKANSAS,728.0,SEC,▼5(LW: 25),2019,Cross Country,Men,I,FINAL - November 23rd
+31,MIDDLE TENNESSEE,865.0,Conference USA,NR,2019,Cross Country,Men,I,FINAL - November 23rd
+1,ARKANSAS,96.0,SEC,▲13(LW: 14),2019,Cross Country,Women,I,FINAL - November 23rd
+2,BYU,102.0,WCC,▲5(LW: 7),2019,Cross Country,Women,I,FINAL - November 23rd
+3,STANFORD,123.0,Pac-12,▲2(LW: 5),2019,Cross Country,Women,I,FINAL - November 23rd
+4,NEW MEXICO,168.0,Mountain West,▼2(LW: 2),2019,Cross Country,Women,I,FINAL - November 23rd
+5,NC STATE,190.0,ACC,▲8(LW: 13),2019,Cross Country,Women,I,FINAL - November 23rd
+6,MICHIGAN STATE,209.0,Big Ten,▲5(LW: 11),2019,Cross Country,Women,I,FINAL - November 23rd
+7,WISCONSIN,235.0,Big Ten,▲3(LW: 10),2019,Cross Country,Women,I,FINAL - November 23rd
+8,AIR FORCE,259.0,Mountain West,NR,2019,Cross Country,Women,I,FINAL - November 23rd
+9,FURMAN,290.0,SoCon,▲14(LW: 23),2019,Cross Country,Women,I,FINAL - November 23rd
+10,COLORADO,294.0,Pac-12,▼9(LW: 1),2019,Cross Country,Women,I,FINAL - November 23rd
+11,WASHINGTON,296.0,Pac-12,▼2(LW: 9),2019,Cross Country,Women,I,FINAL - November 23rd
+12,FLORIDA STATE,308.0,ACC,▲14(LW: 26),2019,Cross Country,Women,I,FINAL - November 23rd
+13,MICHIGAN,395.0,Big Ten,▼9(LW: 4),2019,Cross Country,Women,I,FINAL - November 23rd
+14,NORTHERN ARIZONA,406.0,Big Sky,NR,2019,Cross Country,Women,I,FINAL - November 23rd
+15,NOTRE DAME,415.0,ACC,▼7(LW: 8),2019,Cross Country,Women,I,FINAL - November 23rd
+16,UTAH,471.0,Pac-12,NR,2019,Cross Country,Women,I,FINAL - November 23rd
+17,BOISE STATE,474.0,Mountain West,▼11(LW: 6),2019,Cross Country,Women,I,FINAL - November 23rd
+18,PENN STATE,482.0,Big Ten,▲2(LW: 20),2019,Cross Country,Women,I,FINAL - November 23rd
+19,INDIANA,509.0,Big Ten,▼2(LW: 17),2019,Cross Country,Women,I,FINAL - November 23rd
+20,BOSTON COLLEGE,514.0,ACC,NR,2019,Cross Country,Women,I,FINAL - November 23rd
+21,OLE MISS,541.0,SEC,▲1(LW: 22),2019,Cross Country,Women,I,FINAL - November 23rd
+22,ILLINOIS,549.0,Big Ten,NR,2019,Cross Country,Women,I,FINAL - November 23rd
+23,OHIO STATE,566.0,Big Ten,NR,2019,Cross Country,Women,I,FINAL - November 23rd
+24,VILLANOVA,575.0,Big East,◀▶(LW: 24),2019,Cross Country,Women,I,FINAL - November 23rd
+25,TULSA,584.0,American,NR,2019,Cross Country,Women,I,FINAL - November 23rd
+26,OREGON,618.0,Pac-12,▼23(LW: 3),2019,Cross Country,Women,I,FINAL - November 23rd
+27,COLUMBIA,624.0,Ivy League,▼9(LW: 18),2019,Cross Country,Women,I,FINAL - November 23rd
+28,MINNESOTA,691.0,Big Ten,▲1(LW: 29),2019,Cross Country,Women,I,FINAL - November 23rd
+29,CORNELL,693.0,Ivy League,NR,2019,Cross Country,Women,I,FINAL - November 23rd
+30,TEXAS,713.0,Big 12,▲1(LW: 31),2019,Cross Country,Women,I,FINAL - November 23rd
+31,HARVARD,787.0,Ivy League,NR,2019,Cross Country,Women,I,FINAL - November 23rd
+1,NORTHERN ARIZONA,83.0,Big Sky,◀▶(LW: 1),2018,Cross Country,Men,I,FINAL - November 17th
+2,BYU,116.0,WCC,▲1(LW: 3),2018,Cross Country,Men,I,FINAL - November 17th
+3,PORTLAND,160.0,WCC,▼1(LW: 2),2018,Cross Country,Men,I,FINAL - November 17th
+4,COLORADO,178.0,Pac-12,▲4(LW: 8),2018,Cross Country,Men,I,FINAL - November 17th
+5,STANFORD,201.0,Pac-12,▼1(LW: 4),2018,Cross Country,Men,I,FINAL - November 17th
+6,WASHINGTON,213.0,Pac-12,▲16(LW: 22),2018,Cross Country,Men,I,FINAL - November 17th
+7,IOWA STATE,220.0,Big 12,◀▶(LW: 7),2018,Cross Country,Men,I,FINAL - November 17th
+8,WISCONSIN,240.0,Big Ten,NR,2018,Cross Country,Men,I,FINAL - November 17th
+9,COLORADO STATE,309.0,Mountain West,◀▶(LW: 9),2018,Cross Country,Men,I,FINAL - November 17th
+10,BOISE STATE,342.0,Mountain West,▲9(LW: 19),2018,Cross Country,Men,I,FINAL - November 17th
+11,NC STATE,342.0,ACC,▲6(LW: 17),2018,Cross Country,Men,I,FINAL - November 17th
+12,WYOMING,371.0,Mountain West,NR,2018,Cross Country,Men,I,FINAL - November 17th
+13,OKLAHOMA STATE,378.0,Big 12,▲16(LW: 29),2018,Cross Country,Men,I,FINAL - November 17th
+14,NOTRE DAME,401.0,ACC,NR,2018,Cross Country,Men,I,FINAL - November 17th
+15,OREGON,407.0,Pac-12,▼9(LW: 6),2018,Cross Country,Men,I,FINAL - November 17th
+16,EASTERN KENTUCKY,430.0,OVC,NR,2018,Cross Country,Men,I,FINAL - November 17th
+17,OLE MISS,431.0,SEC,▲1(LW: 18),2018,Cross Country,Men,I,FINAL - November 17th
+18,INDIANA,469.0,Big Ten,NR,2018,Cross Country,Men,I,FINAL - November 17th
+19,MICHIGAN,483.0,Big Ten,▼9(LW: 10),2018,Cross Country,Men,I,FINAL - November 17th
+20,AIR FORCE,498.0,Mountain West,▼5(LW: 15),2018,Cross Country,Men,I,FINAL - November 17th
+21,SOUTHERN UTAH,523.0,Big Sky,▼10(LW: 11),2018,Cross Country,Men,I,FINAL - November 17th
+22,PRINCETON,557.0,Ivy League,▲6(LW: 28),2018,Cross Country,Men,I,FINAL - November 17th
+23,VILLANOVA,577.0,Big East,NR,2018,Cross Country,Men,I,FINAL - November 17th
+24,BRADLEY,580.0,Missouri Valley,NR,2018,Cross Country,Men,I,FINAL - November 17th
+25,ARKANSAS,602.0,SEC,▼20(LW: 5),2018,Cross Country,Men,I,FINAL - November 17th
+26,SYRACUSE,603.0,ACC,▼13(LW: 13),2018,Cross Country,Men,I,FINAL - November 17th
+27,TEXAS,630.0,Big 12,▲3(LW: 30),2018,Cross Country,Men,I,FINAL - November 17th
+28,IONA,634.0,Metro Atlantic,▼16(LW: 12),2018,Cross Country,Men,I,FINAL - November 17th
+29,PURDUE,702.0,Big Ten,NR,2018,Cross Country,Men,I,FINAL - November 17th
+30,TULSA,777.0,American,NR,2018,Cross Country,Men,I,FINAL - November 17th
+31,FLORIDA STATE,845.0,ACC,NR,2018,Cross Country,Men,I,FINAL - November 17th
+1,COLORADO,65.0,Pac-12,▲2(LW: 3),2018,Cross Country,Women,I,FINAL - November 17th
+2,NEW MEXICO,103.0,Mountain West,▼1(LW: 1),2018,Cross Country,Women,I,FINAL - November 17th
+3,OREGON,160.0,Pac-12,▲2(LW: 5),2018,Cross Country,Women,I,FINAL - November 17th
+4,MICHIGAN,213.0,Big Ten,▲5(LW: 9),2018,Cross Country,Women,I,FINAL - November 17th
+5,STANFORD,232.0,Pac-12,▼1(LW: 4),2018,Cross Country,Women,I,FINAL - November 17th
+6,BOISE STATE,288.0,Mountain West,◀▶(LW: 6),2018,Cross Country,Women,I,FINAL - November 17th
+7,BYU,310.0,WCC,▲4(LW: 11),2018,Cross Country,Women,I,FINAL - November 17th
+8,NOTRE DAME,313.0,ACC,NR,2018,Cross Country,Women,I,FINAL - November 17th
+9,WASHINGTON,321.0,Pac-12,▲12(LW: 21),2018,Cross Country,Women,I,FINAL - November 17th
+10,WISCONSIN,325.0,Big Ten,◀▶(LW: 10),2018,Cross Country,Women,I,FINAL - November 17th
+11,MICHIGAN STATE,341.0,Big Ten,▲4(LW: 15),2018,Cross Country,Women,I,FINAL - November 17th
+12,PORTLAND,344.0,WCC,NR,2018,Cross Country,Women,I,FINAL - November 17th
+13,NC STATE,367.0,ACC,▼5(LW: 8),2018,Cross Country,Women,I,FINAL - November 17th
+14,ARKANSAS,398.0,SEC,▼1(LW: 13),2018,Cross Country,Women,I,FINAL - November 17th
+15,IOWA STATE,403.0,Big 12,▲5(LW: 20),2018,Cross Country,Women,I,FINAL - November 17th
+16,FLORIDA,455.0,SEC,NR,2018,Cross Country,Women,I,FINAL - November 17th
+17,INDIANA,455.0,Big Ten,▲7(LW: 24),2018,Cross Country,Women,I,FINAL - November 17th
+18,COLUMBIA,468.0,Ivy League,▲10(LW: 28),2018,Cross Country,Women,I,FINAL - November 17th
+19,OKLAHOMA STATE,481.0,Big 12,▲11(LW: 30),2018,Cross Country,Women,I,FINAL - November 17th
+20,PENN STATE,482.0,Big Ten,▼2(LW: 18),2018,Cross Country,Women,I,FINAL - November 17th
+21,PRINCETON,488.0,Ivy League,NR,2018,Cross Country,Women,I,FINAL - November 17th
+22,OLE MISS,509.0,SEC,▲3(LW: 25),2018,Cross Country,Women,I,FINAL - November 17th
+23,FURMAN,527.0,SoCon,▼16(LW: 7),2018,Cross Country,Women,I,FINAL - November 17th
+24,VILLANOVA,547.0,Big East,▼12(LW: 12),2018,Cross Country,Women,I,FINAL - November 17th
+25,SOUTHERN UTAH,564.0,Big Sky,NR,2018,Cross Country,Women,I,FINAL - November 17th
+26,FLORIDA STATE,584.0,ACC,NR,2018,Cross Country,Women,I,FINAL - November 17th
+27,OREGON STATE,600.0,Pac-12,NR,2018,Cross Country,Women,I,FINAL - November 17th
+28,GEORGIA TECH,653.0,ACC,NR,2018,Cross Country,Women,I,FINAL - November 17th
+29,MINNESOTA,673.0,Big Ten,▼10(LW: 19),2018,Cross Country,Women,I,FINAL - November 17th
+30,DARTMOUTH,751.0,Ivy League,▼1(LW: 29),2018,Cross Country,Women,I,FINAL - November 17th
+31,TEXAS,862.0,Big 12,◀▶(LW: 31),2018,Cross Country,Women,I,FINAL - November 17th
+1,NORTHERN ARIZONA,74.0,Big Sky,◀▶(LW: 1),2017,Cross Country,Men,I,FINAL - November 18th
+2,PORTLAND,127.0,West Coast,▲11(LW: 13),2017,Cross Country,Men,I,FINAL - November 18th
+3,BYU,165.0,West Coast,▲4(LW: 7),2017,Cross Country,Men,I,FINAL - November 18th
+4,STANFORD,221.0,Pac-12,▼2(LW: 2),2017,Cross Country,Men,I,FINAL - November 18th
+5,ARKANSAS,259.0,SEC,◀▶(LW: 5),2017,Cross Country,Men,I,FINAL - November 18th
+6,OREGON,274.0,Pac-12,▲3(LW: 9),2017,Cross Country,Men,I,FINAL - November 18th
+7,IOWA STATE,279.0,Big 12,▲9(LW: 16),2017,Cross Country,Men,I,FINAL - November 18th
+8,COLORADO,294.0,Pac-12,▼2(LW: 6),2017,Cross Country,Men,I,FINAL - November 18th
+9,COLORADO STATE,318.0,Mountain West,▲8(LW: 17),2017,Cross Country,Men,I,FINAL - November 18th
+10,MICHIGAN,328.0,Big Ten,NR,2017,Cross Country,Men,I,FINAL - November 18th
+11,SOUTHERN UTAH,334.0,Big Sky,▲16(LW: 27),2017,Cross Country,Men,I,FINAL - November 18th
+12,IONA,373.0,Metro Atlantic,▼2(LW: 10),2017,Cross Country,Men,I,FINAL - November 18th
+13,SYRACUSE,406.0,ACC,▼10(LW: 3),2017,Cross Country,Men,I,FINAL - November 18th
+14,ALABAMA,420.0,SEC,NR,2017,Cross Country,Men,I,FINAL - November 18th
+15,AIR FORCE,429.0,Mountain West,NR,2017,Cross Country,Men,I,FINAL - November 18th
+16,VIRGINIA,436.0,ACC,▲2(LW: 18),2017,Cross Country,Men,I,FINAL - November 18th
+17,NC STATE,455.0,ACC,▲5(LW: 22),2017,Cross Country,Men,I,FINAL - November 18th
+18,OLE MISS,465.0,SEC,▼14(LW: 4),2017,Cross Country,Men,I,FINAL - November 18th
+19,BOISE STATE,475.0,Mountain West,◀▶(LW: 19),2017,Cross Country,Men,I,FINAL - November 18th
+20,VIRGINIA TECH,481.0,ACC,NR,2017,Cross Country,Men,I,FINAL - November 18th
+21,UCLA,485.0,Pac-12,▼6(LW: 15),2017,Cross Country,Men,I,FINAL - November 18th
+22,WASHINGTON,488.0,Pac-12,NR,2017,Cross Country,Men,I,FINAL - November 18th
+23,MIDDLE TENNESSEE,513.0,Conference USA,▲5(LW: 28),2017,Cross Country,Men,I,FINAL - November 18th
+24,WASHINGTON STATE,539.0,Pac-12,▼10(LW: 14),2017,Cross Country,Men,I,FINAL - November 18th
+25,MICHIGAN STATE,590.0,Big Ten,▼5(LW: 20),2017,Cross Country,Men,I,FINAL - November 18th
+26,FURMAN,603.0,SoCon,NR,2017,Cross Country,Men,I,FINAL - November 18th
+27,UTAH STATE,603.0,Mountain West,NR,2017,Cross Country,Men,I,FINAL - November 18th
+28,PRINCETON,620.0,Ivy League,NR,2017,Cross Country,Men,I,FINAL - November 18th
+29,OKLAHOMA STATE,637.0,Big 12,▼17(LW: 12),2017,Cross Country,Men,I,FINAL - November 18th
+30,TEXAS,759.0,Big 12,◀▶(LW: 30),2017,Cross Country,Men,I,FINAL - November 18th
+31,NAVY,855.0,Patriot,▼5(LW: 26),2017,Cross Country,Men,I,FINAL - November 18th
+1,NEW MEXICO,90.0,Mountain West,▲6(LW: 7),2017,Cross Country,Women,I,FINAL - November 18th
+2,SAN FRANCISCO,105.0,West Coast,▲4(LW: 6),2017,Cross Country,Women,I,FINAL - November 18th
+3,COLORADO,139.0,Pac-12,◀▶(LW: 3),2017,Cross Country,Women,I,FINAL - November 18th
+4,STANFORD,165.0,Pac-12,▲1(LW: 5),2017,Cross Country,Women,I,FINAL - November 18th
+5,OREGON,203.0,Pac-12,▼4(LW: 1),2017,Cross Country,Women,I,FINAL - November 18th
+6,BOISE STATE,264.0,Mountain West,NR,2017,Cross Country,Women,I,FINAL - November 18th
+7,FURMAN,271.0,SoCon,NR,2017,Cross Country,Women,I,FINAL - November 18th
+8,NC STATE,280.0,ACC,▼4(LW: 4),2017,Cross Country,Women,I,FINAL - November 18th
+9,MICHIGAN,295.0,Big Ten,▼7(LW: 2),2017,Cross Country,Women,I,FINAL - November 18th
+10,WISCONSIN,318.0,Big Ten,▲4(LW: 14),2017,Cross Country,Women,I,FINAL - November 18th
+11,BYU,342.0,West Coast,▼1(LW: 10),2017,Cross Country,Women,I,FINAL - November 18th
+12,VILLANOVA,346.0,Big East,▲9(LW: 21),2017,Cross Country,Women,I,FINAL - November 18th
+13,ARKANSAS,377.0,SEC,▲6(LW: 19),2017,Cross Country,Women,I,FINAL - November 18th
+14,UTAH STATE,395.0,Mountain West,NR,2017,Cross Country,Women,I,FINAL - November 18th
+15,MICHIGAN STATE,395.0,Big Ten,▼7(LW: 8),2017,Cross Country,Women,I,FINAL - November 18th
+16,PROVIDENCE,400.0,Big East,▼3(LW: 13),2017,Cross Country,Women,I,FINAL - November 18th
+17,GEORGIA,411.0,SEC,NR,2017,Cross Country,Women,I,FINAL - November 18th
+18,PENN STATE,443.0,Big Ten,◀▶(LW: 18),2017,Cross Country,Women,I,FINAL - November 18th
+19,MINNESOTA,488.0,Big Ten,NR,2017,Cross Country,Women,I,FINAL - November 18th
+20,IOWA STATE,508.0,Big 12,▲9(LW: 29),2017,Cross Country,Women,I,FINAL - November 18th
+21,WASHINGTON,513.0,Pac-12,▼9(LW: 12),2017,Cross Country,Women,I,FINAL - November 18th
+22,CALIFORNIA,530.0,Pac-12,NR,2017,Cross Country,Women,I,FINAL - November 18th
+23,EASTERN KENTUCKY,537.0,Ohio Valley,NR,2017,Cross Country,Women,I,FINAL - November 18th
+24,INDIANA,562.0,Big Ten,NR,2017,Cross Country,Women,I,FINAL - November 18th
+25,OLE MISS,571.0,SEC,▼2(LW: 23),2017,Cross Country,Women,I,FINAL - November 18th
+26,SYRACUSE,582.0,ACC,NR,2017,Cross Country,Women,I,FINAL - November 18th
+27,EASTERN MICHIGAN,603.0,Mid-American,▼18(LW: 9),2017,Cross Country,Women,I,FINAL - November 18th
+28,COLUMBIA,672.0,Ivy League,NR,2017,Cross Country,Women,I,FINAL - November 18th
+29,DARTMOUTH,745.0,Ivy League,NR,2017,Cross Country,Women,I,FINAL - November 18th
+30,OKLAHOMA STATE,748.0,Big 12,▼13(LW: 17),2017,Cross Country,Women,I,FINAL - November 18th
+31,TEXAS,788.0,Big 12,NR,2017,Cross Country,Women,I,FINAL - November 18th
+1,NORTHERN ARIZONA,125.0,Big Sky,NR,2016,Cross Country,Men,I,FINAL - November 19th
+2,STANFORD,158.0,Pac-12,▲1(LW: 3),2016,Cross Country,Men,I,FINAL - November 19th
+3,SYRACUSE,164.0,ACC,▼2(LW: 1),2016,Cross Country,Men,I,FINAL - November 19th
+4,OLE MISS,196.0,SEC,▲26(LW: 30),2016,Cross Country,Men,I,FINAL - November 19th
+5,ARKANSAS,206.0,SEC,▲1(LW: 6),2016,Cross Country,Men,I,FINAL - November 19th
+6,COLORADO,223.0,Pac-12,▼4(LW: 2),2016,Cross Country,Men,I,FINAL - November 19th
+7,BYU,247.0,WCC,▲5(LW: 12),2016,Cross Country,Men,I,FINAL - November 19th
+8,WISCONSIN,256.0,Big Ten,NR,2016,Cross Country,Men,I,FINAL - November 19th
+9,OREGON,282.0,Pac-12,▼5(LW: 4),2016,Cross Country,Men,I,FINAL - November 19th
+10,IONA,319.0,Metro Atlantic,▼5(LW: 5),2016,Cross Country,Men,I,FINAL - November 19th
+11,TULSA,340.0,American,▲9(LW: 20),2016,Cross Country,Men,I,FINAL - November 19th
+12,OKLAHOMA STATE,363.0,Big 12,▲6(LW: 18),2016,Cross Country,Men,I,FINAL - November 19th
+13,PORTLAND,368.0,WCC,NR,2016,Cross Country,Men,I,FINAL - November 19th
+14,WASHINGTON STATE,370.0,Pac-12,▲12(LW: 26),2016,Cross Country,Men,I,FINAL - November 19th
+15,UCLA,378.0,Pac-12,▼1(LW: 14),2016,Cross Country,Men,I,FINAL - November 19th
+16,IOWA STATE,384.0,Big 12,NR,2016,Cross Country,Men,I,FINAL - November 19th
+17,COLORADO STATE,388.0,Mountain West,NR,2016,Cross Country,Men,I,FINAL - November 19th
+18,VIRGINIA,476.0,ACC,▲4(LW: 22),2016,Cross Country,Men,I,FINAL - November 19th
+19,BOISE STATE,478.0,Mountain West,▼3(LW: 16),2016,Cross Country,Men,I,FINAL - November 19th
+20,MICHIGAN STATE,504.0,Big Ten,▲5(LW: 25),2016,Cross Country,Men,I,FINAL - November 19th
+21,GEORGETOWN,534.0,Big East,▼11(LW: 10),2016,Cross Country,Men,I,FINAL - November 19th
+22,NC STATE,543.0,ACC,▲6(LW: 28),2016,Cross Country,Men,I,FINAL - November 19th
+23,ILLINOIS,564.0,Big Ten,NR,2016,Cross Country,Men,I,FINAL - November 19th
+24,PROVIDENCE,611.0,Big East,NR,2016,Cross Country,Men,I,FINAL - November 19th
+25,DARTMOUTH,621.0,Ivy League,NR,2016,Cross Country,Men,I,FINAL - November 19th
+26,NAVY,622.0,Patriot,NR,2016,Cross Country,Men,I,FINAL - November 19th
+27,SOUTHERN UTAH,629.0,Big Sky,▼6(LW: 21),2016,Cross Country,Men,I,FINAL - November 19th
+28,MIDDLE TENNESSEE,697.0,Conference USA,NR,2016,Cross Country,Men,I,FINAL - November 19th
+29,UTEP,707.0,Conference USA,▼18(LW: 11),2016,Cross Country,Men,I,FINAL - November 19th
+30,TEXAS,736.0,Big 12,▲1(LW: 31),2016,Cross Country,Men,I,FINAL - November 19th
+31,CALIFORNIA,776.0,Pac-12,▼8(LW: 23),2016,Cross Country,Men,I,FINAL - November 19th
+1,OREGON,125.0,Pac-12,▲2(LW: 3),2016,Cross Country,Women,I,FINAL - November 19th
+2,MICHIGAN,126.0,Big Ten,▲4(LW: 6),2016,Cross Country,Women,I,FINAL - November 19th
+3,COLORADO,134.0,Pac-12,▼1(LW: 2),2016,Cross Country,Women,I,FINAL - November 19th
+4,NC STATE,223.0,ACC,▲1(LW: 5),2016,Cross Country,Women,I,FINAL - November 19th
+5,STANFORD,255.0,Pac-12,▲9(LW: 14),2016,Cross Country,Women,I,FINAL - November 19th
+6,SAN FRANCISCO,307.0,WCC,▲22(LW: 28),2016,Cross Country,Women,I,FINAL - November 19th
+7,NEW MEXICO,310.0,Mountain West,▼6(LW: 1),2016,Cross Country,Women,I,FINAL - November 19th
+8,MICHIGAN STATE,314.0,Big Ten,▲5(LW: 13),2016,Cross Country,Women,I,FINAL - November 19th
+9,EASTERN MICHIGAN,316.0,Mid-American,NR,2016,Cross Country,Women,I,FINAL - November 19th
+10,BYU,328.0,WCC,▲13(LW: 23),2016,Cross Country,Women,I,FINAL - November 19th
+11,NOTRE DAME,338.0,ACC,▼3(LW: 8),2016,Cross Country,Women,I,FINAL - November 19th
+12,WASHINGTON,352.0,Pac-12,▼2(LW: 10),2016,Cross Country,Women,I,FINAL - November 19th
+13,PROVIDENCE,399.0,Big East,▼9(LW: 4),2016,Cross Country,Women,I,FINAL - November 19th
+14,WISCONSIN,451.0,Big Ten,NR,2016,Cross Country,Women,I,FINAL - November 19th
+15,MISSISSIPPI STATE,459.0,SEC,▲2(LW: 17),2016,Cross Country,Women,I,FINAL - November 19th
+16,MISSOURI,459.0,SEC,NR,2016,Cross Country,Women,I,FINAL - November 19th
+17,OKLAHOMA STATE,465.0,Big 12,▼10(LW: 7),2016,Cross Country,Women,I,FINAL - November 19th
+18,PENN STATE,465.0,Big Ten,▼2(LW: 16),2016,Cross Country,Women,I,FINAL - November 19th
+19,ARKANSAS,476.0,SEC,▼10(LW: 9),2016,Cross Country,Women,I,FINAL - November 19th
+20,UTAH,493.0,Pac-12,▲6(LW: 26),2016,Cross Country,Women,I,FINAL - November 19th
+21,VILLANOVA,505.0,Big East,▲9(LW: 30),2016,Cross Country,Women,I,FINAL - November 19th
+22,PORTLAND,509.0,WCC,NR,2016,Cross Country,Women,I,FINAL - November 19th
+23,OLE MISS,514.0,SEC,NR,2016,Cross Country,Women,I,FINAL - November 19th
+24,PENN,520.0,Ivy League,NR,2016,Cross Country,Women,I,FINAL - November 19th
+25,AIR FORCE,527.0,Mountain West,NR,2016,Cross Country,Women,I,FINAL - November 19th
+26,HARVARD,551.0,Ivy League,NR,2016,Cross Country,Women,I,FINAL - November 19th
+27,BAYLOR,586.0,Big 12,NR,2016,Cross Country,Women,I,FINAL - November 19th
+28,UCLA,596.0,Pac-12,NR,2016,Cross Country,Women,I,FINAL - November 19th
+29,IOWA STATE,608.0,Big 12,▼5(LW: 24),2016,Cross Country,Women,I,FINAL - November 19th
+30,YALE,661.0,Ivy League,NR,2016,Cross Country,Women,I,FINAL - November 19th
+31,LOUISVILLE,788.0,ACC,NR,2016,Cross Country,Women,I,FINAL - November 19th
+1,SYRACUSE,82.0,ACC,▲4(LW: 5),2015,Cross Country,Men,I,FINAL - November 21st
+2,COLORADO,91.0,Pac-12,▼1(LW: 1),2015,Cross Country,Men,I,FINAL - November 21st
+3,STANFORD,151.0,Pac-12,▼1(LW: 2),2015,Cross Country,Men,I,FINAL - November 21st
+4,OREGON,183.0,Pac-12,▲2(LW: 6),2015,Cross Country,Men,I,FINAL - November 21st
+5,IONA,231.0,Metro Atlantic,▲3(LW: 8),2015,Cross Country,Men,I,FINAL - November 21st
+6,ARKANSAS,244.0,SEC,▲22(LW: 28),2015,Cross Country,Men,I,FINAL - November 21st
+7,LOUISVILLE,331.0,ACC,NR,2015,Cross Country,Men,I,FINAL - November 21st
+8,WASHINGTON,345.0,Pac-12,▲12(LW: 20),2015,Cross Country,Men,I,FINAL - November 21st
+9,MICHIGAN,348.0,Big Ten,▲2(LW: 11),2015,Cross Country,Men,I,FINAL - November 21st
+10,GEORGETOWN,352.0,Big East,▲7(LW: 17),2015,Cross Country,Men,I,FINAL - November 21st
+11,UTEP,354.0,Conference USA,▲16(LW: 27),2015,Cross Country,Men,I,FINAL - November 21st
+12,BYU,406.0,WCC,▲4(LW: 16),2015,Cross Country,Men,I,FINAL - November 21st
+13,FURMAN,423.0,SoCon,▲17(LW: 30),2015,Cross Country,Men,I,FINAL - November 21st
+14,UCLA,429.0,Pac-12,▲4(LW: 18),2015,Cross Country,Men,I,FINAL - November 21st
+15,OKLAHOMA,432.0,Big 12,NR,2015,Cross Country,Men,I,FINAL - November 21st
+16,BOISE STATE,435.0,Mountain West,NR,2015,Cross Country,Men,I,FINAL - November 21st
+17,EASTERN KENTUCKY,446.0,OVC,▲6(LW: 23),2015,Cross Country,Men,I,FINAL - November 21st
+18,OKLAHOMA STATE,450.0,Big 12,▼9(LW: 9),2015,Cross Country,Men,I,FINAL - November 21st
+19,MINNESOTA,464.0,Big Ten,NR,2015,Cross Country,Men,I,FINAL - November 21st
+20,TULSA,468.0,American,▲5(LW: 25),2015,Cross Country,Men,I,FINAL - November 21st
+21,SOUTHERN UTAH,477.0,Big Sky,▲1(LW: 22),2015,Cross Country,Men,I,FINAL - November 21st
+22,VIRGINIA,480.0,ACC,▼1(LW: 21),2015,Cross Country,Men,I,FINAL - November 21st
+23,CALIFORNIA,524.0,Pac-12,NR,2015,Cross Country,Men,I,FINAL - November 21st
+24,PENN,526.0,Ivy League,NR,2015,Cross Country,Men,I,FINAL - November 21st
+25,MICHIGAN STATE,543.0,Big Ten,▼1(LW: 24),2015,Cross Country,Men,I,FINAL - November 21st
+26,WASHINGTON STATE,547.0,Pac-12,NR,2015,Cross Country,Men,I,FINAL - November 21st
+27,VIRGINIA TECH,581.0,ACC,NR,2015,Cross Country,Men,I,FINAL - November 21st
+28,NC STATE,596.0,ACC,NR,2015,Cross Country,Men,I,FINAL - November 21st
+29,FLORIDA STATE,598.0,ACC,▲2(LW: 31),2015,Cross Country,Men,I,FINAL - November 21st
+30,OLE MISS,607.0,SEC,▼1(LW: 29),2015,Cross Country,Men,I,FINAL - November 21st
+31,TEXAS,833.0,Big 12,▼5(LW: 26),2015,Cross Country,Men,I,FINAL - November 21st
+1,NEW MEXICO,49.0,Mountain West,▲2(LW: 3),2015,Cross Country,Women,I,FINAL - November 21st
+2,COLORADO,129.0,Pac-12,▲5(LW: 7),2015,Cross Country,Women,I,FINAL - November 21st
+3,OREGON,214.0,Pac-12,▲3(LW: 6),2015,Cross Country,Women,I,FINAL - November 21st
+4,PROVIDENCE,231.0,Big East,▲9(LW: 13),2015,Cross Country,Women,I,FINAL - November 21st
+5,NC STATE,264.0,ACC,▲11(LW: 16),2015,Cross Country,Women,I,FINAL - November 21st
+6,MICHIGAN,264.0,Big Ten,▲12(LW: 18),2015,Cross Country,Women,I,FINAL - November 21st
+7,OKLAHOMA STATE,274.0,Big 12,NR,2015,Cross Country,Women,I,FINAL - November 21st
+8,NOTRE DAME,276.0,ACC,▲21(LW: 29),2015,Cross Country,Women,I,FINAL - November 21st
+9,ARKANSAS,276.0,SEC,▼4(LW: 5),2015,Cross Country,Women,I,FINAL - November 21st
+10,WASHINGTON,297.0,Pac-12,▲13(LW: 23),2015,Cross Country,Women,I,FINAL - November 21st
+11,BOISE STATE,330.0,Mountain West,◀▶(LW: 11),2015,Cross Country,Women,I,FINAL - November 21st
+12,SYRACUSE,359.0,ACC,▲12(LW: 24),2015,Cross Country,Women,I,FINAL - November 21st
+13,MICHIGAN STATE,368.0,Big Ten,▼12(LW: 1),2015,Cross Country,Women,I,FINAL - November 21st
+14,STANFORD,379.0,Pac-12,◀▶(LW: 14),2015,Cross Country,Women,I,FINAL - November 21st
+15,VIRGINIA,386.0,ACC,◀▶(LW: 15),2015,Cross Country,Women,I,FINAL - November 21st
+16,PENN STATE,396.0,Big Ten,NR,2015,Cross Country,Women,I,FINAL - November 21st
+17,MISSISSIPPI STATE,405.0,SEC,NR,2015,Cross Country,Women,I,FINAL - November 21st
+18,MINNESOTA,471.0,Big Ten,▲13(LW: 31),2015,Cross Country,Women,I,FINAL - November 21st
+19,VANDERBILT,474.0,SEC,▲9(LW: 28),2015,Cross Country,Women,I,FINAL - November 21st
+20,GEORGETOWN,491.0,Big East,▼16(LW: 4),2015,Cross Country,Women,I,FINAL - November 21st
+21,PRINCETON,524.0,Ivy League,NR,2015,Cross Country,Women,I,FINAL - November 21st
+22,WEBER STATE,558.0,Big Sky,NR,2015,Cross Country,Women,I,FINAL - November 21st
+23,BYU,591.0,WCC,NR,2015,Cross Country,Women,I,FINAL - November 21st
+24,IOWA STATE,591.0,Big 12,▼22(LW: 2),2015,Cross Country,Women,I,FINAL - November 21st
+25,GONZAGA,615.0,WCC,NR,2015,Cross Country,Women,I,FINAL - November 21st
+26,UTAH,618.0,Pac-12,NR,2015,Cross Country,Women,I,FINAL - November 21st
+27,KANSAS,625.0,Big 12,NR,2015,Cross Country,Women,I,FINAL - November 21st
+28,SAN FRANCISCO,636.0,WCC,NR,2015,Cross Country,Women,I,FINAL - November 21st
+29,TULSA,646.0,American,NR,2015,Cross Country,Women,I,FINAL - November 21st
+30,VILLANOVA,667.0,Big East,NR,2015,Cross Country,Women,I,FINAL - November 21st
+31,TEXAS,828.0,Big 12,NR,2015,Cross Country,Women,I,FINAL - November 21st
+1,COLORADO,65.0,Pac-12,◀▶(LW: 1),2014,Cross Country,Men,I,FINAL - November 22nd
+2,STANFORD,98.0,Pac-12,▲17(LW: 19),2014,Cross Country,Men,I,FINAL - November 22nd
+3,PORTLAND,175.0,WCC,▲4(LW: 7),2014,Cross Country,Men,I,FINAL - November 22nd
+4,NORTHERN ARIZONA,188.0,Big Sky,▼2(LW: 2),2014,Cross Country,Men,I,FINAL - November 22nd
+5,SYRACUSE,206.0,ACC,▲5(LW: 10),2014,Cross Country,Men,I,FINAL - November 22nd
+6,OREGON,221.0,Pac-12,▼1(LW: 5),2014,Cross Country,Men,I,FINAL - November 22nd
+7,VILLANOVA,230.0,Big East,▲11(LW: 18),2014,Cross Country,Men,I,FINAL - November 22nd
+8,IONA,270.0,Metro Atlantic,▼2(LW: 6),2014,Cross Country,Men,I,FINAL - November 22nd
+9,OKLAHOMA STATE,296.0,Big 12,▼6(LW: 3),2014,Cross Country,Men,I,FINAL - November 22nd
+10,WISCONSIN,335.0,Big Ten,▼1(LW: 9),2014,Cross Country,Men,I,FINAL - November 22nd
+11,MICHIGAN,365.0,Big Ten,▲10(LW: 21),2014,Cross Country,Men,I,FINAL - November 22nd
+12,NORTH CAROLINA,380.0,ACC,▲5(LW: 17),2014,Cross Country,Men,I,FINAL - November 22nd
+13,PROVIDENCE,393.0,Big East,▲3(LW: 16),2014,Cross Country,Men,I,FINAL - November 22nd
+14,NEW MEXICO,394.0,Mountain West,▼3(LW: 11),2014,Cross Country,Men,I,FINAL - November 22nd
+15,INDIANA,416.0,Big Ten,▼7(LW: 8),2014,Cross Country,Men,I,FINAL - November 22nd
+16,BYU,437.0,WCC,▼12(LW: 4),2014,Cross Country,Men,I,FINAL - November 22nd
+17,GEORGETOWN,444.0,Big East,NR,2014,Cross Country,Men,I,FINAL - November 22nd
+18,UCLA,454.0,Pac-12,NR,2014,Cross Country,Men,I,FINAL - November 22nd
+19,COLORADO STATE,468.0,Mountain West,▲7(LW: 26),2014,Cross Country,Men,I,FINAL - November 22nd
+20,WASHINGTON,479.0,Pac-12,NR,2014,Cross Country,Men,I,FINAL - November 22nd
+21,VIRGINIA,502.0,ACC,▼8(LW: 13),2014,Cross Country,Men,I,FINAL - November 22nd
+22,SOUTHERN UTAH,578.0,Big Sky,NR,2014,Cross Country,Men,I,FINAL - November 22nd
+23,EASTERN KENTUCKY,579.0,OVC,▼8(LW: 15),2014,Cross Country,Men,I,FINAL - November 22nd
+24,MICHIGAN STATE,583.0,Big Ten,NR,2014,Cross Country,Men,I,FINAL - November 22nd
+25,TULSA,584.0,American,▲2(LW: 27),2014,Cross Country,Men,I,FINAL - November 22nd
+26,TEXAS,615.0,Big 12,▼12(LW: 14),2014,Cross Country,Men,I,FINAL - November 22nd
+27,UTEP,629.0,Conference USA,NR,2014,Cross Country,Men,I,FINAL - November 22nd
+28,ARKANSAS,647.0,SEC,▼16(LW: 12),2014,Cross Country,Men,I,FINAL - November 22nd
+29,OLE MISS,685.0,SEC,NR,2014,Cross Country,Men,I,FINAL - November 22nd
+30,FURMAN,747.0,SoCon,NR,2014,Cross Country,Men,I,FINAL - November 22nd
+31,FLORIDA STATE,822.0,ACC,NR,2014,Cross Country,Men,I,FINAL - November 22nd
+1,MICHIGAN STATE,85.0,Big Ten,▲5(LW: 6),2014,Cross Country,Women,I,FINAL - November 22nd
+2,IOWA STATE,147.0,Big 12,▲11(LW: 13),2014,Cross Country,Women,I,FINAL - November 22nd
+3,NEW MEXICO,188.0,Mountain West,▲7(LW: 10),2014,Cross Country,Women,I,FINAL - November 22nd
+4,GEORGETOWN,189.0,Big East,▲1(LW: 5),2014,Cross Country,Women,I,FINAL - November 22nd
+5,ARKANSAS,209.0,SEC,▲10(LW: 15),2014,Cross Country,Women,I,FINAL - November 22nd
+6,OREGON,249.0,Pac-12,▲8(LW: 14),2014,Cross Country,Women,I,FINAL - November 22nd
+7,COLORADO,267.0,Pac-12,◀▶(LW: 7),2014,Cross Country,Women,I,FINAL - November 22nd
+8,WEST VIRGINIA,277.0,Big 12,▲16(LW: 24),2014,Cross Country,Women,I,FINAL - November 22nd
+9,IONA,377.0,Metro Atlantic,NR,2014,Cross Country,Women,I,FINAL - November 22nd
+10,WISCONSIN,382.0,Big Ten,▲11(LW: 21),2014,Cross Country,Women,I,FINAL - November 22nd
+11,BOISE STATE,392.0,Mountain West,NR,2014,Cross Country,Women,I,FINAL - November 22nd
+12,FLORIDA STATE,393.0,ACC,▼4(LW: 8),2014,Cross Country,Women,I,FINAL - November 22nd
+13,PROVIDENCE,401.0,Big East,▼12(LW: 1),2014,Cross Country,Women,I,FINAL - November 22nd
+14,STANFORD,415.0,Pac-12,▼3(LW: 11),2014,Cross Country,Women,I,FINAL - November 22nd
+15,VIRGINIA,433.0,ACC,▼6(LW: 9),2014,Cross Country,Women,I,FINAL - November 22nd
+16,NC STATE,456.0,ACC,NR,2014,Cross Country,Women,I,FINAL - November 22nd
+17,WILLIAM & MARY,463.0,Colonial,▼5(LW: 12),2014,Cross Country,Women,I,FINAL - November 22nd
+18,MICHIGAN,474.0,Big Ten,▼14(LW: 4),2014,Cross Country,Women,I,FINAL - November 22nd
+19,BAYLOR,479.0,Big 12,NR,2014,Cross Country,Women,I,FINAL - November 22nd
+20,DARTMOUTH,508.0,Ivy League,▼4(LW: 16),2014,Cross Country,Women,I,FINAL - November 22nd
+21,BOSTON COLLEGE,514.0,ACC,NR,2014,Cross Country,Women,I,FINAL - November 22nd
+22,NORTH CAROLINA,515.0,ACC,NR,2014,Cross Country,Women,I,FINAL - November 22nd
+23,WASHINGTON,559.0,Pac-12,▼6(LW: 17),2014,Cross Country,Women,I,FINAL - November 22nd
+24,SYRACUSE,559.0,ACC,▼2(LW: 22),2014,Cross Country,Women,I,FINAL - November 22nd
+25,VIRGINIA TECH,574.0,ACC,NR,2014,Cross Country,Women,I,FINAL - November 22nd
+26,OHIO STATE,577.0,Big Ten,NR,2014,Cross Country,Women,I,FINAL - November 22nd
+27,UCLA,582.0,Pac-12,NR,2014,Cross Country,Women,I,FINAL - November 22nd
+28,VANDERBILT,598.0,SEC,▼1(LW: 27),2014,Cross Country,Women,I,FINAL - November 22nd
+29,NOTRE DAME,609.0,ACC,◀▶(LW: 29),2014,Cross Country,Women,I,FINAL - November 22nd
+30,TOLEDO,613.0,Mid-American,NR,2014,Cross Country,Women,I,FINAL - November 22nd
+31,MINNESOTA,663.0,Big Ten,▼11(LW: 20),2014,Cross Country,Women,I,FINAL - November 22nd
+1,COLORADO,149.0,Pac-12,▲2(LW: 3),2013,Cross Country,Men,I,FINAL - November 23rd
+2,NORTHERN ARIZONA,169.0,Big Sky,▲2(LW: 4),2013,Cross Country,Men,I,FINAL - November 23rd
+3,OKLAHOMA STATE,230.0,Big 12,▼2(LW: 1),2013,Cross Country,Men,I,FINAL - November 23rd
+4,BYU,267.0,WCC,▲2(LW: 6),2013,Cross Country,Men,I,FINAL - November 23rd
+5,OREGON,274.0,Pac-12,▲15(LW: 20),2013,Cross Country,Men,I,FINAL - November 23rd
+6,IONA,284.0,Metro Atlantic,▲23(LW: 29),2013,Cross Country,Men,I,FINAL - November 23rd
+7,PORTLAND,293.0,WCC,▲5(LW: 12),2013,Cross Country,Men,I,FINAL - November 23rd
+8,INDIANA,306.0,Big Ten,▲10(LW: 18),2013,Cross Country,Men,I,FINAL - November 23rd
+9,WISCONSIN,326.0,Big Ten,▼7(LW: 2),2013,Cross Country,Men,I,FINAL - November 23rd
+10,SYRACUSE,329.0,ACC,▲5(LW: 15),2013,Cross Country,Men,I,FINAL - November 23rd
+11,NEW MEXICO,334.0,Mountain West,▲10(LW: 21),2013,Cross Country,Men,I,FINAL - November 23rd
+12,ARKANSAS,340.0,SEC,▼2(LW: 10),2013,Cross Country,Men,I,FINAL - November 23rd
+13,VIRGINIA,370.0,ACC,▲1(LW: 14),2013,Cross Country,Men,I,FINAL - November 23rd
+14,TEXAS,376.0,Big 12,▼5(LW: 9),2013,Cross Country,Men,I,FINAL - November 23rd
+15,EASTERN KENTUCKY,380.0,OVC,▲9(LW: 24),2013,Cross Country,Men,I,FINAL - November 23rd
+16,PROVIDENCE,396.0,Big East,NR,2013,Cross Country,Men,I,FINAL - November 23rd
+17,NORTH CAROLINA,403.0,ACC,NR,2013,Cross Country,Men,I,FINAL - November 23rd
+18,VILLANOVA,415.0,Big East,▲9(LW: 27),2013,Cross Country,Men,I,FINAL - November 23rd
+19,STANFORD,417.0,Pac-12,▼3(LW: 16),2013,Cross Country,Men,I,FINAL - November 23rd
+20,AIR FORCE,419.0,Mountain West,NR,2013,Cross Country,Men,I,FINAL - November 23rd
+21,MICHIGAN,433.0,Big Ten,▲2(LW: 23),2013,Cross Country,Men,I,FINAL - November 23rd
+22,PRINCETON,469.0,Ivy League,▼11(LW: 11),2013,Cross Country,Men,I,FINAL - November 23rd
+23,NOTRE DAME,484.0,ACC,▲5(LW: 28),2013,Cross Country,Men,I,FINAL - November 23rd
+24,DARTMOUTH,551.0,Ivy League,NR,2013,Cross Country,Men,I,FINAL - November 23rd
+25,COLUMBIA,580.0,Ivy League,▼8(LW: 17),2013,Cross Country,Men,I,FINAL - November 23rd
+26,COLORADO STATE,606.0,Mountain West,NR,2013,Cross Country,Men,I,FINAL - November 23rd
+27,TULSA,628.0,Conference USA,▼20(LW: 7),2013,Cross Country,Men,I,FINAL - November 23rd
+28,NC STATE,630.0,ACC,▼2(LW: 26),2013,Cross Country,Men,I,FINAL - November 23rd
+29,FLORIDA,654.0,SEC,NR,2013,Cross Country,Men,I,FINAL - November 23rd
+30,HARVARD,678.0,Ivy League,NR,2013,Cross Country,Men,I,FINAL - November 23rd
+31,GEORGIA,690.0,SEC,▼12(LW: 19),2013,Cross Country,Men,I,FINAL - November 23rd
+1,PROVIDENCE,141.0,Big East,▲1(LW: 2),2013,Cross Country,Women,I,FINAL - November 23rd
+2,ARIZONA,197.0,Pac-12,▲4(LW: 6),2013,Cross Country,Women,I,FINAL - November 23rd
+3,BUTLER,200.0,Big East,▲26(LW: 29),2013,Cross Country,Women,I,FINAL - November 23rd
+4,MICHIGAN,215.0,Big Ten,▲1(LW: 5),2013,Cross Country,Women,I,FINAL - November 23rd
+5,GEORGETOWN,226.0,Big East,▲7(LW: 12),2013,Cross Country,Women,I,FINAL - November 23rd
+6,MICHIGAN STATE,236.0,Big Ten,▲10(LW: 16),2013,Cross Country,Women,I,FINAL - November 23rd
+7,COLORADO,265.0,Pac-12,▲17(LW: 24),2013,Cross Country,Women,I,FINAL - November 23rd
+8,FLORIDA STATE,278.0,ACC,▼4(LW: 4),2013,Cross Country,Women,I,FINAL - November 23rd
+9,VIRGINIA,283.0,ACC,NR,2013,Cross Country,Women,I,FINAL - November 23rd
+10,NEW MEXICO,301.0,Mountain West,◀▶(LW: 10),2013,Cross Country,Women,I,FINAL - November 23rd
+11,STANFORD,322.0,Pac-12,▼8(LW: 3),2013,Cross Country,Women,I,FINAL - November 23rd
+12,WILLIAM & MARY,326.0,Colonial,▲9(LW: 21),2013,Cross Country,Women,I,FINAL - November 23rd
+13,IOWA STATE,333.0,Big 12,▼2(LW: 11),2013,Cross Country,Women,I,FINAL - November 23rd
+14,OREGON,340.0,Pac-12,▼13(LW: 1),2013,Cross Country,Women,I,FINAL - November 23rd
+15,ARKANSAS,340.0,SEC,▲3(LW: 18),2013,Cross Country,Women,I,FINAL - November 23rd
+16,DARTMOUTH,369.0,Ivy League,NR,2013,Cross Country,Women,I,FINAL - November 23rd
+17,WASHINGTON,376.0,Pac-12,▼8(LW: 9),2013,Cross Country,Women,I,FINAL - November 23rd
+18,SAN FRANCISCO,385.0,WCC,NR,2013,Cross Country,Women,I,FINAL - November 23rd
+19,VILLANOVA,397.0,Big East,▲1(LW: 20),2013,Cross Country,Women,I,FINAL - November 23rd
+20,MINNESOTA,406.0,Big Ten,▲2(LW: 22),2013,Cross Country,Women,I,FINAL - November 23rd
+21,WISCONSIN,489.0,Big Ten,NR,2013,Cross Country,Women,I,FINAL - November 23rd
+22,SYRACUSE,516.0,ACC,NR,2013,Cross Country,Women,I,FINAL - November 23rd
+23,CORNELL,569.0,Ivy League,▼10(LW: 13),2013,Cross Country,Women,I,FINAL - November 23rd
+24,WEST VIRGINIA,621.0,Big 12,NR,2013,Cross Country,Women,I,FINAL - November 23rd
+25,PENN STATE,640.0,Big Ten,▼11(LW: 14),2013,Cross Country,Women,I,FINAL - November 23rd
+26,INDIANA,673.0,Big Ten,NR,2013,Cross Country,Women,I,FINAL - November 23rd
+27,VANDERBILT,676.0,SEC,◀▶(LW: 27),2013,Cross Country,Women,I,FINAL - November 23rd
+28,BYU,687.0,WCC,NR,2013,Cross Country,Women,I,FINAL - November 23rd
+29,NOTRE DAME,688.0,ACC,▼14(LW: 15),2013,Cross Country,Women,I,FINAL - November 23rd
+30,PRINCETON,704.0,Ivy League,NR,2013,Cross Country,Women,I,FINAL - November 23rd
+31,SMU,790.0,American,NR,2013,Cross Country,Women,I,FINAL - November 23rd
+1,OKLAHOMA STATE,72.0,Big 12,▲1(LW: 2),2012,Cross Country,Men,I,FINAL - November 17th
+2,WISCONSIN,135.0,Big Ten,▼1(LW: 1),2012,Cross Country,Men,I,FINAL - November 17th
+3,COLORADO,158.0,Pac-12,◀▶(LW: 3),2012,Cross Country,Men,I,FINAL - November 17th
+4,NORTHERN ARIZONA,191.0,Big Sky,▲10(LW: 14),2012,Cross Country,Men,I,FINAL - November 17th
+5,FLORIDA STATE,238.0,ACC,▲7(LW: 12),2012,Cross Country,Men,I,FINAL - November 17th
+6,BYU,245.0,WCC,▼2(LW: 4),2012,Cross Country,Men,I,FINAL - November 17th
+7,TULSA,247.0,Conference USA,▲18(LW: 25),2012,Cross Country,Men,I,FINAL - November 17th
+8,OKLAHOMA,262.0,Big 12,▼2(LW: 6),2012,Cross Country,Men,I,FINAL - November 17th
+9,TEXAS,291.0,Big 12,▲2(LW: 11),2012,Cross Country,Men,I,FINAL - November 17th
+10,ARKANSAS,327.0,SEC,NR,2012,Cross Country,Men,I,FINAL - November 17th
+11,PRINCETON,358.0,Ivy League,▲8(LW: 19),2012,Cross Country,Men,I,FINAL - November 17th
+12,PORTLAND,365.0,WCC,▼4(LW: 8),2012,Cross Country,Men,I,FINAL - November 17th
+13,UCLA,376.0,Pac-12,NR,2012,Cross Country,Men,I,FINAL - November 17th
+14,VIRGINIA,382.0,ACC,NR,2012,Cross Country,Men,I,FINAL - November 17th
+15,SYRACUSE,405.0,Big East (1st Ed.),◀▶(LW: 15),2012,Cross Country,Men,I,FINAL - November 17th
+16,STANFORD,408.0,Pac-12,▼11(LW: 5),2012,Cross Country,Men,I,FINAL - November 17th
+17,COLUMBIA,439.0,Ivy League,▲10(LW: 27),2012,Cross Country,Men,I,FINAL - November 17th
+18,INDIANA,456.0,Big Ten,▼11(LW: 7),2012,Cross Country,Men,I,FINAL - November 17th
+19,GEORGIA,466.0,SEC,▲10(LW: 29),2012,Cross Country,Men,I,FINAL - November 17th
+20,OREGON,472.0,Pac-12,NR,2012,Cross Country,Men,I,FINAL - November 17th
+21,NEW MEXICO,473.0,Mountain West,▲10(LW: 31),2012,Cross Country,Men,I,FINAL - November 17th
+22,VIRGINIA TECH,516.0,ACC,NR,2012,Cross Country,Men,I,FINAL - November 17th
+23,MICHIGAN,518.0,Big Ten,▼3(LW: 20),2012,Cross Country,Men,I,FINAL - November 17th
+24,EASTERN KENTUCKY,522.0,OVC,▲2(LW: 26),2012,Cross Country,Men,I,FINAL - November 17th
+25,GEORGETOWN,534.0,Big East (1st Ed.),▼8(LW: 17),2012,Cross Country,Men,I,FINAL - November 17th
+26,NC STATE,550.0,ACC,▼16(LW: 10),2012,Cross Country,Men,I,FINAL - November 17th
+27,VILLANOVA,588.0,Big East (1st Ed.),▼14(LW: 13),2012,Cross Country,Men,I,FINAL - November 17th
+28,NOTRE DAME,591.0,Big East (1st Ed.),▼4(LW: 24),2012,Cross Country,Men,I,FINAL - November 17th
+29,IONA,626.0,Metro Atlantic,▼20(LW: 9),2012,Cross Country,Men,I,FINAL - November 17th
+30,DUKE,725.0,ACC,NR,2012,Cross Country,Men,I,FINAL - November 17th
+31,MICHIGAN STATE,755.0,Big Ten,NR,2012,Cross Country,Men,I,FINAL - November 17th
+1,OREGON,114.0,Pac-12,▲4(LW: 5),2012,Cross Country,Women,I,FINAL - November 17th
+2,PROVIDENCE,183.0,Big East (1st Ed.),NR,2012,Cross Country,Women,I,FINAL - November 17th
+3,STANFORD,198.0,Pac-12,▲7(LW: 10),2012,Cross Country,Women,I,FINAL - November 17th
+4,FLORIDA STATE,202.0,ACC,◀▶(LW: 4),2012,Cross Country,Women,I,FINAL - November 17th
+5,MICHIGAN,247.0,Big Ten,▲10(LW: 15),2012,Cross Country,Women,I,FINAL - November 17th
+6,ARIZONA,263.0,Pac-12,▲13(LW: 19),2012,Cross Country,Women,I,FINAL - November 17th
+7,DUKE,300.0,ACC,NR,2012,Cross Country,Women,I,FINAL - November 17th
+8,CONNECTICUT,304.0,Big East (1st Ed.),NR,2012,Cross Country,Women,I,FINAL - November 17th
+9,WASHINGTON,334.0,Pac-12,▼7(LW: 2),2012,Cross Country,Women,I,FINAL - November 17th
+10,NEW MEXICO,341.0,Mountain West,▼1(LW: 9),2012,Cross Country,Women,I,FINAL - November 17th
+11,IOWA STATE,350.0,Big 12,▼4(LW: 7),2012,Cross Country,Women,I,FINAL - November 17th
+12,GEORGETOWN,381.0,Big East (1st Ed.),▼11(LW: 1),2012,Cross Country,Women,I,FINAL - November 17th
+13,CORNELL,385.0,Ivy League,NR,2012,Cross Country,Women,I,FINAL - November 17th
+14,PENN STATE,387.0,Big Ten,▼1(LW: 13),2012,Cross Country,Women,I,FINAL - November 17th
+15,NOTRE DAME,394.0,Big East (1st Ed.),▲7(LW: 22),2012,Cross Country,Women,I,FINAL - November 17th
+16,MICHIGAN STATE,422.0,Big Ten,◀▶(LW: 16),2012,Cross Country,Women,I,FINAL - November 17th
+17,WEBER STATE,428.0,Big Sky,▲12(LW: 29),2012,Cross Country,Women,I,FINAL - November 17th
+18,ARKANSAS,449.0,SEC,▼4(LW: 14),2012,Cross Country,Women,I,FINAL - November 17th
+19,BOSTON COLLEGE,462.0,ACC,▼7(LW: 12),2012,Cross Country,Women,I,FINAL - November 17th
+20,VILLANOVA,475.0,Big East (1st Ed.),▼17(LW: 3),2012,Cross Country,Women,I,FINAL - November 17th
+21,WILLIAM & MARY,481.0,Colonial,NR,2012,Cross Country,Women,I,FINAL - November 17th
+22,MINNESOTA,500.0,Big Ten,▲5(LW: 27),2012,Cross Country,Women,I,FINAL - November 17th
+23,FLORIDA,518.0,SEC,NR,2012,Cross Country,Women,I,FINAL - November 17th
+24,COLORADO,519.0,Pac-12,▼13(LW: 11),2012,Cross Country,Women,I,FINAL - November 17th
+25,TEXAS,526.0,Big 12,▲1(LW: 26),2012,Cross Country,Women,I,FINAL - November 17th
+26,OKLAHOMA STATE,565.0,Big 12,▲4(LW: 30),2012,Cross Country,Women,I,FINAL - November 17th
+27,VANDERBILT,611.0,SEC,▼21(LW: 6),2012,Cross Country,Women,I,FINAL - November 17th
+28,TOLEDO,613.0,Mid-American,▼7(LW: 21),2012,Cross Country,Women,I,FINAL - November 17th
+29,BUTLER,636.0,Atlantic 10,NR,2012,Cross Country,Women,I,FINAL - November 17th
+30,GEORGIA,642.0,SEC,NR,2012,Cross Country,Women,I,FINAL - November 17th
+31,HARVARD,676.0,Ivy League,NR,2012,Cross Country,Women,I,FINAL - November 17th
+1,WISCONSIN,97.0,Big Ten,▲2(LW: 3),2011,Cross Country,Men,I,FINAL - November 21st
+2,OKLAHOMA STATE,139.0,Big 12,▼1(LW: 1),2011,Cross Country,Men,I,FINAL - November 21st
+3,COLORADO,144.0,Pac-12,▲12(LW: 15),2011,Cross Country,Men,I,FINAL - November 21st
+4,BYU,203.0,WCC,▲14(LW: 18),2011,Cross Country,Men,I,FINAL - November 21st
+5,STANFORD,207.0,Pac-12,▼1(LW: 4),2011,Cross Country,Men,I,FINAL - November 21st
+6,OKLAHOMA,213.0,Big 12,▼1(LW: 5),2011,Cross Country,Men,I,FINAL - November 21st
+7,INDIANA,257.0,Big Ten,◀▶(LW: 7),2011,Cross Country,Men,I,FINAL - November 21st
+8,PORTLAND,259.0,WCC,▲5(LW: 13),2011,Cross Country,Men,I,FINAL - November 21st
+9,IONA,265.0,Metro Atlantic,▼1(LW: 8),2011,Cross Country,Men,I,FINAL - November 21st
+10,NC STATE,282.0,ACC,▲10(LW: 20),2011,Cross Country,Men,I,FINAL - November 21st
+11,TEXAS,341.0,Big 12,▲15(LW: 26),2011,Cross Country,Men,I,FINAL - November 21st
+12,FLORIDA STATE,348.0,ACC,▼10(LW: 2),2011,Cross Country,Men,I,FINAL - November 21st
+13,VILLANOVA,352.0,Big East (1st Ed.),▲10(LW: 23),2011,Cross Country,Men,I,FINAL - November 21st
+14,NORTHERN ARIZONA,374.0,Big Sky,▼5(LW: 9),2011,Cross Country,Men,I,FINAL - November 21st
+15,SYRACUSE,395.0,Big East (1st Ed.),▼1(LW: 14),2011,Cross Country,Men,I,FINAL - November 21st
+16,MINNESOTA,441.0,Big Ten,▲11(LW: 27),2011,Cross Country,Men,I,FINAL - November 21st
+17,GEORGETOWN,468.0,Big East (1st Ed.),▲12(LW: 29),2011,Cross Country,Men,I,FINAL - November 21st
+18,TEXAS A&M,471.0,Big 12,NR,2011,Cross Country,Men,I,FINAL - November 21st
+19,PRINCETON,474.0,Ivy League,▼7(LW: 12),2011,Cross Country,Men,I,FINAL - November 21st
+20,MICHIGAN,511.0,Big Ten,NR,2011,Cross Country,Men,I,FINAL - November 21st
+21,WASHINGTON STATE,512.0,Pac-12,NR,2011,Cross Country,Men,I,FINAL - November 21st
+22,PROVIDENCE,530.0,Big East (1st Ed.),◀▶(LW: 22),2011,Cross Country,Men,I,FINAL - November 21st
+23,OHIO STATE,538.0,Big Ten,NR,2011,Cross Country,Men,I,FINAL - November 21st
+24,NOTRE DAME,575.0,Big East (1st Ed.),▲1(LW: 25),2011,Cross Country,Men,I,FINAL - November 21st
+25,TULSA,580.0,Conference USA,NR,2011,Cross Country,Men,I,FINAL - November 21st
+26,EASTERN KENTUCKY,589.0,OVC,NR,2011,Cross Country,Men,I,FINAL - November 21st
+27,COLUMBIA,591.0,Ivy League,NR,2011,Cross Country,Men,I,FINAL - November 21st
+28,CAL POLY,680.0,Big West,NR,2011,Cross Country,Men,I,FINAL - November 21st
+29,GEORGIA,770.0,SEC,NR,2011,Cross Country,Men,I,FINAL - November 21st
+30,FLORIDA,780.0,SEC,NR,2011,Cross Country,Men,I,FINAL - November 21st
+31,NEW MEXICO,885.0,Mountain West,▼15(LW: 16),2011,Cross Country,Men,I,FINAL - November 21st
+1,GEORGETOWN,162.0,Big East (1st Ed.),▲3(LW: 4),2011,Cross Country,Women,I,FINAL - November 21st
+2,WASHINGTON,170.0,Pac-12,▲14(LW: 16),2011,Cross Country,Women,I,FINAL - November 21st
+3,VILLANOVA,181.0,Big East (1st Ed.),▼2(LW: 1),2011,Cross Country,Women,I,FINAL - November 21st
+4,FLORIDA STATE,189.0,ACC,▼2(LW: 2),2011,Cross Country,Women,I,FINAL - November 21st
+5,OREGON,281.0,Pac-12,▲7(LW: 12),2011,Cross Country,Women,I,FINAL - November 21st
+6,VANDERBILT,282.0,SEC,NR,2011,Cross Country,Women,I,FINAL - November 21st
+7,IOWA STATE,290.0,Big 12,▲1(LW: 8),2011,Cross Country,Women,I,FINAL - November 21st
+8,WEST VIRGINIA,297.0,Big East (1st Ed.),NR,2011,Cross Country,Women,I,FINAL - November 21st
+9,NEW MEXICO,322.0,Mountain West,▼4(LW: 5),2011,Cross Country,Women,I,FINAL - November 21st
+10,STANFORD,332.0,Pac-12,▲3(LW: 13),2011,Cross Country,Women,I,FINAL - November 21st
+11,COLORADO,335.0,Pac-12,▼5(LW: 6),2011,Cross Country,Women,I,FINAL - November 21st
+12,BOSTON COLLEGE,347.0,ACC,▲7(LW: 19),2011,Cross Country,Women,I,FINAL - November 21st
+13,PENN STATE,368.0,Big Ten,▲13(LW: 26),2011,Cross Country,Women,I,FINAL - November 21st
+14,ARKANSAS,375.0,SEC,NR,2011,Cross Country,Women,I,FINAL - November 21st
+15,MICHIGAN,383.0,Big Ten,▲7(LW: 22),2011,Cross Country,Women,I,FINAL - November 21st
+16,MICHIGAN STATE,386.0,Big Ten,▲7(LW: 23),2011,Cross Country,Women,I,FINAL - November 21st
+17,SYRACUSE,401.0,Big East (1st Ed.),▼7(LW: 10),2011,Cross Country,Women,I,FINAL - November 21st
+18,CALIFORNIA,433.0,Pac-12,NR,2011,Cross Country,Women,I,FINAL - November 21st
+19,ARIZONA,447.0,Pac-12,▼8(LW: 11),2011,Cross Country,Women,I,FINAL - November 21st
+20,VIRGINIA,466.0,ACC,▲1(LW: 21),2011,Cross Country,Women,I,FINAL - November 21st
+21,TOLEDO,483.0,Mid-American,▲7(LW: 28),2011,Cross Country,Women,I,FINAL - November 21st
+22,NOTRE DAME,512.0,Big East (1st Ed.),NR,2011,Cross Country,Women,I,FINAL - November 21st
+23,NC STATE,518.0,ACC,▲1(LW: 24),2011,Cross Country,Women,I,FINAL - November 21st
+24,WISCONSIN,529.0,Big Ten,NR,2011,Cross Country,Women,I,FINAL - November 21st
+25,SAN FRANCISCO,531.0,WCC,NR,2011,Cross Country,Women,I,FINAL - November 21st
+26,TEXAS,559.0,Big 12,▼6(LW: 20),2011,Cross Country,Women,I,FINAL - November 21st
+27,MINNESOTA,577.0,Big Ten,◀▶(LW: 27),2011,Cross Country,Women,I,FINAL - November 21st
+28,BYU,636.0,WCC,NR,2011,Cross Country,Women,I,FINAL - November 21st
+29,WEBER STATE,647.0,Big Sky,NR,2011,Cross Country,Women,I,FINAL - November 21st
+30,OKLAHOMA STATE,701.0,Big 12,▼13(LW: 17),2011,Cross Country,Women,I,FINAL - November 21st
+31,ARIZONA STATE,752.0,Pac-12,NR,2011,Cross Country,Women,I,FINAL - November 21st
