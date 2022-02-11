@@ -1,0 +1,39 @@
+Project 1
+
+Team members:
+
+Matthew Young: mdy12
+Matthew Harding: mmh178
+Scott Johnson: saj73
+Jude Moukarzel: jjm385
+
+Datasets to be used, with source URLs so we can take a look, and a brief description of the datasets
+
+Why do you want to use this data? What do you wish to explore? We don't expect this to be a final answer, but at least show directional thinking.
+
+
+Data Science Question:
+How do various factors lead to success in Cross Country, Indoor Track, and Outdoor Track in the NCAA?
+
+Dataset Description:
+
+1. United States Track and Field and Cross Country Coaches Association Ranking Data
+https://www.ustfccca.org/
+
+Using web scraping via various URL paths, we collected championship data for the last 10 years for cross country, indoor track, and outdoor track. One notable variable is the change in ranking since the previous week. Here we can analyze which teams performed better in championships based on a variety of factors gatherered below.
+
+Note: to see some of the specific cross country datasets, reference the links below:
+https://www.ustfccca.org/team-rankings-polls-central/polls-rankings-hub?coll=11762
+https://www.ustfccca.org/team-rankings-polls-central/polls-rankings-hub?coll=11763
+https://www.ustfccca.org/team-rankings-polls-central/polls-rankings-hub?coll=10446
+https://www.ustfccca.org/team-rankings-polls-central/polls-rankings-hub?coll=10447
+
+
+2. World Weather Online Historical Weather API
+https://www.worldweatheronline.com/developer/api/docs/historical-weather-api.aspx
+
+After cross-referencing the dates and locations of the NCAA XC Championships from https://www.ustfccca.org/meets-results/meet-history?series=3367, we used this weather API to get a full scope of the weather at the site of the championship based on date and zipCode. Combining this data with the previous data will hopefully provide some trends in which teams performed better in various types of weather.
+
+3. Reddit API
+
+4. Topographical API
