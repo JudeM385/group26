@@ -42,3 +42,8 @@ Using the Reddit API, we collected 100 posts from the subreddit "Track and Field
 The text data was structured and formatted within a dataframe, with the 2 main columns "title" and "body" containing the text content of the posts.
 
 4. Topographical API
+https://portal.opentopography.org/datasets
+https://portal.opentopography.org/usgsDataset?dsid=USGS_LPC_FL_LeonCo_2018_LAS_2019
+
+Using the topograpical API we were able to download elevation data at a location of a known cross country course. The data in this repository is a sample of that data as the full dataset was too large to upload. The data using latitude and longitude to mark elevations determined by lidar technology. There are many differentl locations that we have access to with known cross country courses and we plan to use this data to compare different courses and performances. 
+
