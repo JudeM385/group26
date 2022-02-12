@@ -39,5 +39,6 @@ https://www.reddit.com/r/trackandfield/
 https://www.reddit.com/r/CrossCountry/
 
 Using the Reddit API, we collected 100 posts from the subreddit "Track and Field" and 100 posts from the subreddit "Cross Country". These are trendy, or "hot" posts, which we will use to analyze and assess the public's general feeling and reaction towards the sport and what some of the most talked about factors are. 
+The text data was structured and formatted within a dataframe, with the 2 main columns "title" and "body" containing the text content of the posts.
 
 4. Topographical API
