@@ -35,5 +35,9 @@ https://www.worldweatheronline.com/developer/api/docs/historical-weather-api.asp
 After cross-referencing the dates and locations of the NCAA XC Championships from https://www.ustfccca.org/meets-results/meet-history?series=3367, we used this weather API to get a full scope of the weather at the site of the championship based on date and zipCode. Combining this data with the previous data will hopefully provide some trends in which teams performed better in various types of weather.
 
 3. Reddit API
+https://www.reddit.com/r/trackandfield/
+https://www.reddit.com/r/CrossCountry/
+
+Using the Reddit API, we collected 100 posts from the subreddit "Track and Field" and 100 posts from the subreddit "Cross Country". These are trendy, or "hot" posts, which we will use to analyze and assess the public's general feeling and reaction towards the sport and what some of the most talked about factors are. 
 
 4. Topographical API
