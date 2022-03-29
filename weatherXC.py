@@ -9,6 +9,7 @@ import json
 import requests
 import pandas as pd
 from pandas.io.json import json_normalize
+import re
 
 #Weather v Cross Country
 df_list = []
@@ -38,6 +39,12 @@ weather = pd.concat(df_list)
 
 
 weather = weather.drop(columns={'weatherIconUrl'})
+
+weather['weatherDesc'] = [re.sub(r"[\([{})\]]", "", x) for x in weather['weatherDesc']]
+weather['weatherDesc'] = [re.sub("value",'', x) for x in weather['weatherDesc']]
+weather['weatherDesc'] = [re.sub(":",'', x) for x in weather['weatherDesc']]
+weather['weatherDesc'] = [re.sub("'",'', x) for x in weather['weatherDesc']]
+
 
 weather.to_csv('weather_xc.csv', index=False)
 
