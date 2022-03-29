@@ -18,8 +18,6 @@ df$Change = gsub("◀▶", 0, df$Change)
 df$Change = gsub("▲", "", df$Change)
 df$Change = gsub("▼", "-", df$Change)
 
-
-
 ###Add NR to Previous Rank Column
 df$`Previous Rank` = gsub("LW:", "", df$`Previous Rank`)
 df$`Previous Rank` = gsub("\\)", "", df$`Previous Rank`)
@@ -40,3 +38,27 @@ df<- df[c(1:4, 12, 11, 13, 6:10)]
 
 ## Rename New Change
 df <- df %>% rename(Change = ChangeNew)
+
+## Save csv
+write.csv(df, "updated_xc_rank.csv", row.names=FALSE)
+
+## Now find the sum of the reverse rank in order to see which teams performed really well over the span of the entire 10 years
+df$team_performance<-(32 - df$Rank)
+df$reg_season_performance<-(32 - df$Previous.Rank)
+
+### Summarize by team
+sum_df <- df[c(1:3,5,6,13:14)]
+sum_df <- sum_df %>%
+  group_by(Team) %>%
+  summarize(across(everything(), sum))
+
+## Reduce variables
+sum_df <-sum_df[c(1,6:7)]
+
+## Normalize
+normalized <- function(x) (x- min(x))/(max(x) - min(x))
+sum_df$reverse_rank <- normalized(sum_df$reverse_rank)
+sum_df$reverse_previous <- normalized(sum_df$reverse_previous)
+
+## Write to csv
+write.csv(sum_df, "team_caliber.csv", row.names=FALSE)
