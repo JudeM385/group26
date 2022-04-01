@@ -1,0 +1,682 @@
+"Rank","Team","Points","Conference","Change","Previous.Rank","Previous.Ranking.Class","Year","Season","Gender","Division","Description","elevation","lat","long"
+1,"NORTHERN ARIZONA",92,"Big Sky",0,1,"Ranked",2021,"Cross Country","Men","I","FINAL - November 21st",6893,35.18,-111.654
+2,"IOWA STATE",137,"Big 12",6,8,"Ranked",2021,"Cross Country","Men","I","FINAL - November 21st",899,42.027,-93.647
+3,"OKLAHOMA STATE",186,"Big 12",0,3,"Ranked",2021,"Cross Country","Men","I","FINAL - November 21st",938,36.127,-97.074
+4,"ARKANSAS",195,"SEC",0,4,"Ranked",2021,"Cross Country","Men","I","FINAL - November 21st",1434,36.069,-94.175
+5,"STANFORD",236,"Pac-12",0,5,"Ranked",2021,"Cross Country","Men","I","FINAL - November 21st",89,37.428,-122.17
+6,"TULSA",237,"American",0,6,"Ranked",2021,"Cross Country","Men","I","FINAL - November 21st",778,36.152,-95.946
+7,"BYU",246,"WCC",0,7,"Ranked",2021,"Cross Country","Men","I","FINAL - November 21st",4665,40.252,-111.649
+8,"COLORADO",249,"Pac-12",6,14,"Ranked",2021,"Cross Country","Men","I","FINAL - November 21st",5345,40.001,-105.266
+9,"NOTRE DAME",290,"ACC",-7,2,"Ranked",2021,"Cross Country","Men","I","FINAL - November 21st",725,41.699,-86.239
+10,"WAKE FOREST",356,"ACC",5,15,"Ranked",2021,"Cross Country","Men","I","FINAL - November 21st",955,36.136,-80.279
+11,"WISCONSIN",361,"Big Ten",7,18,"Ranked",2021,"Cross Country","Men","I","FINAL - November 21st",883,43.077,-89.413
+12,"HARVARD",364,"Ivy League",20,32,"Unranked",2021,"Cross Country","Men","I","FINAL - November 21st",10,42.377,-71.117
+13,"WASHINGTON",373,"Pac-12",12,25,"Ranked",2021,"Cross Country","Men","I","FINAL - November 21st",95,47.236,-122.55
+14,"TEXAS",393,"Big 12",18,32,"Unranked",2021,"Cross Country","Men","I","FINAL - November 21st",522,30.285,-97.734
+15,"OLE MISS",395,"SEC",-3,12,"Ranked",2021,"Cross Country","Men","I","FINAL - November 21st",509,34.365,-89.538
+16,"PORTLAND",430,"WCC",5,21,"Ranked",2021,"Cross Country","Men","I","FINAL - November 21st",33,45.573,-122.728
+17,"AIR FORCE",453,"Mountain West",2,19,"Ranked",2021,"Cross Country","Men","I","FINAL - November 21st",6788,38.998,-104.862
+18,"NORTH CAROLINA",460,"ACC",14,32,"Unranked",2021,"Cross Country","Men","I","FINAL - November 21st",440,35.905,-79.047
+19,"SYRACUSE",485,"ACC",11,30,"Ranked",2021,"Cross Country","Men","I","FINAL - November 21st",551,43.039,-76.135
+20,"FLORIDA STATE",517,"ACC",12,32,"Unranked",2021,"Cross Country","Men","I","FINAL - November 21st",79,30.442,-84.299
+21,"MINNESOTA",518,"Big Ten",11,32,"Unranked",2021,"Cross Country","Men","I","FINAL - November 21st",830,44.974,-93.228
+22,"GEORGETOWN",566,"Big East",0,22,"Ranked",2021,"Cross Country","Men","I","FINAL - November 21st",141,38.908,-77.072
+23,"PRINCETON",567,"Ivy League",9,32,"Unranked",2021,"Cross Country","Men","I","FINAL - November 21st",125,40.343,-74.655
+24,"SOUTHERN UTAH",573,"Big Sky",-15,9,"Ranked",2021,"Cross Country","Men","I","FINAL - November 21st",5807,37.676,-113.072
+25,"MICHIGAN",588,"Big Ten",7,32,"Unranked",2021,"Cross Country","Men","I","FINAL - November 21st",879,42.278,-83.738
+26,"GONZAGA",612,"WCC",1,27,"Ranked",2021,"Cross Country","Men","I","FINAL - November 21st",1909,47.667,-117.401
+27,"ALABAMA",640,"SEC",5,32,"Unranked",2021,"Cross Country","Men","I","FINAL - November 21st",222,33.214,-87.539
+28,"BUTLER",643,"Big East",-15,13,"Ranked",2021,"Cross Country","Men","I","FINAL - November 21st",755,39.841,-86.171
+29,"OREGON",655,"Pac-12",3,32,"Unranked",2021,"Cross Country","Men","I","FINAL - November 21st",446,44.045,-123.073
+30,"MICHIGAN STATE",681,"Big Ten",-13,17,"Ranked",2021,"Cross Country","Men","I","FINAL - November 21st",863,42.702,-84.482
+31,"FURMAN",688,"SoCon",-7,24,"Ranked",2021,"Cross Country","Men","I","FINAL - November 21st",1027,34.926,-82.44
+1,"NC STATE",84,"ACC",1,2,"Ranked",2021,"Cross Country","Women","I","FINAL - November 21st",404,35.785,-78.682
+2,"BYU",122,"WCC",-1,1,"Ranked",2021,"Cross Country","Women","I","FINAL - November 21st",4665,40.252,-111.649
+3,"NEW MEXICO",130,"Mountain West",3,6,"Ranked",2021,"Cross Country","Women","I","FINAL - November 21st",5174,35.084,-106.62
+4,"COLORADO",187,"Pac-12",3,7,"Ranked",2021,"Cross Country","Women","I","FINAL - November 21st",5345,40.001,-105.266
+5,"NOTRE DAME",215,"ACC",27,32,"Unranked",2021,"Cross Country","Women","I","FINAL - November 21st",725,41.699,-86.239
+6,"STANFORD",233,"Pac-12",-3,3,"Ranked",2021,"Cross Country","Women","I","FINAL - November 21st",89,37.428,-122.17
+7,"MINNESOTA",313,"Big Ten",-2,5,"Ranked",2021,"Cross Country","Women","I","FINAL - November 21st",830,44.974,-93.228
+8,"ARKANSAS",328,"SEC",2,10,"Ranked",2021,"Cross Country","Women","I","FINAL - November 21st",1434,36.069,-94.175
+9,"IOWA STATE",332,"Big 12",16,25,"Ranked",2021,"Cross Country","Women","I","FINAL - November 21st",899,42.027,-93.647
+10,"OLE MISS",350,"SEC",2,12,"Ranked",2021,"Cross Country","Women","I","FINAL - November 21st",509,34.365,-89.538
+11,"WASHINGTON",366,"Pac-12",2,13,"Ranked",2021,"Cross Country","Women","I","FINAL - November 21st",95,47.236,-122.55
+12,"WISCONSIN",376,"Big Ten",20,32,"Unranked",2021,"Cross Country","Women","I","FINAL - November 21st",883,43.077,-89.413
+13,"OKLAHOMA STATE",404,"Big 12",11,24,"Ranked",2021,"Cross Country","Women","I","FINAL - November 21st",938,36.127,-97.074
+14,"NORTH CAROLINA",405,"ACC",0,14,"Ranked",2021,"Cross Country","Women","I","FINAL - November 21st",440,35.905,-79.047
+15,"ALABAMA",428,"SEC",-7,8,"Ranked",2021,"Cross Country","Women","I","FINAL - November 21st",222,33.214,-87.539
+16,"MICHIGAN STATE",438,"Big Ten",-12,4,"Ranked",2021,"Cross Country","Women","I","FINAL - November 21st",863,42.702,-84.482
+17,"COLORADO STATE",455,"Mountain West",6,23,"Ranked",2021,"Cross Country","Women","I","FINAL - November 21st",5003,40.573,-105.087
+18,"GEORGETOWN",464,"Big East",0,18,"Ranked",2021,"Cross Country","Women","I","FINAL - November 21st",141,38.908,-77.072
+19,"FLORIDA STATE",468,"ACC",-4,15,"Ranked",2021,"Cross Country","Women","I","FINAL - November 21st",79,30.442,-84.299
+20,"UTAH",483,"Pac-12",12,32,"Unranked",2021,"Cross Country","Women","I","FINAL - November 21st",4783,40.765,-111.842
+21,"WEST VIRGINIA",489,"Big 12",8,29,"Ranked",2021,"Cross Country","Women","I","FINAL - November 21st",912,39.648,-79.97
+22,"MICHIGAN",500,"Big Ten",-5,17,"Ranked",2021,"Cross Country","Women","I","FINAL - November 21st",879,42.278,-83.738
+23,"NORTHERN ARIZONA",532,"Big Sky",-12,11,"Ranked",2021,"Cross Country","Women","I","FINAL - November 21st",6893,35.18,-111.654
+24,"OREGON",534,"Pac-12",8,32,"Unranked",2021,"Cross Country","Women","I","FINAL - November 21st",446,44.045,-123.073
+25,"HARVARD",541,"Ivy League",7,32,"Unranked",2021,"Cross Country","Women","I","FINAL - November 21st",10,42.377,-71.117
+26,"PROVIDENCE",594,"Big East",6,32,"Unranked",2021,"Cross Country","Women","I","FINAL - November 21st",151,41.844,-71.435
+27,"VILLANOVA",605,"Big East",5,32,"Unranked",2021,"Cross Country","Women","I","FINAL - November 21st",459,40.037,-75.343
+28,"UTAH STATE",638,"Mountain West",4,32,"Unranked",2021,"Cross Country","Women","I","FINAL - November 21st",4787,41.745,-111.81
+29,"BUTLER",660,"Big East",3,32,"Unranked",2021,"Cross Country","Women","I","FINAL - November 21st",755,39.841,-86.171
+30,"SYRACUSE",768,"ACC",2,32,"Unranked",2021,"Cross Country","Women","I","FINAL - November 21st",551,43.039,-76.135
+31,"RICE",811,"Conference USA",1,32,"Unranked",2021,"Cross Country","Women","I","FINAL - November 21st",46,29.717,-95.402
+1,"NORTHERN ARIZONA",60,"Big Sky",1,2,"Ranked",2020,"Cross Country","Men","I","FINAL - March 15th",6893,35.18,-111.654
+2,"NOTRE DAME",87,"ACC",7,9,"Ranked",2020,"Cross Country","Men","I","FINAL - March 15th",725,41.699,-86.239
+3,"OKLAHOMA STATE",142,"Big 12",3,6,"Ranked",2020,"Cross Country","Men","I","FINAL - March 15th",938,36.127,-97.074
+4,"ARKANSAS",181,"SEC",-1,3,"Ranked",2020,"Cross Country","Men","I","FINAL - March 15th",1434,36.069,-94.175
+5,"STANFORD",194,"Pac-12",-1,4,"Ranked",2020,"Cross Country","Men","I","FINAL - March 15th",89,37.428,-122.17
+6,"TULSA",237,"American",-1,5,"Ranked",2020,"Cross Country","Men","I","FINAL - March 15th",778,36.152,-95.946
+7,"BYU",254,"WCC",-6,1,"Ranked",2020,"Cross Country","Men","I","FINAL - March 15th",4665,40.252,-111.649
+8,"IOWA STATE",265,"Big 12",-1,7,"Ranked",2020,"Cross Country","Men","I","FINAL - March 15th",899,42.027,-93.647
+9,"SOUTHERN UTAH",270,"Big Sky",17,26,"Ranked",2020,"Cross Country","Men","I","FINAL - March 15th",5807,37.676,-113.072
+10,"IONA",311,"Metro Atlantic",2,12,"Ranked",2020,"Cross Country","Men","I","FINAL - March 15th",59,40.927,-73.786
+11,"UTAH STATE",351,"Mountain West",10,21,"Ranked",2020,"Cross Country","Men","I","FINAL - March 15th",4787,41.745,-111.81
+12,"OLE MISS",373,"SEC",3,15,"Ranked",2020,"Cross Country","Men","I","FINAL - March 15th",509,34.365,-89.538
+13,"BUTLER",379,"Big East",9,22,"Ranked",2020,"Cross Country","Men","I","FINAL - March 15th",755,39.841,-86.171
+14,"COLORADO",398,"Pac-12",-6,8,"Ranked",2020,"Cross Country","Men","I","FINAL - March 15th",5345,40.001,-105.266
+15,"WAKE FOREST",425,"ACC",5,20,"Ranked",2020,"Cross Country","Men","I","FINAL - March 15th",955,36.136,-80.279
+16,"DUKE",462,"ACC",16,32,"Unranked",2020,"Cross Country","Men","I","FINAL - March 15th",394,36.001,-78.938
+17,"MICHIGAN STATE",463,"Big Ten",11,28,"Ranked",2020,"Cross Country","Men","I","FINAL - March 15th",863,42.702,-84.482
+18,"WISCONSIN",464,"Big Ten",-7,11,"Ranked",2020,"Cross Country","Men","I","FINAL - March 15th",883,43.077,-89.413
+19,"AIR FORCE",464,"Mountain West",0,19,"Ranked",2020,"Cross Country","Men","I","FINAL - March 15th",6788,38.998,-104.862
+20,"VILLANOVA",468,"Big East",12,32,"Unranked",2020,"Cross Country","Men","I","FINAL - March 15th",459,40.037,-75.343
+21,"PORTLAND",472,"WCC",-4,17,"Ranked",2020,"Cross Country","Men","I","FINAL - March 15th",33,45.573,-122.728
+22,"GEORGETOWN",528,"Big East",10,32,"Unranked",2020,"Cross Country","Men","I","FINAL - March 15th",141,38.908,-77.072
+23,"NC STATE",547,"ACC",-10,13,"Ranked",2020,"Cross Country","Men","I","FINAL - March 15th",404,35.785,-78.682
+24,"FURMAN",560,"SoCon",8,32,"Unranked",2020,"Cross Country","Men","I","FINAL - March 15th",1027,34.926,-82.44
+25,"WASHINGTON",568,"Pac-12",-15,10,"Ranked",2020,"Cross Country","Men","I","FINAL - March 15th",95,47.236,-122.55
+26,"INDIANA",572,"Big Ten",-9,17,"Ranked",2020,"Cross Country","Men","I","FINAL - March 15th",771,39.178,-86.513
+27,"GONZAGA",591,"WCC",-13,14,"Ranked",2020,"Cross Country","Men","I","FINAL - March 15th",1909,47.667,-117.401
+28,"CHARLOTTE",634,"Conference USA",2,30,"Ranked",2020,"Cross Country","Men","I","FINAL - March 15th",761,35.307,-80.735
+29,"PURDUE",741,"Big Ten",-5,24,"Ranked",2020,"Cross Country","Men","I","FINAL - March 15th",623,40.424,-86.921
+30,"SYRACUSE",761,"ACC",-5,25,"Ranked",2020,"Cross Country","Men","I","FINAL - March 15th",551,43.039,-76.135
+1,"BYU",96,"WCC",1,2,"Ranked",2020,"Cross Country","Women","I","FINAL - March 15th",4665,40.252,-111.649
+2,"NC STATE",161,"ACC",3,5,"Ranked",2020,"Cross Country","Women","I","FINAL - March 15th",404,35.785,-78.682
+3,"STANFORD",207,"Pac-12",1,4,"Ranked",2020,"Cross Country","Women","I","FINAL - March 15th",89,37.428,-122.17
+4,"MICHIGAN STATE",212,"Big Ten",3,7,"Ranked",2020,"Cross Country","Women","I","FINAL - March 15th",863,42.702,-84.482
+5,"MINNESOTA",239,"Big Ten",6,11,"Ranked",2020,"Cross Country","Women","I","FINAL - March 15th",830,44.974,-93.228
+6,"NEW MEXICO",274,"Mountain West",-3,3,"Ranked",2020,"Cross Country","Women","I","FINAL - March 15th",5174,35.084,-106.62
+7,"COLORADO",279,"Pac-12",-1,6,"Ranked",2020,"Cross Country","Women","I","FINAL - March 15th",5345,40.001,-105.266
+8,"ALABAMA",280,"SEC",5,13,"Ranked",2020,"Cross Country","Women","I","FINAL - March 15th",222,33.214,-87.539
+9,"BOISE STATE",304,"Mountain West",1,10,"Ranked",2020,"Cross Country","Women","I","FINAL - March 15th",2730,43.603,-116.206
+10,"ARKANSAS",316,"SEC",-9,1,"Ranked",2020,"Cross Country","Women","I","FINAL - March 15th",1434,36.069,-94.175
+11,"NORTHERN ARIZONA",318,"Big Sky",-2,9,"Ranked",2020,"Cross Country","Women","I","FINAL - March 15th",6893,35.18,-111.654
+12,"OLE MISS",325,"SEC",14,26,"Ranked",2020,"Cross Country","Women","I","FINAL - March 15th",509,34.365,-89.538
+13,"WASHINGTON",330,"Pac-12",-1,12,"Ranked",2020,"Cross Country","Women","I","FINAL - March 15th",95,47.236,-122.55
+14,"NORTH CAROLINA",354,"ACC",18,32,"Unranked",2020,"Cross Country","Women","I","FINAL - March 15th",440,35.905,-79.047
+15,"FLORIDA STATE",363,"ACC",3,18,"Ranked",2020,"Cross Country","Women","I","FINAL - March 15th",79,30.442,-84.299
+16,"OREGON STATE",375,"Pac-12",7,23,"Ranked",2020,"Cross Country","Women","I","FINAL - March 15th",246,44.564,-123.279
+17,"MICHIGAN",400,"Big Ten",-9,8,"Ranked",2020,"Cross Country","Women","I","FINAL - March 15th",879,42.278,-83.738
+18,"GEORGETOWN",494,"Big East",3,21,"Ranked",2020,"Cross Country","Women","I","FINAL - March 15th",141,38.908,-77.072
+19,"INDIANA",494,"Big Ten",-2,17,"Ranked",2020,"Cross Country","Women","I","FINAL - March 15th",771,39.178,-86.513
+20,"GEORGIA TECH",508,"ACC",-5,15,"Ranked",2020,"Cross Country","Women","I","FINAL - March 15th",928,33.776,-84.396
+21,"ILLINOIS",521,"Big Ten",-5,16,"Ranked",2020,"Cross Country","Women","I","FINAL - March 15th",751,40.102,-88.227
+22,"PORTLAND",522,"WCC",-2,20,"Ranked",2020,"Cross Country","Women","I","FINAL - March 15th",33,45.573,-122.728
+23,"COLORADO STATE",532,"Mountain West",9,32,"Unranked",2020,"Cross Country","Women","I","FINAL - March 15th",5003,40.573,-105.087
+24,"OKLAHOMA STATE",535,"Big 12",-2,22,"Ranked",2020,"Cross Country","Women","I","FINAL - March 15th",938,36.127,-97.074
+25,"IOWA STATE",580,"Big 12",-1,24,"Ranked",2020,"Cross Country","Women","I","FINAL - March 15th",899,42.027,-93.647
+26,"LIBERTY",611,"ASUN",6,32,"Unranked",2020,"Cross Country","Women","I","FINAL - March 15th",925,37.353,-79.177
+27,"DUKE",625,"ACC",-8,19,"Ranked",2020,"Cross Country","Women","I","FINAL - March 15th",394,36.001,-78.938
+28,"TULSA",650,"American",4,32,"Unranked",2020,"Cross Country","Women","I","FINAL - March 15th",778,36.152,-95.946
+29,"WEST VIRGINIA",668,"Big 12",-2,27,"Ranked",2020,"Cross Country","Women","I","FINAL - March 15th",912,39.648,-79.97
+30,"SAN FRANCISCO",688,"WCC",-3,27,"Ranked",2020,"Cross Country","Women","I","FINAL - March 15th",335,37.777,-122.451
+31,"FURMAN",761,"SoCon",-17,14,"Ranked",2020,"Cross Country","Women","I","FINAL - March 15th",1027,34.926,-82.44
+1,"BYU",109,"WCC",1,2,"Ranked",2019,"Cross Country","Men","I","FINAL - November 23rd",4665,40.252,-111.649
+2,"NORTHERN ARIZONA",163,"Big Sky",-1,1,"Ranked",2019,"Cross Country","Men","I","FINAL - November 23rd",6893,35.18,-111.654
+3,"COLORADO",164,"Pac-12",1,4,"Ranked",2019,"Cross Country","Men","I","FINAL - November 23rd",5345,40.001,-105.266
+4,"IOWA STATE",211,"Big 12",3,7,"Ranked",2019,"Cross Country","Men","I","FINAL - November 23rd",899,42.027,-93.647
+5,"TULSA",243,"American",25,30,"Ranked",2019,"Cross Country","Men","I","FINAL - November 23rd",778,36.152,-95.946
+6,"STANFORD",248,"Pac-12",-1,5,"Ranked",2019,"Cross Country","Men","I","FINAL - November 23rd",89,37.428,-122.17
+7,"MICHIGAN",250,"Big Ten",12,19,"Ranked",2019,"Cross Country","Men","I","FINAL - November 23rd",879,42.278,-83.738
+8,"NOTRE DAME",269,"ACC",6,14,"Ranked",2019,"Cross Country","Men","I","FINAL - November 23rd",725,41.699,-86.239
+9,"OREGON",307,"Pac-12",6,15,"Ranked",2019,"Cross Country","Men","I","FINAL - November 23rd",446,44.045,-123.073
+10,"PORTLAND",314,"WCC",-7,3,"Ranked",2019,"Cross Country","Men","I","FINAL - November 23rd",33,45.573,-122.728
+11,"PURDUE",338,"Big Ten",18,29,"Ranked",2019,"Cross Country","Men","I","FINAL - November 23rd",623,40.424,-86.921
+12,"IONA",348,"Metro Atlantic",16,28,"Ranked",2019,"Cross Country","Men","I","FINAL - November 23rd",59,40.927,-73.786
+13,"INDIANA",367,"Big Ten",5,18,"Ranked",2019,"Cross Country","Men","I","FINAL - November 23rd",771,39.178,-86.513
+14,"FURMAN",379,"SoCon",18,32,"Unranked",2019,"Cross Country","Men","I","FINAL - November 23rd",1027,34.926,-82.44
+15,"HARVARD",384,"Ivy League",17,32,"Unranked",2019,"Cross Country","Men","I","FINAL - November 23rd",10,42.377,-71.117
+16,"UTAH STATE",428,"Mountain West",16,32,"Unranked",2019,"Cross Country","Men","I","FINAL - November 23rd",4787,41.745,-111.81
+17,"VIRGINIA TECH",451,"ACC",15,32,"Unranked",2019,"Cross Country","Men","I","FINAL - November 23rd",2064,37.228,-80.423
+18,"WISCONSIN",462,"Big Ten",-10,8,"Ranked",2019,"Cross Country","Men","I","FINAL - November 23rd",883,43.077,-89.413
+19,"WASHINGTON",466,"Pac-12",-13,6,"Ranked",2019,"Cross Country","Men","I","FINAL - November 23rd",95,47.236,-122.55
+20,"VIRGINIA",468,"ACC",12,32,"Unranked",2019,"Cross Country","Men","I","FINAL - November 23rd",568,38.034,-78.508
+21,"BOISE STATE",525,"Mountain West",-11,10,"Ranked",2019,"Cross Country","Men","I","FINAL - November 23rd",2730,43.603,-116.206
+22,"OLE MISS",535,"SEC",-5,17,"Ranked",2019,"Cross Country","Men","I","FINAL - November 23rd",509,34.365,-89.538
+23,"VILLANOVA",556,"Big East",0,23,"Ranked",2019,"Cross Country","Men","I","FINAL - November 23rd",459,40.037,-75.343
+24,"ALABAMA",582,"SEC",8,32,"Unranked",2019,"Cross Country","Men","I","FINAL - November 23rd",222,33.214,-87.539
+25,"TEXAS",588,"Big 12",2,27,"Ranked",2019,"Cross Country","Men","I","FINAL - November 23rd",522,30.285,-97.734
+26,"NC STATE",605,"ACC",-15,11,"Ranked",2019,"Cross Country","Men","I","FINAL - November 23rd",404,35.785,-78.682
+27,"SYRACUSE",610,"ACC",-1,26,"Ranked",2019,"Cross Country","Men","I","FINAL - November 23rd",551,43.039,-76.135
+28,"GEORGETOWN",676,"Big East",4,32,"Unranked",2019,"Cross Country","Men","I","FINAL - November 23rd",141,38.908,-77.072
+29,"FLORIDA STATE",694,"ACC",2,31,"Ranked",2019,"Cross Country","Men","I","FINAL - November 23rd",79,30.442,-84.299
+30,"ARKANSAS",728,"SEC",-5,25,"Ranked",2019,"Cross Country","Men","I","FINAL - November 23rd",1434,36.069,-94.175
+31,"MIDDLE TENNESSEE",865,"Conference USA",1,32,"Unranked",2019,"Cross Country","Men","I","FINAL - November 23rd",627,35.849,-86.365
+1,"ARKANSAS",96,"SEC",13,14,"Ranked",2019,"Cross Country","Women","I","FINAL - November 23rd",1434,36.069,-94.175
+2,"BYU",102,"WCC",5,7,"Ranked",2019,"Cross Country","Women","I","FINAL - November 23rd",4665,40.252,-111.649
+3,"STANFORD",123,"Pac-12",2,5,"Ranked",2019,"Cross Country","Women","I","FINAL - November 23rd",89,37.428,-122.17
+4,"NEW MEXICO",168,"Mountain West",-2,2,"Ranked",2019,"Cross Country","Women","I","FINAL - November 23rd",5174,35.084,-106.62
+5,"NC STATE",190,"ACC",8,13,"Ranked",2019,"Cross Country","Women","I","FINAL - November 23rd",404,35.785,-78.682
+6,"MICHIGAN STATE",209,"Big Ten",5,11,"Ranked",2019,"Cross Country","Women","I","FINAL - November 23rd",863,42.702,-84.482
+7,"WISCONSIN",235,"Big Ten",3,10,"Ranked",2019,"Cross Country","Women","I","FINAL - November 23rd",883,43.077,-89.413
+8,"AIR FORCE",259,"Mountain West",24,32,"Unranked",2019,"Cross Country","Women","I","FINAL - November 23rd",6788,38.998,-104.862
+9,"FURMAN",290,"SoCon",14,23,"Ranked",2019,"Cross Country","Women","I","FINAL - November 23rd",1027,34.926,-82.44
+10,"COLORADO",294,"Pac-12",-9,1,"Ranked",2019,"Cross Country","Women","I","FINAL - November 23rd",5345,40.001,-105.266
+11,"WASHINGTON",296,"Pac-12",-2,9,"Ranked",2019,"Cross Country","Women","I","FINAL - November 23rd",95,47.236,-122.55
+12,"FLORIDA STATE",308,"ACC",14,26,"Ranked",2019,"Cross Country","Women","I","FINAL - November 23rd",79,30.442,-84.299
+13,"MICHIGAN",395,"Big Ten",-9,4,"Ranked",2019,"Cross Country","Women","I","FINAL - November 23rd",879,42.278,-83.738
+14,"NORTHERN ARIZONA",406,"Big Sky",18,32,"Unranked",2019,"Cross Country","Women","I","FINAL - November 23rd",6893,35.18,-111.654
+15,"NOTRE DAME",415,"ACC",-7,8,"Ranked",2019,"Cross Country","Women","I","FINAL - November 23rd",725,41.699,-86.239
+16,"UTAH",471,"Pac-12",16,32,"Unranked",2019,"Cross Country","Women","I","FINAL - November 23rd",4783,40.765,-111.842
+17,"BOISE STATE",474,"Mountain West",-11,6,"Ranked",2019,"Cross Country","Women","I","FINAL - November 23rd",2730,43.603,-116.206
+18,"PENN STATE",482,"Big Ten",2,20,"Ranked",2019,"Cross Country","Women","I","FINAL - November 23rd",1148,40.798,-77.86
+19,"INDIANA",509,"Big Ten",-2,17,"Ranked",2019,"Cross Country","Women","I","FINAL - November 23rd",771,39.178,-86.513
+20,"BOSTON COLLEGE",514,"ACC",12,32,"Unranked",2019,"Cross Country","Women","I","FINAL - November 23rd",154,42.336,-71.169
+21,"OLE MISS",541,"SEC",1,22,"Ranked",2019,"Cross Country","Women","I","FINAL - November 23rd",509,34.365,-89.538
+22,"ILLINOIS",549,"Big Ten",10,32,"Unranked",2019,"Cross Country","Women","I","FINAL - November 23rd",751,40.102,-88.227
+23,"OHIO STATE",566,"Big Ten",9,32,"Unranked",2019,"Cross Country","Women","I","FINAL - November 23rd",741,40.001,-83.031
+24,"VILLANOVA",575,"Big East",0,24,"Ranked",2019,"Cross Country","Women","I","FINAL - November 23rd",459,40.037,-75.343
+25,"TULSA",584,"American",7,32,"Unranked",2019,"Cross Country","Women","I","FINAL - November 23rd",778,36.152,-95.946
+26,"OREGON",618,"Pac-12",-23,3,"Ranked",2019,"Cross Country","Women","I","FINAL - November 23rd",446,44.045,-123.073
+27,"COLUMBIA",624,"Ivy League",-9,18,"Ranked",2019,"Cross Country","Women","I","FINAL - November 23rd",138,40.808,-73.963
+28,"MINNESOTA",691,"Big Ten",1,29,"Ranked",2019,"Cross Country","Women","I","FINAL - November 23rd",830,44.974,-93.228
+29,"CORNELL",693,"Ivy League",3,32,"Unranked",2019,"Cross Country","Women","I","FINAL - November 23rd",896,42.453,-76.474
+30,"TEXAS",713,"Big 12",1,31,"Ranked",2019,"Cross Country","Women","I","FINAL - November 23rd",522,30.285,-97.734
+31,"HARVARD",787,"Ivy League",1,32,"Unranked",2019,"Cross Country","Women","I","FINAL - November 23rd",10,42.377,-71.117
+1,"NORTHERN ARIZONA",83,"Big Sky",0,1,"Ranked",2018,"Cross Country","Men","I","FINAL - November 17th",6893,35.18,-111.654
+2,"BYU",116,"WCC",1,3,"Ranked",2018,"Cross Country","Men","I","FINAL - November 17th",4665,40.252,-111.649
+3,"PORTLAND",160,"WCC",-1,2,"Ranked",2018,"Cross Country","Men","I","FINAL - November 17th",33,45.573,-122.728
+4,"COLORADO",178,"Pac-12",4,8,"Ranked",2018,"Cross Country","Men","I","FINAL - November 17th",5345,40.001,-105.266
+5,"STANFORD",201,"Pac-12",-1,4,"Ranked",2018,"Cross Country","Men","I","FINAL - November 17th",89,37.428,-122.17
+6,"WASHINGTON",213,"Pac-12",16,22,"Ranked",2018,"Cross Country","Men","I","FINAL - November 17th",95,47.236,-122.55
+7,"IOWA STATE",220,"Big 12",0,7,"Ranked",2018,"Cross Country","Men","I","FINAL - November 17th",899,42.027,-93.647
+8,"WISCONSIN",240,"Big Ten",24,32,"Unranked",2018,"Cross Country","Men","I","FINAL - November 17th",883,43.077,-89.413
+9,"COLORADO STATE",309,"Mountain West",0,9,"Ranked",2018,"Cross Country","Men","I","FINAL - November 17th",5003,40.573,-105.087
+10,"BOISE STATE",342,"Mountain West",9,19,"Ranked",2018,"Cross Country","Men","I","FINAL - November 17th",2730,43.603,-116.206
+11,"NC STATE",342,"ACC",6,17,"Ranked",2018,"Cross Country","Men","I","FINAL - November 17th",404,35.785,-78.682
+12,"WYOMING",371,"Mountain West",20,32,"Unranked",2018,"Cross Country","Men","I","FINAL - November 17th",7234,41.315,-105.567
+13,"OKLAHOMA STATE",378,"Big 12",16,29,"Ranked",2018,"Cross Country","Men","I","FINAL - November 17th",938,36.127,-97.074
+14,"NOTRE DAME",401,"ACC",18,32,"Unranked",2018,"Cross Country","Men","I","FINAL - November 17th",725,41.699,-86.239
+15,"OREGON",407,"Pac-12",-9,6,"Ranked",2018,"Cross Country","Men","I","FINAL - November 17th",446,44.045,-123.073
+16,"EASTERN KENTUCKY",430,"OVC",16,32,"Unranked",2018,"Cross Country","Men","I","FINAL - November 17th",1004,37.735,-84.299
+17,"OLE MISS",431,"SEC",1,18,"Ranked",2018,"Cross Country","Men","I","FINAL - November 17th",509,34.365,-89.538
+18,"INDIANA",469,"Big Ten",14,32,"Unranked",2018,"Cross Country","Men","I","FINAL - November 17th",771,39.178,-86.513
+19,"MICHIGAN",483,"Big Ten",-9,10,"Ranked",2018,"Cross Country","Men","I","FINAL - November 17th",879,42.278,-83.738
+20,"AIR FORCE",498,"Mountain West",-5,15,"Ranked",2018,"Cross Country","Men","I","FINAL - November 17th",6788,38.998,-104.862
+21,"SOUTHERN UTAH",523,"Big Sky",-10,11,"Ranked",2018,"Cross Country","Men","I","FINAL - November 17th",5807,37.676,-113.072
+22,"PRINCETON",557,"Ivy League",6,28,"Ranked",2018,"Cross Country","Men","I","FINAL - November 17th",125,40.343,-74.655
+23,"VILLANOVA",577,"Big East",9,32,"Unranked",2018,"Cross Country","Men","I","FINAL - November 17th",459,40.037,-75.343
+24,"BRADLEY",580,"Missouri Valley",8,32,"Unranked",2018,"Cross Country","Men","I","FINAL - November 17th",183,40.6978,-89.615
+25,"ARKANSAS",602,"SEC",-20,5,"Ranked",2018,"Cross Country","Men","I","FINAL - November 17th",1434,36.069,-94.175
+26,"SYRACUSE",603,"ACC",-13,13,"Ranked",2018,"Cross Country","Men","I","FINAL - November 17th",551,43.039,-76.135
+27,"TEXAS",630,"Big 12",3,30,"Ranked",2018,"Cross Country","Men","I","FINAL - November 17th",522,30.285,-97.734
+28,"IONA",634,"Metro Atlantic",-16,12,"Ranked",2018,"Cross Country","Men","I","FINAL - November 17th",59,40.927,-73.786
+29,"PURDUE",702,"Big Ten",3,32,"Unranked",2018,"Cross Country","Men","I","FINAL - November 17th",623,40.424,-86.921
+30,"TULSA",777,"American",2,32,"Unranked",2018,"Cross Country","Men","I","FINAL - November 17th",778,36.152,-95.946
+31,"FLORIDA STATE",845,"ACC",1,32,"Unranked",2018,"Cross Country","Men","I","FINAL - November 17th",79,30.442,-84.299
+1,"COLORADO",65,"Pac-12",2,3,"Ranked",2018,"Cross Country","Women","I","FINAL - November 17th",5345,40.001,-105.266
+2,"NEW MEXICO",103,"Mountain West",-1,1,"Ranked",2018,"Cross Country","Women","I","FINAL - November 17th",5174,35.084,-106.62
+3,"OREGON",160,"Pac-12",2,5,"Ranked",2018,"Cross Country","Women","I","FINAL - November 17th",446,44.045,-123.073
+4,"MICHIGAN",213,"Big Ten",5,9,"Ranked",2018,"Cross Country","Women","I","FINAL - November 17th",879,42.278,-83.738
+5,"STANFORD",232,"Pac-12",-1,4,"Ranked",2018,"Cross Country","Women","I","FINAL - November 17th",89,37.428,-122.17
+6,"BOISE STATE",288,"Mountain West",0,6,"Ranked",2018,"Cross Country","Women","I","FINAL - November 17th",2730,43.603,-116.206
+7,"BYU",310,"WCC",4,11,"Ranked",2018,"Cross Country","Women","I","FINAL - November 17th",4665,40.252,-111.649
+8,"NOTRE DAME",313,"ACC",24,32,"Unranked",2018,"Cross Country","Women","I","FINAL - November 17th",725,41.699,-86.239
+9,"WASHINGTON",321,"Pac-12",12,21,"Ranked",2018,"Cross Country","Women","I","FINAL - November 17th",95,47.236,-122.55
+10,"WISCONSIN",325,"Big Ten",0,10,"Ranked",2018,"Cross Country","Women","I","FINAL - November 17th",883,43.077,-89.413
+11,"MICHIGAN STATE",341,"Big Ten",4,15,"Ranked",2018,"Cross Country","Women","I","FINAL - November 17th",863,42.702,-84.482
+12,"PORTLAND",344,"WCC",20,32,"Unranked",2018,"Cross Country","Women","I","FINAL - November 17th",33,45.573,-122.728
+13,"NC STATE",367,"ACC",-5,8,"Ranked",2018,"Cross Country","Women","I","FINAL - November 17th",404,35.785,-78.682
+14,"ARKANSAS",398,"SEC",-1,13,"Ranked",2018,"Cross Country","Women","I","FINAL - November 17th",1434,36.069,-94.175
+15,"IOWA STATE",403,"Big 12",5,20,"Ranked",2018,"Cross Country","Women","I","FINAL - November 17th",899,42.027,-93.647
+16,"FLORIDA",455,"SEC",16,32,"Unranked",2018,"Cross Country","Women","I","FINAL - November 17th",102,29.644,-82.355
+17,"INDIANA",455,"Big Ten",7,24,"Ranked",2018,"Cross Country","Women","I","FINAL - November 17th",771,39.178,-86.513
+18,"COLUMBIA",468,"Ivy League",10,28,"Ranked",2018,"Cross Country","Women","I","FINAL - November 17th",138,40.808,-73.963
+19,"OKLAHOMA STATE",481,"Big 12",11,30,"Ranked",2018,"Cross Country","Women","I","FINAL - November 17th",938,36.127,-97.074
+20,"PENN STATE",482,"Big Ten",-2,18,"Ranked",2018,"Cross Country","Women","I","FINAL - November 17th",1148,40.798,-77.86
+21,"PRINCETON",488,"Ivy League",11,32,"Unranked",2018,"Cross Country","Women","I","FINAL - November 17th",125,40.343,-74.655
+22,"OLE MISS",509,"SEC",3,25,"Ranked",2018,"Cross Country","Women","I","FINAL - November 17th",509,34.365,-89.538
+23,"FURMAN",527,"SoCon",-16,7,"Ranked",2018,"Cross Country","Women","I","FINAL - November 17th",1027,34.926,-82.44
+24,"VILLANOVA",547,"Big East",-12,12,"Ranked",2018,"Cross Country","Women","I","FINAL - November 17th",459,40.037,-75.343
+25,"SOUTHERN UTAH",564,"Big Sky",7,32,"Unranked",2018,"Cross Country","Women","I","FINAL - November 17th",5807,37.676,-113.072
+26,"FLORIDA STATE",584,"ACC",6,32,"Unranked",2018,"Cross Country","Women","I","FINAL - November 17th",79,30.442,-84.299
+27,"OREGON STATE",600,"Pac-12",5,32,"Unranked",2018,"Cross Country","Women","I","FINAL - November 17th",246,44.564,-123.279
+28,"GEORGIA TECH",653,"ACC",4,32,"Unranked",2018,"Cross Country","Women","I","FINAL - November 17th",928,33.776,-84.396
+29,"MINNESOTA",673,"Big Ten",-10,19,"Ranked",2018,"Cross Country","Women","I","FINAL - November 17th",830,44.974,-93.228
+30,"DARTMOUTH",751,"Ivy League",-1,29,"Ranked",2018,"Cross Country","Women","I","FINAL - November 17th",541,43.7044,-72.289
+31,"TEXAS",862,"Big 12",0,31,"Ranked",2018,"Cross Country","Women","I","FINAL - November 17th",522,30.285,-97.734
+1,"NORTHERN ARIZONA",74,"Big Sky",0,1,"Ranked",2017,"Cross Country","Men","I","FINAL - November 18th",6893,35.18,-111.654
+2,"PORTLAND",127,"West Coast",11,13,"Ranked",2017,"Cross Country","Men","I","FINAL - November 18th",33,45.573,-122.728
+3,"BYU",165,"West Coast",4,7,"Ranked",2017,"Cross Country","Men","I","FINAL - November 18th",4665,40.252,-111.649
+4,"STANFORD",221,"Pac-12",-2,2,"Ranked",2017,"Cross Country","Men","I","FINAL - November 18th",89,37.428,-122.17
+5,"ARKANSAS",259,"SEC",0,5,"Ranked",2017,"Cross Country","Men","I","FINAL - November 18th",1434,36.069,-94.175
+6,"OREGON",274,"Pac-12",3,9,"Ranked",2017,"Cross Country","Men","I","FINAL - November 18th",446,44.045,-123.073
+7,"IOWA STATE",279,"Big 12",9,16,"Ranked",2017,"Cross Country","Men","I","FINAL - November 18th",899,42.027,-93.647
+8,"COLORADO",294,"Pac-12",-2,6,"Ranked",2017,"Cross Country","Men","I","FINAL - November 18th",5345,40.001,-105.266
+9,"COLORADO STATE",318,"Mountain West",8,17,"Ranked",2017,"Cross Country","Men","I","FINAL - November 18th",5003,40.573,-105.087
+10,"MICHIGAN",328,"Big Ten",22,32,"Unranked",2017,"Cross Country","Men","I","FINAL - November 18th",879,42.278,-83.738
+11,"SOUTHERN UTAH",334,"Big Sky",16,27,"Ranked",2017,"Cross Country","Men","I","FINAL - November 18th",5807,37.676,-113.072
+12,"IONA",373,"Metro Atlantic",-2,10,"Ranked",2017,"Cross Country","Men","I","FINAL - November 18th",59,40.927,-73.786
+13,"SYRACUSE",406,"ACC",-10,3,"Ranked",2017,"Cross Country","Men","I","FINAL - November 18th",551,43.039,-76.135
+14,"ALABAMA",420,"SEC",18,32,"Unranked",2017,"Cross Country","Men","I","FINAL - November 18th",222,33.214,-87.539
+15,"AIR FORCE",429,"Mountain West",17,32,"Unranked",2017,"Cross Country","Men","I","FINAL - November 18th",6788,38.998,-104.862
+16,"VIRGINIA",436,"ACC",2,18,"Ranked",2017,"Cross Country","Men","I","FINAL - November 18th",568,38.034,-78.508
+17,"NC STATE",455,"ACC",5,22,"Ranked",2017,"Cross Country","Men","I","FINAL - November 18th",404,35.785,-78.682
+18,"OLE MISS",465,"SEC",-14,4,"Ranked",2017,"Cross Country","Men","I","FINAL - November 18th",509,34.365,-89.538
+19,"BOISE STATE",475,"Mountain West",0,19,"Ranked",2017,"Cross Country","Men","I","FINAL - November 18th",2730,43.603,-116.206
+20,"VIRGINIA TECH",481,"ACC",12,32,"Unranked",2017,"Cross Country","Men","I","FINAL - November 18th",2064,37.228,-80.423
+21,"UCLA",485,"Pac-12",-6,15,"Ranked",2017,"Cross Country","Men","I","FINAL - November 18th",377,34.069,-118.445
+22,"WASHINGTON",488,"Pac-12",10,32,"Unranked",2017,"Cross Country","Men","I","FINAL - November 18th",95,47.236,-122.55
+23,"MIDDLE TENNESSEE",513,"Conference USA",5,28,"Ranked",2017,"Cross Country","Men","I","FINAL - November 18th",627,35.849,-86.365
+24,"WASHINGTON STATE",539,"Pac-12",-10,14,"Ranked",2017,"Cross Country","Men","I","FINAL - November 18th",2598,46.732,-117.154
+25,"MICHIGAN STATE",590,"Big Ten",-5,20,"Ranked",2017,"Cross Country","Men","I","FINAL - November 18th",863,42.702,-84.482
+26,"FURMAN",603,"SoCon",6,32,"Unranked",2017,"Cross Country","Men","I","FINAL - November 18th",1027,34.926,-82.44
+27,"UTAH STATE",603,"Mountain West",5,32,"Unranked",2017,"Cross Country","Men","I","FINAL - November 18th",4787,41.745,-111.81
+28,"PRINCETON",620,"Ivy League",4,32,"Unranked",2017,"Cross Country","Men","I","FINAL - November 18th",125,40.343,-74.655
+29,"OKLAHOMA STATE",637,"Big 12",-17,12,"Ranked",2017,"Cross Country","Men","I","FINAL - November 18th",938,36.127,-97.074
+30,"TEXAS",759,"Big 12",0,30,"Ranked",2017,"Cross Country","Men","I","FINAL - November 18th",522,30.285,-97.734
+31,"NAVY",855,"Patriot",-5,26,"Ranked",2017,"Cross Country","Men","I","FINAL - November 18th",3,38.982,-76.484
+1,"NEW MEXICO",90,"Mountain West",6,7,"Ranked",2017,"Cross Country","Women","I","FINAL - November 18th",5174,35.084,-106.62
+2,"SAN FRANCISCO",105,"West Coast",4,6,"Ranked",2017,"Cross Country","Women","I","FINAL - November 18th",335,37.777,-122.451
+3,"COLORADO",139,"Pac-12",0,3,"Ranked",2017,"Cross Country","Women","I","FINAL - November 18th",5345,40.001,-105.266
+4,"STANFORD",165,"Pac-12",1,5,"Ranked",2017,"Cross Country","Women","I","FINAL - November 18th",89,37.428,-122.17
+5,"OREGON",203,"Pac-12",-4,1,"Ranked",2017,"Cross Country","Women","I","FINAL - November 18th",446,44.045,-123.073
+6,"BOISE STATE",264,"Mountain West",26,32,"Unranked",2017,"Cross Country","Women","I","FINAL - November 18th",2730,43.603,-116.206
+7,"FURMAN",271,"SoCon",25,32,"Unranked",2017,"Cross Country","Women","I","FINAL - November 18th",1027,34.926,-82.44
+8,"NC STATE",280,"ACC",-4,4,"Ranked",2017,"Cross Country","Women","I","FINAL - November 18th",404,35.785,-78.682
+9,"MICHIGAN",295,"Big Ten",-7,2,"Ranked",2017,"Cross Country","Women","I","FINAL - November 18th",879,42.278,-83.738
+10,"WISCONSIN",318,"Big Ten",4,14,"Ranked",2017,"Cross Country","Women","I","FINAL - November 18th",883,43.077,-89.413
+11,"BYU",342,"West Coast",-1,10,"Ranked",2017,"Cross Country","Women","I","FINAL - November 18th",4665,40.252,-111.649
+12,"VILLANOVA",346,"Big East",9,21,"Ranked",2017,"Cross Country","Women","I","FINAL - November 18th",459,40.037,-75.343
+13,"ARKANSAS",377,"SEC",6,19,"Ranked",2017,"Cross Country","Women","I","FINAL - November 18th",1434,36.069,-94.175
+14,"UTAH STATE",395,"Mountain West",18,32,"Unranked",2017,"Cross Country","Women","I","FINAL - November 18th",4787,41.745,-111.81
+15,"MICHIGAN STATE",395,"Big Ten",-7,8,"Ranked",2017,"Cross Country","Women","I","FINAL - November 18th",863,42.702,-84.482
+16,"PROVIDENCE",400,"Big East",-3,13,"Ranked",2017,"Cross Country","Women","I","FINAL - November 18th",151,41.844,-71.435
+17,"GEORGIA",411,"SEC",15,32,"Unranked",2017,"Cross Country","Women","I","FINAL - November 18th",728,33.948,-83.377
+18,"PENN STATE",443,"Big Ten",0,18,"Ranked",2017,"Cross Country","Women","I","FINAL - November 18th",1148,40.798,-77.86
+19,"MINNESOTA",488,"Big Ten",13,32,"Unranked",2017,"Cross Country","Women","I","FINAL - November 18th",830,44.974,-93.228
+20,"IOWA STATE",508,"Big 12",9,29,"Ranked",2017,"Cross Country","Women","I","FINAL - November 18th",899,42.027,-93.647
+21,"WASHINGTON",513,"Pac-12",-9,12,"Ranked",2017,"Cross Country","Women","I","FINAL - November 18th",95,47.236,-122.55
+22,"CALIFORNIA",530,"Pac-12",10,32,"Unranked",2017,"Cross Country","Women","I","FINAL - November 18th",305,37.872,-122.259
+23,"EASTERN KENTUCKY",537,"Ohio Valley",9,32,"Unranked",2017,"Cross Country","Women","I","FINAL - November 18th",1004,37.735,-84.299
+24,"INDIANA",562,"Big Ten",8,32,"Unranked",2017,"Cross Country","Women","I","FINAL - November 18th",771,39.178,-86.513
+25,"OLE MISS",571,"SEC",-2,23,"Ranked",2017,"Cross Country","Women","I","FINAL - November 18th",509,34.365,-89.538
+26,"SYRACUSE",582,"ACC",6,32,"Unranked",2017,"Cross Country","Women","I","FINAL - November 18th",551,43.039,-76.135
+27,"EASTERN MICHIGAN",603,"Mid-American",-18,9,"Ranked",2017,"Cross Country","Women","I","FINAL - November 18th",741,42.251,-83.624
+28,"COLUMBIA",672,"Ivy League",4,32,"Unranked",2017,"Cross Country","Women","I","FINAL - November 18th",138,40.808,-73.963
+29,"DARTMOUTH",745,"Ivy League",3,32,"Unranked",2017,"Cross Country","Women","I","FINAL - November 18th",541,43.7044,-72.289
+30,"OKLAHOMA STATE",748,"Big 12",-13,17,"Ranked",2017,"Cross Country","Women","I","FINAL - November 18th",938,36.127,-97.074
+31,"TEXAS",788,"Big 12",1,32,"Unranked",2017,"Cross Country","Women","I","FINAL - November 18th",522,30.285,-97.734
+1,"NORTHERN ARIZONA",125,"Big Sky",31,32,"Unranked",2016,"Cross Country","Men","I","FINAL - November 19th",6893,35.18,-111.654
+2,"STANFORD",158,"Pac-12",1,3,"Ranked",2016,"Cross Country","Men","I","FINAL - November 19th",89,37.428,-122.17
+3,"SYRACUSE",164,"ACC",-2,1,"Ranked",2016,"Cross Country","Men","I","FINAL - November 19th",551,43.039,-76.135
+4,"OLE MISS",196,"SEC",26,30,"Ranked",2016,"Cross Country","Men","I","FINAL - November 19th",509,34.365,-89.538
+5,"ARKANSAS",206,"SEC",1,6,"Ranked",2016,"Cross Country","Men","I","FINAL - November 19th",1434,36.069,-94.175
+6,"COLORADO",223,"Pac-12",-4,2,"Ranked",2016,"Cross Country","Men","I","FINAL - November 19th",5345,40.001,-105.266
+7,"BYU",247,"WCC",5,12,"Ranked",2016,"Cross Country","Men","I","FINAL - November 19th",4665,40.252,-111.649
+8,"WISCONSIN",256,"Big Ten",24,32,"Unranked",2016,"Cross Country","Men","I","FINAL - November 19th",883,43.077,-89.413
+9,"OREGON",282,"Pac-12",-5,4,"Ranked",2016,"Cross Country","Men","I","FINAL - November 19th",446,44.045,-123.073
+10,"IONA",319,"Metro Atlantic",-5,5,"Ranked",2016,"Cross Country","Men","I","FINAL - November 19th",59,40.927,-73.786
+11,"TULSA",340,"American",9,20,"Ranked",2016,"Cross Country","Men","I","FINAL - November 19th",778,36.152,-95.946
+12,"OKLAHOMA STATE",363,"Big 12",6,18,"Ranked",2016,"Cross Country","Men","I","FINAL - November 19th",938,36.127,-97.074
+13,"PORTLAND",368,"WCC",19,32,"Unranked",2016,"Cross Country","Men","I","FINAL - November 19th",33,45.573,-122.728
+14,"WASHINGTON STATE",370,"Pac-12",12,26,"Ranked",2016,"Cross Country","Men","I","FINAL - November 19th",2598,46.732,-117.154
+15,"UCLA",378,"Pac-12",-1,14,"Ranked",2016,"Cross Country","Men","I","FINAL - November 19th",377,34.069,-118.445
+16,"IOWA STATE",384,"Big 12",16,32,"Unranked",2016,"Cross Country","Men","I","FINAL - November 19th",899,42.027,-93.647
+17,"COLORADO STATE",388,"Mountain West",15,32,"Unranked",2016,"Cross Country","Men","I","FINAL - November 19th",5003,40.573,-105.087
+18,"VIRGINIA",476,"ACC",4,22,"Ranked",2016,"Cross Country","Men","I","FINAL - November 19th",568,38.034,-78.508
+19,"BOISE STATE",478,"Mountain West",-3,16,"Ranked",2016,"Cross Country","Men","I","FINAL - November 19th",2730,43.603,-116.206
+20,"MICHIGAN STATE",504,"Big Ten",5,25,"Ranked",2016,"Cross Country","Men","I","FINAL - November 19th",863,42.702,-84.482
+21,"GEORGETOWN",534,"Big East",-11,10,"Ranked",2016,"Cross Country","Men","I","FINAL - November 19th",141,38.908,-77.072
+22,"NC STATE",543,"ACC",6,28,"Ranked",2016,"Cross Country","Men","I","FINAL - November 19th",404,35.785,-78.682
+23,"ILLINOIS",564,"Big Ten",9,32,"Unranked",2016,"Cross Country","Men","I","FINAL - November 19th",751,40.102,-88.227
+24,"PROVIDENCE",611,"Big East",8,32,"Unranked",2016,"Cross Country","Men","I","FINAL - November 19th",151,41.844,-71.435
+25,"DARTMOUTH",621,"Ivy League",7,32,"Unranked",2016,"Cross Country","Men","I","FINAL - November 19th",541,43.7044,-72.289
+26,"NAVY",622,"Patriot",6,32,"Unranked",2016,"Cross Country","Men","I","FINAL - November 19th",3,38.982,-76.484
+27,"SOUTHERN UTAH",629,"Big Sky",-6,21,"Ranked",2016,"Cross Country","Men","I","FINAL - November 19th",5807,37.676,-113.072
+28,"MIDDLE TENNESSEE",697,"Conference USA",4,32,"Unranked",2016,"Cross Country","Men","I","FINAL - November 19th",627,35.849,-86.365
+29,"UTEP",707,"Conference USA",-18,11,"Ranked",2016,"Cross Country","Men","I","FINAL - November 19th",3720,31.773,-106.505
+30,"TEXAS",736,"Big 12",1,31,"Ranked",2016,"Cross Country","Men","I","FINAL - November 19th",522,30.285,-97.734
+31,"CALIFORNIA",776,"Pac-12",-8,23,"Ranked",2016,"Cross Country","Men","I","FINAL - November 19th",305,37.872,-122.259
+1,"OREGON",125,"Pac-12",2,3,"Ranked",2016,"Cross Country","Women","I","FINAL - November 19th",446,44.045,-123.073
+2,"MICHIGAN",126,"Big Ten",4,6,"Ranked",2016,"Cross Country","Women","I","FINAL - November 19th",879,42.278,-83.738
+3,"COLORADO",134,"Pac-12",-1,2,"Ranked",2016,"Cross Country","Women","I","FINAL - November 19th",5345,40.001,-105.266
+4,"NC STATE",223,"ACC",1,5,"Ranked",2016,"Cross Country","Women","I","FINAL - November 19th",404,35.785,-78.682
+5,"STANFORD",255,"Pac-12",9,14,"Ranked",2016,"Cross Country","Women","I","FINAL - November 19th",89,37.428,-122.17
+6,"SAN FRANCISCO",307,"WCC",22,28,"Ranked",2016,"Cross Country","Women","I","FINAL - November 19th",335,37.777,-122.451
+7,"NEW MEXICO",310,"Mountain West",-6,1,"Ranked",2016,"Cross Country","Women","I","FINAL - November 19th",5174,35.084,-106.62
+8,"MICHIGAN STATE",314,"Big Ten",5,13,"Ranked",2016,"Cross Country","Women","I","FINAL - November 19th",863,42.702,-84.482
+9,"EASTERN MICHIGAN",316,"Mid-American",23,32,"Unranked",2016,"Cross Country","Women","I","FINAL - November 19th",741,42.251,-83.624
+10,"BYU",328,"WCC",13,23,"Ranked",2016,"Cross Country","Women","I","FINAL - November 19th",4665,40.252,-111.649
+11,"NOTRE DAME",338,"ACC",-3,8,"Ranked",2016,"Cross Country","Women","I","FINAL - November 19th",725,41.699,-86.239
+12,"WASHINGTON",352,"Pac-12",-2,10,"Ranked",2016,"Cross Country","Women","I","FINAL - November 19th",95,47.236,-122.55
+13,"PROVIDENCE",399,"Big East",-9,4,"Ranked",2016,"Cross Country","Women","I","FINAL - November 19th",151,41.844,-71.435
+14,"WISCONSIN",451,"Big Ten",18,32,"Unranked",2016,"Cross Country","Women","I","FINAL - November 19th",883,43.077,-89.413
+15,"MISSISSIPPI STATE",459,"SEC",2,17,"Ranked",2016,"Cross Country","Women","I","FINAL - November 19th",381,33.455,-88.794
+16,"MISSOURI",459,"SEC",16,32,"Unranked",2016,"Cross Country","Women","I","FINAL - November 19th",748,38.94,-92.328
+17,"OKLAHOMA STATE",465,"Big 12",-10,7,"Ranked",2016,"Cross Country","Women","I","FINAL - November 19th",938,36.127,-97.074
+18,"PENN STATE",465,"Big Ten",-2,16,"Ranked",2016,"Cross Country","Women","I","FINAL - November 19th",1148,40.798,-77.86
+19,"ARKANSAS",476,"SEC",-10,9,"Ranked",2016,"Cross Country","Women","I","FINAL - November 19th",1434,36.069,-94.175
+20,"UTAH",493,"Pac-12",6,26,"Ranked",2016,"Cross Country","Women","I","FINAL - November 19th",4783,40.765,-111.842
+21,"VILLANOVA",505,"Big East",9,30,"Ranked",2016,"Cross Country","Women","I","FINAL - November 19th",459,40.037,-75.343
+22,"PORTLAND",509,"WCC",10,32,"Unranked",2016,"Cross Country","Women","I","FINAL - November 19th",33,45.573,-122.728
+23,"OLE MISS",514,"SEC",9,32,"Unranked",2016,"Cross Country","Women","I","FINAL - November 19th",509,34.365,-89.538
+24,"PENN",520,"Ivy League",8,32,"Unranked",2016,"Cross Country","Women","I","FINAL - November 19th",62,39.952,-75.193
+25,"AIR FORCE",527,"Mountain West",7,32,"Unranked",2016,"Cross Country","Women","I","FINAL - November 19th",6788,38.998,-104.862
+26,"HARVARD",551,"Ivy League",6,32,"Unranked",2016,"Cross Country","Women","I","FINAL - November 19th",10,42.377,-71.117
+27,"BAYLOR",586,"Big 12",5,32,"Unranked",2016,"Cross Country","Women","I","FINAL - November 19th",470,31.549,-97.113
+28,"UCLA",596,"Pac-12",4,32,"Unranked",2016,"Cross Country","Women","I","FINAL - November 19th",377,34.069,-118.445
+29,"IOWA STATE",608,"Big 12",-5,24,"Ranked",2016,"Cross Country","Women","I","FINAL - November 19th",899,42.027,-93.647
+30,"YALE",661,"Ivy League",2,32,"Unranked",2016,"Cross Country","Women","I","FINAL - November 19th",62,41.316,-72.922
+31,"LOUISVILLE",788,"ACC",1,32,"Unranked",2016,"Cross Country","Women","I","FINAL - November 19th",546,38.212,-85.759
+1,"SYRACUSE",82,"ACC",4,5,"Ranked",2015,"Cross Country","Men","I","FINAL - November 21st",551,43.039,-76.135
+2,"COLORADO",91,"Pac-12",-1,1,"Ranked",2015,"Cross Country","Men","I","FINAL - November 21st",5345,40.001,-105.266
+3,"STANFORD",151,"Pac-12",-1,2,"Ranked",2015,"Cross Country","Men","I","FINAL - November 21st",89,37.428,-122.17
+4,"OREGON",183,"Pac-12",2,6,"Ranked",2015,"Cross Country","Men","I","FINAL - November 21st",446,44.045,-123.073
+5,"IONA",231,"Metro Atlantic",3,8,"Ranked",2015,"Cross Country","Men","I","FINAL - November 21st",59,40.927,-73.786
+6,"ARKANSAS",244,"SEC",22,28,"Ranked",2015,"Cross Country","Men","I","FINAL - November 21st",1434,36.069,-94.175
+7,"LOUISVILLE",331,"ACC",25,32,"Unranked",2015,"Cross Country","Men","I","FINAL - November 21st",546,38.212,-85.759
+8,"WASHINGTON",345,"Pac-12",12,20,"Ranked",2015,"Cross Country","Men","I","FINAL - November 21st",95,47.236,-122.55
+9,"MICHIGAN",348,"Big Ten",2,11,"Ranked",2015,"Cross Country","Men","I","FINAL - November 21st",879,42.278,-83.738
+10,"GEORGETOWN",352,"Big East",7,17,"Ranked",2015,"Cross Country","Men","I","FINAL - November 21st",141,38.908,-77.072
+11,"UTEP",354,"Conference USA",16,27,"Ranked",2015,"Cross Country","Men","I","FINAL - November 21st",3720,31.773,-106.505
+12,"BYU",406,"WCC",4,16,"Ranked",2015,"Cross Country","Men","I","FINAL - November 21st",4665,40.252,-111.649
+13,"FURMAN",423,"SoCon",17,30,"Ranked",2015,"Cross Country","Men","I","FINAL - November 21st",1027,34.926,-82.44
+14,"UCLA",429,"Pac-12",4,18,"Ranked",2015,"Cross Country","Men","I","FINAL - November 21st",377,34.069,-118.445
+15,"OKLAHOMA",432,"Big 12",17,32,"Unranked",2015,"Cross Country","Men","I","FINAL - November 21st",1165,35.206,-97.446
+16,"BOISE STATE",435,"Mountain West",16,32,"Unranked",2015,"Cross Country","Men","I","FINAL - November 21st",2730,43.603,-116.206
+17,"EASTERN KENTUCKY",446,"OVC",6,23,"Ranked",2015,"Cross Country","Men","I","FINAL - November 21st",1004,37.735,-84.299
+18,"OKLAHOMA STATE",450,"Big 12",-9,9,"Ranked",2015,"Cross Country","Men","I","FINAL - November 21st",938,36.127,-97.074
+19,"MINNESOTA",464,"Big Ten",13,32,"Unranked",2015,"Cross Country","Men","I","FINAL - November 21st",830,44.974,-93.228
+20,"TULSA",468,"American",5,25,"Ranked",2015,"Cross Country","Men","I","FINAL - November 21st",778,36.152,-95.946
+21,"SOUTHERN UTAH",477,"Big Sky",1,22,"Ranked",2015,"Cross Country","Men","I","FINAL - November 21st",5807,37.676,-113.072
+22,"VIRGINIA",480,"ACC",-1,21,"Ranked",2015,"Cross Country","Men","I","FINAL - November 21st",568,38.034,-78.508
+23,"CALIFORNIA",524,"Pac-12",9,32,"Unranked",2015,"Cross Country","Men","I","FINAL - November 21st",305,37.872,-122.259
+24,"PENN",526,"Ivy League",8,32,"Unranked",2015,"Cross Country","Men","I","FINAL - November 21st",62,39.952,-75.193
+25,"MICHIGAN STATE",543,"Big Ten",-1,24,"Ranked",2015,"Cross Country","Men","I","FINAL - November 21st",863,42.702,-84.482
+26,"WASHINGTON STATE",547,"Pac-12",6,32,"Unranked",2015,"Cross Country","Men","I","FINAL - November 21st",2598,46.732,-117.154
+27,"VIRGINIA TECH",581,"ACC",5,32,"Unranked",2015,"Cross Country","Men","I","FINAL - November 21st",2064,37.228,-80.423
+28,"NC STATE",596,"ACC",4,32,"Unranked",2015,"Cross Country","Men","I","FINAL - November 21st",404,35.785,-78.682
+29,"FLORIDA STATE",598,"ACC",2,31,"Ranked",2015,"Cross Country","Men","I","FINAL - November 21st",79,30.442,-84.299
+30,"OLE MISS",607,"SEC",-1,29,"Ranked",2015,"Cross Country","Men","I","FINAL - November 21st",509,34.365,-89.538
+31,"TEXAS",833,"Big 12",-5,26,"Ranked",2015,"Cross Country","Men","I","FINAL - November 21st",522,30.285,-97.734
+1,"NEW MEXICO",49,"Mountain West",2,3,"Ranked",2015,"Cross Country","Women","I","FINAL - November 21st",5174,35.084,-106.62
+2,"COLORADO",129,"Pac-12",5,7,"Ranked",2015,"Cross Country","Women","I","FINAL - November 21st",5345,40.001,-105.266
+3,"OREGON",214,"Pac-12",3,6,"Ranked",2015,"Cross Country","Women","I","FINAL - November 21st",446,44.045,-123.073
+4,"PROVIDENCE",231,"Big East",9,13,"Ranked",2015,"Cross Country","Women","I","FINAL - November 21st",151,41.844,-71.435
+5,"NC STATE",264,"ACC",11,16,"Ranked",2015,"Cross Country","Women","I","FINAL - November 21st",404,35.785,-78.682
+6,"MICHIGAN",264,"Big Ten",12,18,"Ranked",2015,"Cross Country","Women","I","FINAL - November 21st",879,42.278,-83.738
+7,"OKLAHOMA STATE",274,"Big 12",25,32,"Unranked",2015,"Cross Country","Women","I","FINAL - November 21st",938,36.127,-97.074
+8,"NOTRE DAME",276,"ACC",21,29,"Ranked",2015,"Cross Country","Women","I","FINAL - November 21st",725,41.699,-86.239
+9,"ARKANSAS",276,"SEC",-4,5,"Ranked",2015,"Cross Country","Women","I","FINAL - November 21st",1434,36.069,-94.175
+10,"WASHINGTON",297,"Pac-12",13,23,"Ranked",2015,"Cross Country","Women","I","FINAL - November 21st",95,47.236,-122.55
+11,"BOISE STATE",330,"Mountain West",0,11,"Ranked",2015,"Cross Country","Women","I","FINAL - November 21st",2730,43.603,-116.206
+12,"SYRACUSE",359,"ACC",12,24,"Ranked",2015,"Cross Country","Women","I","FINAL - November 21st",551,43.039,-76.135
+13,"MICHIGAN STATE",368,"Big Ten",-12,1,"Ranked",2015,"Cross Country","Women","I","FINAL - November 21st",863,42.702,-84.482
+14,"STANFORD",379,"Pac-12",0,14,"Ranked",2015,"Cross Country","Women","I","FINAL - November 21st",89,37.428,-122.17
+15,"VIRGINIA",386,"ACC",0,15,"Ranked",2015,"Cross Country","Women","I","FINAL - November 21st",568,38.034,-78.508
+16,"PENN STATE",396,"Big Ten",16,32,"Unranked",2015,"Cross Country","Women","I","FINAL - November 21st",1148,40.798,-77.86
+17,"MISSISSIPPI STATE",405,"SEC",15,32,"Unranked",2015,"Cross Country","Women","I","FINAL - November 21st",381,33.455,-88.794
+18,"MINNESOTA",471,"Big Ten",13,31,"Ranked",2015,"Cross Country","Women","I","FINAL - November 21st",830,44.974,-93.228
+19,"VANDERBILT",474,"SEC",9,28,"Ranked",2015,"Cross Country","Women","I","FINAL - November 21st",568,36.145,-86.803
+20,"GEORGETOWN",491,"Big East",-16,4,"Ranked",2015,"Cross Country","Women","I","FINAL - November 21st",141,38.908,-77.072
+21,"PRINCETON",524,"Ivy League",11,32,"Unranked",2015,"Cross Country","Women","I","FINAL - November 21st",125,40.343,-74.655
+22,"WEBER STATE",558,"Big Sky",10,32,"Unranked",2015,"Cross Country","Women","I","FINAL - November 21st",4715,41.192,-111.944
+23,"BYU",591,"WCC",9,32,"Unranked",2015,"Cross Country","Women","I","FINAL - November 21st",4665,40.252,-111.649
+24,"IOWA STATE",591,"Big 12",-22,2,"Ranked",2015,"Cross Country","Women","I","FINAL - November 21st",899,42.027,-93.647
+25,"GONZAGA",615,"WCC",7,32,"Unranked",2015,"Cross Country","Women","I","FINAL - November 21st",1909,47.667,-117.401
+26,"UTAH",618,"Pac-12",6,32,"Unranked",2015,"Cross Country","Women","I","FINAL - November 21st",4783,40.765,-111.842
+27,"KANSAS",625,"Big 12",5,32,"Unranked",2015,"Cross Country","Women","I","FINAL - November 21st",928,38.954,-95.256
+28,"SAN FRANCISCO",636,"WCC",4,32,"Unranked",2015,"Cross Country","Women","I","FINAL - November 21st",335,37.777,-122.451
+29,"TULSA",646,"American",3,32,"Unranked",2015,"Cross Country","Women","I","FINAL - November 21st",778,36.152,-95.946
+30,"VILLANOVA",667,"Big East",2,32,"Unranked",2015,"Cross Country","Women","I","FINAL - November 21st",459,40.037,-75.343
+31,"TEXAS",828,"Big 12",1,32,"Unranked",2015,"Cross Country","Women","I","FINAL - November 21st",522,30.285,-97.734
+1,"COLORADO",65,"Pac-12",0,1,"Ranked",2014,"Cross Country","Men","I","FINAL - November 22nd",5345,40.001,-105.266
+2,"STANFORD",98,"Pac-12",17,19,"Ranked",2014,"Cross Country","Men","I","FINAL - November 22nd",89,37.428,-122.17
+3,"PORTLAND",175,"WCC",4,7,"Ranked",2014,"Cross Country","Men","I","FINAL - November 22nd",33,45.573,-122.728
+4,"NORTHERN ARIZONA",188,"Big Sky",-2,2,"Ranked",2014,"Cross Country","Men","I","FINAL - November 22nd",6893,35.18,-111.654
+5,"SYRACUSE",206,"ACC",5,10,"Ranked",2014,"Cross Country","Men","I","FINAL - November 22nd",551,43.039,-76.135
+6,"OREGON",221,"Pac-12",-1,5,"Ranked",2014,"Cross Country","Men","I","FINAL - November 22nd",446,44.045,-123.073
+7,"VILLANOVA",230,"Big East",11,18,"Ranked",2014,"Cross Country","Men","I","FINAL - November 22nd",459,40.037,-75.343
+8,"IONA",270,"Metro Atlantic",-2,6,"Ranked",2014,"Cross Country","Men","I","FINAL - November 22nd",59,40.927,-73.786
+9,"OKLAHOMA STATE",296,"Big 12",-6,3,"Ranked",2014,"Cross Country","Men","I","FINAL - November 22nd",938,36.127,-97.074
+10,"WISCONSIN",335,"Big Ten",-1,9,"Ranked",2014,"Cross Country","Men","I","FINAL - November 22nd",883,43.077,-89.413
+11,"MICHIGAN",365,"Big Ten",10,21,"Ranked",2014,"Cross Country","Men","I","FINAL - November 22nd",879,42.278,-83.738
+12,"NORTH CAROLINA",380,"ACC",5,17,"Ranked",2014,"Cross Country","Men","I","FINAL - November 22nd",440,35.905,-79.047
+13,"PROVIDENCE",393,"Big East",3,16,"Ranked",2014,"Cross Country","Men","I","FINAL - November 22nd",151,41.844,-71.435
+14,"NEW MEXICO",394,"Mountain West",-3,11,"Ranked",2014,"Cross Country","Men","I","FINAL - November 22nd",5174,35.084,-106.62
+15,"INDIANA",416,"Big Ten",-7,8,"Ranked",2014,"Cross Country","Men","I","FINAL - November 22nd",771,39.178,-86.513
+16,"BYU",437,"WCC",-12,4,"Ranked",2014,"Cross Country","Men","I","FINAL - November 22nd",4665,40.252,-111.649
+17,"GEORGETOWN",444,"Big East",15,32,"Unranked",2014,"Cross Country","Men","I","FINAL - November 22nd",141,38.908,-77.072
+18,"UCLA",454,"Pac-12",14,32,"Unranked",2014,"Cross Country","Men","I","FINAL - November 22nd",377,34.069,-118.445
+19,"COLORADO STATE",468,"Mountain West",7,26,"Ranked",2014,"Cross Country","Men","I","FINAL - November 22nd",5003,40.573,-105.087
+20,"WASHINGTON",479,"Pac-12",12,32,"Unranked",2014,"Cross Country","Men","I","FINAL - November 22nd",95,47.236,-122.55
+21,"VIRGINIA",502,"ACC",-8,13,"Ranked",2014,"Cross Country","Men","I","FINAL - November 22nd",568,38.034,-78.508
+22,"SOUTHERN UTAH",578,"Big Sky",10,32,"Unranked",2014,"Cross Country","Men","I","FINAL - November 22nd",5807,37.676,-113.072
+23,"EASTERN KENTUCKY",579,"OVC",-8,15,"Ranked",2014,"Cross Country","Men","I","FINAL - November 22nd",1004,37.735,-84.299
+24,"MICHIGAN STATE",583,"Big Ten",8,32,"Unranked",2014,"Cross Country","Men","I","FINAL - November 22nd",863,42.702,-84.482
+25,"TULSA",584,"American",2,27,"Ranked",2014,"Cross Country","Men","I","FINAL - November 22nd",778,36.152,-95.946
+26,"TEXAS",615,"Big 12",-12,14,"Ranked",2014,"Cross Country","Men","I","FINAL - November 22nd",522,30.285,-97.734
+27,"UTEP",629,"Conference USA",5,32,"Unranked",2014,"Cross Country","Men","I","FINAL - November 22nd",3720,31.773,-106.505
+28,"ARKANSAS",647,"SEC",-16,12,"Ranked",2014,"Cross Country","Men","I","FINAL - November 22nd",1434,36.069,-94.175
+29,"OLE MISS",685,"SEC",3,32,"Unranked",2014,"Cross Country","Men","I","FINAL - November 22nd",509,34.365,-89.538
+30,"FURMAN",747,"SoCon",2,32,"Unranked",2014,"Cross Country","Men","I","FINAL - November 22nd",1027,34.926,-82.44
+31,"FLORIDA STATE",822,"ACC",1,32,"Unranked",2014,"Cross Country","Men","I","FINAL - November 22nd",79,30.442,-84.299
+1,"MICHIGAN STATE",85,"Big Ten",5,6,"Ranked",2014,"Cross Country","Women","I","FINAL - November 22nd",863,42.702,-84.482
+2,"IOWA STATE",147,"Big 12",11,13,"Ranked",2014,"Cross Country","Women","I","FINAL - November 22nd",899,42.027,-93.647
+3,"NEW MEXICO",188,"Mountain West",7,10,"Ranked",2014,"Cross Country","Women","I","FINAL - November 22nd",5174,35.084,-106.62
+4,"GEORGETOWN",189,"Big East",1,5,"Ranked",2014,"Cross Country","Women","I","FINAL - November 22nd",141,38.908,-77.072
+5,"ARKANSAS",209,"SEC",10,15,"Ranked",2014,"Cross Country","Women","I","FINAL - November 22nd",1434,36.069,-94.175
+6,"OREGON",249,"Pac-12",8,14,"Ranked",2014,"Cross Country","Women","I","FINAL - November 22nd",446,44.045,-123.073
+7,"COLORADO",267,"Pac-12",0,7,"Ranked",2014,"Cross Country","Women","I","FINAL - November 22nd",5345,40.001,-105.266
+8,"WEST VIRGINIA",277,"Big 12",16,24,"Ranked",2014,"Cross Country","Women","I","FINAL - November 22nd",912,39.648,-79.97
+9,"IONA",377,"Metro Atlantic",23,32,"Unranked",2014,"Cross Country","Women","I","FINAL - November 22nd",59,40.927,-73.786
+10,"WISCONSIN",382,"Big Ten",11,21,"Ranked",2014,"Cross Country","Women","I","FINAL - November 22nd",883,43.077,-89.413
+11,"BOISE STATE",392,"Mountain West",21,32,"Unranked",2014,"Cross Country","Women","I","FINAL - November 22nd",2730,43.603,-116.206
+12,"FLORIDA STATE",393,"ACC",-4,8,"Ranked",2014,"Cross Country","Women","I","FINAL - November 22nd",79,30.442,-84.299
+13,"PROVIDENCE",401,"Big East",-12,1,"Ranked",2014,"Cross Country","Women","I","FINAL - November 22nd",151,41.844,-71.435
+14,"STANFORD",415,"Pac-12",-3,11,"Ranked",2014,"Cross Country","Women","I","FINAL - November 22nd",89,37.428,-122.17
+15,"VIRGINIA",433,"ACC",-6,9,"Ranked",2014,"Cross Country","Women","I","FINAL - November 22nd",568,38.034,-78.508
+16,"NC STATE",456,"ACC",16,32,"Unranked",2014,"Cross Country","Women","I","FINAL - November 22nd",404,35.785,-78.682
+17,"WILLIAM & MARY",463,"Colonial",-5,12,"Ranked",2014,"Cross Country","Women","I","FINAL - November 22nd",82,37.271,-76.716
+18,"MICHIGAN",474,"Big Ten",-14,4,"Ranked",2014,"Cross Country","Women","I","FINAL - November 22nd",879,42.278,-83.738
+19,"BAYLOR",479,"Big 12",13,32,"Unranked",2014,"Cross Country","Women","I","FINAL - November 22nd",470,31.549,-97.113
+20,"DARTMOUTH",508,"Ivy League",-4,16,"Ranked",2014,"Cross Country","Women","I","FINAL - November 22nd",541,43.7044,-72.289
+21,"BOSTON COLLEGE",514,"ACC",11,32,"Unranked",2014,"Cross Country","Women","I","FINAL - November 22nd",154,42.336,-71.169
+22,"NORTH CAROLINA",515,"ACC",10,32,"Unranked",2014,"Cross Country","Women","I","FINAL - November 22nd",440,35.905,-79.047
+23,"WASHINGTON",559,"Pac-12",-6,17,"Ranked",2014,"Cross Country","Women","I","FINAL - November 22nd",95,47.236,-122.55
+24,"SYRACUSE",559,"ACC",-2,22,"Ranked",2014,"Cross Country","Women","I","FINAL - November 22nd",551,43.039,-76.135
+25,"VIRGINIA TECH",574,"ACC",7,32,"Unranked",2014,"Cross Country","Women","I","FINAL - November 22nd",2064,37.228,-80.423
+26,"OHIO STATE",577,"Big Ten",6,32,"Unranked",2014,"Cross Country","Women","I","FINAL - November 22nd",741,40.001,-83.031
+27,"UCLA",582,"Pac-12",5,32,"Unranked",2014,"Cross Country","Women","I","FINAL - November 22nd",377,34.069,-118.445
+28,"VANDERBILT",598,"SEC",-1,27,"Ranked",2014,"Cross Country","Women","I","FINAL - November 22nd",568,36.145,-86.803
+29,"NOTRE DAME",609,"ACC",0,29,"Ranked",2014,"Cross Country","Women","I","FINAL - November 22nd",725,41.699,-86.239
+30,"TOLEDO",613,"Mid-American",2,32,"Unranked",2014,"Cross Country","Women","I","FINAL - November 22nd",591,41.658,-83.614
+31,"MINNESOTA",663,"Big Ten",-11,20,"Ranked",2014,"Cross Country","Women","I","FINAL - November 22nd",830,44.974,-93.228
+1,"COLORADO",149,"Pac-12",2,3,"Ranked",2013,"Cross Country","Men","I","FINAL - November 23rd",5345,40.001,-105.266
+2,"NORTHERN ARIZONA",169,"Big Sky",2,4,"Ranked",2013,"Cross Country","Men","I","FINAL - November 23rd",6893,35.18,-111.654
+3,"OKLAHOMA STATE",230,"Big 12",-2,1,"Ranked",2013,"Cross Country","Men","I","FINAL - November 23rd",938,36.127,-97.074
+4,"BYU",267,"WCC",2,6,"Ranked",2013,"Cross Country","Men","I","FINAL - November 23rd",4665,40.252,-111.649
+5,"OREGON",274,"Pac-12",15,20,"Ranked",2013,"Cross Country","Men","I","FINAL - November 23rd",446,44.045,-123.073
+6,"IONA",284,"Metro Atlantic",23,29,"Ranked",2013,"Cross Country","Men","I","FINAL - November 23rd",59,40.927,-73.786
+7,"PORTLAND",293,"WCC",5,12,"Ranked",2013,"Cross Country","Men","I","FINAL - November 23rd",33,45.573,-122.728
+8,"INDIANA",306,"Big Ten",10,18,"Ranked",2013,"Cross Country","Men","I","FINAL - November 23rd",771,39.178,-86.513
+9,"WISCONSIN",326,"Big Ten",-7,2,"Ranked",2013,"Cross Country","Men","I","FINAL - November 23rd",883,43.077,-89.413
+10,"SYRACUSE",329,"ACC",5,15,"Ranked",2013,"Cross Country","Men","I","FINAL - November 23rd",551,43.039,-76.135
+11,"NEW MEXICO",334,"Mountain West",10,21,"Ranked",2013,"Cross Country","Men","I","FINAL - November 23rd",5174,35.084,-106.62
+12,"ARKANSAS",340,"SEC",-2,10,"Ranked",2013,"Cross Country","Men","I","FINAL - November 23rd",1434,36.069,-94.175
+13,"VIRGINIA",370,"ACC",1,14,"Ranked",2013,"Cross Country","Men","I","FINAL - November 23rd",568,38.034,-78.508
+14,"TEXAS",376,"Big 12",-5,9,"Ranked",2013,"Cross Country","Men","I","FINAL - November 23rd",522,30.285,-97.734
+15,"EASTERN KENTUCKY",380,"OVC",9,24,"Ranked",2013,"Cross Country","Men","I","FINAL - November 23rd",1004,37.735,-84.299
+16,"PROVIDENCE",396,"Big East",16,32,"Unranked",2013,"Cross Country","Men","I","FINAL - November 23rd",151,41.844,-71.435
+17,"NORTH CAROLINA",403,"ACC",15,32,"Unranked",2013,"Cross Country","Men","I","FINAL - November 23rd",440,35.905,-79.047
+18,"VILLANOVA",415,"Big East",9,27,"Ranked",2013,"Cross Country","Men","I","FINAL - November 23rd",459,40.037,-75.343
+19,"STANFORD",417,"Pac-12",-3,16,"Ranked",2013,"Cross Country","Men","I","FINAL - November 23rd",89,37.428,-122.17
+20,"AIR FORCE",419,"Mountain West",12,32,"Unranked",2013,"Cross Country","Men","I","FINAL - November 23rd",6788,38.998,-104.862
+21,"MICHIGAN",433,"Big Ten",2,23,"Ranked",2013,"Cross Country","Men","I","FINAL - November 23rd",879,42.278,-83.738
+22,"PRINCETON",469,"Ivy League",-11,11,"Ranked",2013,"Cross Country","Men","I","FINAL - November 23rd",125,40.343,-74.655
+23,"NOTRE DAME",484,"ACC",5,28,"Ranked",2013,"Cross Country","Men","I","FINAL - November 23rd",725,41.699,-86.239
+24,"DARTMOUTH",551,"Ivy League",8,32,"Unranked",2013,"Cross Country","Men","I","FINAL - November 23rd",541,43.7044,-72.289
+25,"COLUMBIA",580,"Ivy League",-8,17,"Ranked",2013,"Cross Country","Men","I","FINAL - November 23rd",138,40.808,-73.963
+26,"COLORADO STATE",606,"Mountain West",6,32,"Unranked",2013,"Cross Country","Men","I","FINAL - November 23rd",5003,40.573,-105.087
+27,"TULSA",628,"Conference USA",-20,7,"Ranked",2013,"Cross Country","Men","I","FINAL - November 23rd",778,36.152,-95.946
+28,"NC STATE",630,"ACC",-2,26,"Ranked",2013,"Cross Country","Men","I","FINAL - November 23rd",404,35.785,-78.682
+29,"FLORIDA",654,"SEC",3,32,"Unranked",2013,"Cross Country","Men","I","FINAL - November 23rd",102,29.644,-82.355
+30,"HARVARD",678,"Ivy League",2,32,"Unranked",2013,"Cross Country","Men","I","FINAL - November 23rd",10,42.377,-71.117
+31,"GEORGIA",690,"SEC",-12,19,"Ranked",2013,"Cross Country","Men","I","FINAL - November 23rd",728,33.948,-83.377
+1,"PROVIDENCE",141,"Big East",1,2,"Ranked",2013,"Cross Country","Women","I","FINAL - November 23rd",151,41.844,-71.435
+2,"ARIZONA",197,"Pac-12",4,6,"Ranked",2013,"Cross Country","Women","I","FINAL - November 23rd",2441,32.232,-110.95
+3,"BUTLER",200,"Big East",26,29,"Ranked",2013,"Cross Country","Women","I","FINAL - November 23rd",755,39.841,-86.171
+4,"MICHIGAN",215,"Big Ten",1,5,"Ranked",2013,"Cross Country","Women","I","FINAL - November 23rd",879,42.278,-83.738
+5,"GEORGETOWN",226,"Big East",7,12,"Ranked",2013,"Cross Country","Women","I","FINAL - November 23rd",141,38.908,-77.072
+6,"MICHIGAN STATE",236,"Big Ten",10,16,"Ranked",2013,"Cross Country","Women","I","FINAL - November 23rd",863,42.702,-84.482
+7,"COLORADO",265,"Pac-12",17,24,"Ranked",2013,"Cross Country","Women","I","FINAL - November 23rd",5345,40.001,-105.266
+8,"FLORIDA STATE",278,"ACC",-4,4,"Ranked",2013,"Cross Country","Women","I","FINAL - November 23rd",79,30.442,-84.299
+9,"VIRGINIA",283,"ACC",23,32,"Unranked",2013,"Cross Country","Women","I","FINAL - November 23rd",568,38.034,-78.508
+10,"NEW MEXICO",301,"Mountain West",0,10,"Ranked",2013,"Cross Country","Women","I","FINAL - November 23rd",5174,35.084,-106.62
+11,"STANFORD",322,"Pac-12",-8,3,"Ranked",2013,"Cross Country","Women","I","FINAL - November 23rd",89,37.428,-122.17
+12,"WILLIAM & MARY",326,"Colonial",9,21,"Ranked",2013,"Cross Country","Women","I","FINAL - November 23rd",82,37.271,-76.716
+13,"IOWA STATE",333,"Big 12",-2,11,"Ranked",2013,"Cross Country","Women","I","FINAL - November 23rd",899,42.027,-93.647
+14,"OREGON",340,"Pac-12",-13,1,"Ranked",2013,"Cross Country","Women","I","FINAL - November 23rd",446,44.045,-123.073
+15,"ARKANSAS",340,"SEC",3,18,"Ranked",2013,"Cross Country","Women","I","FINAL - November 23rd",1434,36.069,-94.175
+16,"DARTMOUTH",369,"Ivy League",16,32,"Unranked",2013,"Cross Country","Women","I","FINAL - November 23rd",541,43.7044,-72.289
+17,"WASHINGTON",376,"Pac-12",-8,9,"Ranked",2013,"Cross Country","Women","I","FINAL - November 23rd",95,47.236,-122.55
+18,"SAN FRANCISCO",385,"WCC",14,32,"Unranked",2013,"Cross Country","Women","I","FINAL - November 23rd",335,37.777,-122.451
+19,"VILLANOVA",397,"Big East",1,20,"Ranked",2013,"Cross Country","Women","I","FINAL - November 23rd",459,40.037,-75.343
+20,"MINNESOTA",406,"Big Ten",2,22,"Ranked",2013,"Cross Country","Women","I","FINAL - November 23rd",830,44.974,-93.228
+21,"WISCONSIN",489,"Big Ten",11,32,"Unranked",2013,"Cross Country","Women","I","FINAL - November 23rd",883,43.077,-89.413
+22,"SYRACUSE",516,"ACC",10,32,"Unranked",2013,"Cross Country","Women","I","FINAL - November 23rd",551,43.039,-76.135
+23,"CORNELL",569,"Ivy League",-10,13,"Ranked",2013,"Cross Country","Women","I","FINAL - November 23rd",896,42.453,-76.474
+24,"WEST VIRGINIA",621,"Big 12",8,32,"Unranked",2013,"Cross Country","Women","I","FINAL - November 23rd",912,39.648,-79.97
+25,"PENN STATE",640,"Big Ten",-11,14,"Ranked",2013,"Cross Country","Women","I","FINAL - November 23rd",1148,40.798,-77.86
+26,"INDIANA",673,"Big Ten",6,32,"Unranked",2013,"Cross Country","Women","I","FINAL - November 23rd",771,39.178,-86.513
+27,"VANDERBILT",676,"SEC",0,27,"Ranked",2013,"Cross Country","Women","I","FINAL - November 23rd",568,36.145,-86.803
+28,"BYU",687,"WCC",4,32,"Unranked",2013,"Cross Country","Women","I","FINAL - November 23rd",4665,40.252,-111.649
+29,"NOTRE DAME",688,"ACC",-14,15,"Ranked",2013,"Cross Country","Women","I","FINAL - November 23rd",725,41.699,-86.239
+30,"PRINCETON",704,"Ivy League",2,32,"Unranked",2013,"Cross Country","Women","I","FINAL - November 23rd",125,40.343,-74.655
+31,"SMU",790,"American",1,32,"Unranked",2013,"Cross Country","Women","I","FINAL - November 23rd",581,32.841,-96.785
+1,"OKLAHOMA STATE",72,"Big 12",1,2,"Ranked",2012,"Cross Country","Men","I","FINAL - November 17th",938,36.127,-97.074
+2,"WISCONSIN",135,"Big Ten",-1,1,"Ranked",2012,"Cross Country","Men","I","FINAL - November 17th",883,43.077,-89.413
+3,"COLORADO",158,"Pac-12",0,3,"Ranked",2012,"Cross Country","Men","I","FINAL - November 17th",5345,40.001,-105.266
+4,"NORTHERN ARIZONA",191,"Big Sky",10,14,"Ranked",2012,"Cross Country","Men","I","FINAL - November 17th",6893,35.18,-111.654
+5,"FLORIDA STATE",238,"ACC",7,12,"Ranked",2012,"Cross Country","Men","I","FINAL - November 17th",79,30.442,-84.299
+6,"BYU",245,"WCC",-2,4,"Ranked",2012,"Cross Country","Men","I","FINAL - November 17th",4665,40.252,-111.649
+7,"TULSA",247,"Conference USA",18,25,"Ranked",2012,"Cross Country","Men","I","FINAL - November 17th",778,36.152,-95.946
+8,"OKLAHOMA",262,"Big 12",-2,6,"Ranked",2012,"Cross Country","Men","I","FINAL - November 17th",1165,35.206,-97.446
+9,"TEXAS",291,"Big 12",2,11,"Ranked",2012,"Cross Country","Men","I","FINAL - November 17th",522,30.285,-97.734
+10,"ARKANSAS",327,"SEC",22,32,"Unranked",2012,"Cross Country","Men","I","FINAL - November 17th",1434,36.069,-94.175
+11,"PRINCETON",358,"Ivy League",8,19,"Ranked",2012,"Cross Country","Men","I","FINAL - November 17th",125,40.343,-74.655
+12,"PORTLAND",365,"WCC",-4,8,"Ranked",2012,"Cross Country","Men","I","FINAL - November 17th",33,45.573,-122.728
+13,"UCLA",376,"Pac-12",19,32,"Unranked",2012,"Cross Country","Men","I","FINAL - November 17th",377,34.069,-118.445
+14,"VIRGINIA",382,"ACC",18,32,"Unranked",2012,"Cross Country","Men","I","FINAL - November 17th",568,38.034,-78.508
+15,"SYRACUSE",405,"Big East (1st Ed.)",0,15,"Ranked",2012,"Cross Country","Men","I","FINAL - November 17th",551,43.039,-76.135
+16,"STANFORD",408,"Pac-12",-11,5,"Ranked",2012,"Cross Country","Men","I","FINAL - November 17th",89,37.428,-122.17
+17,"COLUMBIA",439,"Ivy League",10,27,"Ranked",2012,"Cross Country","Men","I","FINAL - November 17th",138,40.808,-73.963
+18,"INDIANA",456,"Big Ten",-11,7,"Ranked",2012,"Cross Country","Men","I","FINAL - November 17th",771,39.178,-86.513
+19,"GEORGIA",466,"SEC",10,29,"Ranked",2012,"Cross Country","Men","I","FINAL - November 17th",728,33.948,-83.377
+20,"OREGON",472,"Pac-12",12,32,"Unranked",2012,"Cross Country","Men","I","FINAL - November 17th",446,44.045,-123.073
+21,"NEW MEXICO",473,"Mountain West",10,31,"Ranked",2012,"Cross Country","Men","I","FINAL - November 17th",5174,35.084,-106.62
+22,"VIRGINIA TECH",516,"ACC",10,32,"Unranked",2012,"Cross Country","Men","I","FINAL - November 17th",2064,37.228,-80.423
+23,"MICHIGAN",518,"Big Ten",-3,20,"Ranked",2012,"Cross Country","Men","I","FINAL - November 17th",879,42.278,-83.738
+24,"EASTERN KENTUCKY",522,"OVC",2,26,"Ranked",2012,"Cross Country","Men","I","FINAL - November 17th",1004,37.735,-84.299
+25,"GEORGETOWN",534,"Big East (1st Ed.)",-8,17,"Ranked",2012,"Cross Country","Men","I","FINAL - November 17th",141,38.908,-77.072
+26,"NC STATE",550,"ACC",-16,10,"Ranked",2012,"Cross Country","Men","I","FINAL - November 17th",404,35.785,-78.682
+27,"VILLANOVA",588,"Big East (1st Ed.)",-14,13,"Ranked",2012,"Cross Country","Men","I","FINAL - November 17th",459,40.037,-75.343
+28,"NOTRE DAME",591,"Big East (1st Ed.)",-4,24,"Ranked",2012,"Cross Country","Men","I","FINAL - November 17th",725,41.699,-86.239
+29,"IONA",626,"Metro Atlantic",-20,9,"Ranked",2012,"Cross Country","Men","I","FINAL - November 17th",59,40.927,-73.786
+30,"DUKE",725,"ACC",2,32,"Unranked",2012,"Cross Country","Men","I","FINAL - November 17th",394,36.001,-78.938
+31,"MICHIGAN STATE",755,"Big Ten",1,32,"Unranked",2012,"Cross Country","Men","I","FINAL - November 17th",863,42.702,-84.482
+1,"OREGON",114,"Pac-12",4,5,"Ranked",2012,"Cross Country","Women","I","FINAL - November 17th",446,44.045,-123.073
+2,"PROVIDENCE",183,"Big East (1st Ed.)",30,32,"Unranked",2012,"Cross Country","Women","I","FINAL - November 17th",151,41.844,-71.435
+3,"STANFORD",198,"Pac-12",7,10,"Ranked",2012,"Cross Country","Women","I","FINAL - November 17th",89,37.428,-122.17
+4,"FLORIDA STATE",202,"ACC",0,4,"Ranked",2012,"Cross Country","Women","I","FINAL - November 17th",79,30.442,-84.299
+5,"MICHIGAN",247,"Big Ten",10,15,"Ranked",2012,"Cross Country","Women","I","FINAL - November 17th",879,42.278,-83.738
+6,"ARIZONA",263,"Pac-12",13,19,"Ranked",2012,"Cross Country","Women","I","FINAL - November 17th",2441,32.232,-110.95
+7,"DUKE",300,"ACC",25,32,"Unranked",2012,"Cross Country","Women","I","FINAL - November 17th",394,36.001,-78.938
+8,"CONNECTICUT",304,"Big East (1st Ed.)",24,32,"Unranked",2012,"Cross Country","Women","I","FINAL - November 17th",617,41.808,-72.254
+9,"WASHINGTON",334,"Pac-12",-7,2,"Ranked",2012,"Cross Country","Women","I","FINAL - November 17th",95,47.236,-122.55
+10,"NEW MEXICO",341,"Mountain West",-1,9,"Ranked",2012,"Cross Country","Women","I","FINAL - November 17th",5174,35.084,-106.62
+11,"IOWA STATE",350,"Big 12",-4,7,"Ranked",2012,"Cross Country","Women","I","FINAL - November 17th",899,42.027,-93.647
+12,"GEORGETOWN",381,"Big East (1st Ed.)",-11,1,"Ranked",2012,"Cross Country","Women","I","FINAL - November 17th",141,38.908,-77.072
+13,"CORNELL",385,"Ivy League",19,32,"Unranked",2012,"Cross Country","Women","I","FINAL - November 17th",896,42.453,-76.474
+14,"PENN STATE",387,"Big Ten",-1,13,"Ranked",2012,"Cross Country","Women","I","FINAL - November 17th",1148,40.798,-77.86
+15,"NOTRE DAME",394,"Big East (1st Ed.)",7,22,"Ranked",2012,"Cross Country","Women","I","FINAL - November 17th",725,41.699,-86.239
+16,"MICHIGAN STATE",422,"Big Ten",0,16,"Ranked",2012,"Cross Country","Women","I","FINAL - November 17th",863,42.702,-84.482
+17,"WEBER STATE",428,"Big Sky",12,29,"Ranked",2012,"Cross Country","Women","I","FINAL - November 17th",4715,41.192,-111.944
+18,"ARKANSAS",449,"SEC",-4,14,"Ranked",2012,"Cross Country","Women","I","FINAL - November 17th",1434,36.069,-94.175
+19,"BOSTON COLLEGE",462,"ACC",-7,12,"Ranked",2012,"Cross Country","Women","I","FINAL - November 17th",154,42.336,-71.169
+20,"VILLANOVA",475,"Big East (1st Ed.)",-17,3,"Ranked",2012,"Cross Country","Women","I","FINAL - November 17th",459,40.037,-75.343
+21,"WILLIAM & MARY",481,"Colonial",11,32,"Unranked",2012,"Cross Country","Women","I","FINAL - November 17th",82,37.271,-76.716
+22,"MINNESOTA",500,"Big Ten",5,27,"Ranked",2012,"Cross Country","Women","I","FINAL - November 17th",830,44.974,-93.228
+23,"FLORIDA",518,"SEC",9,32,"Unranked",2012,"Cross Country","Women","I","FINAL - November 17th",102,29.644,-82.355
+24,"COLORADO",519,"Pac-12",-13,11,"Ranked",2012,"Cross Country","Women","I","FINAL - November 17th",5345,40.001,-105.266
+25,"TEXAS",526,"Big 12",1,26,"Ranked",2012,"Cross Country","Women","I","FINAL - November 17th",522,30.285,-97.734
+26,"OKLAHOMA STATE",565,"Big 12",4,30,"Ranked",2012,"Cross Country","Women","I","FINAL - November 17th",938,36.127,-97.074
+27,"VANDERBILT",611,"SEC",-21,6,"Ranked",2012,"Cross Country","Women","I","FINAL - November 17th",568,36.145,-86.803
+28,"TOLEDO",613,"Mid-American",-7,21,"Ranked",2012,"Cross Country","Women","I","FINAL - November 17th",591,41.658,-83.614
+29,"BUTLER",636,"Atlantic 10",3,32,"Unranked",2012,"Cross Country","Women","I","FINAL - November 17th",755,39.841,-86.171
+30,"GEORGIA",642,"SEC",2,32,"Unranked",2012,"Cross Country","Women","I","FINAL - November 17th",728,33.948,-83.377
+31,"HARVARD",676,"Ivy League",1,32,"Unranked",2012,"Cross Country","Women","I","FINAL - November 17th",10,42.377,-71.117
+1,"WISCONSIN",97,"Big Ten",2,3,"Ranked",2011,"Cross Country","Men","I","FINAL - November 21st",883,43.077,-89.413
+2,"OKLAHOMA STATE",139,"Big 12",-1,1,"Ranked",2011,"Cross Country","Men","I","FINAL - November 21st",938,36.127,-97.074
+3,"COLORADO",144,"Pac-12",12,15,"Ranked",2011,"Cross Country","Men","I","FINAL - November 21st",5345,40.001,-105.266
+4,"BYU",203,"WCC",14,18,"Ranked",2011,"Cross Country","Men","I","FINAL - November 21st",4665,40.252,-111.649
+5,"STANFORD",207,"Pac-12",-1,4,"Ranked",2011,"Cross Country","Men","I","FINAL - November 21st",89,37.428,-122.17
+6,"OKLAHOMA",213,"Big 12",-1,5,"Ranked",2011,"Cross Country","Men","I","FINAL - November 21st",1165,35.206,-97.446
+7,"INDIANA",257,"Big Ten",0,7,"Ranked",2011,"Cross Country","Men","I","FINAL - November 21st",771,39.178,-86.513
+8,"PORTLAND",259,"WCC",5,13,"Ranked",2011,"Cross Country","Men","I","FINAL - November 21st",33,45.573,-122.728
+9,"IONA",265,"Metro Atlantic",-1,8,"Ranked",2011,"Cross Country","Men","I","FINAL - November 21st",59,40.927,-73.786
+10,"NC STATE",282,"ACC",10,20,"Ranked",2011,"Cross Country","Men","I","FINAL - November 21st",404,35.785,-78.682
+11,"TEXAS",341,"Big 12",15,26,"Ranked",2011,"Cross Country","Men","I","FINAL - November 21st",522,30.285,-97.734
+12,"FLORIDA STATE",348,"ACC",-10,2,"Ranked",2011,"Cross Country","Men","I","FINAL - November 21st",79,30.442,-84.299
+13,"VILLANOVA",352,"Big East (1st Ed.)",10,23,"Ranked",2011,"Cross Country","Men","I","FINAL - November 21st",459,40.037,-75.343
+14,"NORTHERN ARIZONA",374,"Big Sky",-5,9,"Ranked",2011,"Cross Country","Men","I","FINAL - November 21st",6893,35.18,-111.654
+15,"SYRACUSE",395,"Big East (1st Ed.)",-1,14,"Ranked",2011,"Cross Country","Men","I","FINAL - November 21st",551,43.039,-76.135
+16,"MINNESOTA",441,"Big Ten",11,27,"Ranked",2011,"Cross Country","Men","I","FINAL - November 21st",830,44.974,-93.228
+17,"GEORGETOWN",468,"Big East (1st Ed.)",12,29,"Ranked",2011,"Cross Country","Men","I","FINAL - November 21st",141,38.908,-77.072
+18,"TEXAS A&M",471,"Big 12",14,32,"Unranked",2011,"Cross Country","Men","I","FINAL - November 21st",341,30.618,-96.337
+19,"PRINCETON",474,"Ivy League",-7,12,"Ranked",2011,"Cross Country","Men","I","FINAL - November 21st",125,40.343,-74.655
+20,"MICHIGAN",511,"Big Ten",12,32,"Unranked",2011,"Cross Country","Men","I","FINAL - November 21st",879,42.278,-83.738
+21,"WASHINGTON STATE",512,"Pac-12",11,32,"Unranked",2011,"Cross Country","Men","I","FINAL - November 21st",2598,46.732,-117.154
+22,"PROVIDENCE",530,"Big East (1st Ed.)",0,22,"Ranked",2011,"Cross Country","Men","I","FINAL - November 21st",151,41.844,-71.435
+23,"OHIO STATE",538,"Big Ten",9,32,"Unranked",2011,"Cross Country","Men","I","FINAL - November 21st",741,40.001,-83.031
+24,"NOTRE DAME",575,"Big East (1st Ed.)",1,25,"Ranked",2011,"Cross Country","Men","I","FINAL - November 21st",725,41.699,-86.239
+25,"TULSA",580,"Conference USA",7,32,"Unranked",2011,"Cross Country","Men","I","FINAL - November 21st",778,36.152,-95.946
+26,"EASTERN KENTUCKY",589,"OVC",6,32,"Unranked",2011,"Cross Country","Men","I","FINAL - November 21st",1004,37.735,-84.299
+27,"COLUMBIA",591,"Ivy League",5,32,"Unranked",2011,"Cross Country","Men","I","FINAL - November 21st",138,40.808,-73.963
+28,"CAL POLY",680,"Big West",4,32,"Unranked",2011,"Cross Country","Men","I","FINAL - November 21st",312,35.305,-120.663
+29,"GEORGIA",770,"SEC",3,32,"Unranked",2011,"Cross Country","Men","I","FINAL - November 21st",728,33.948,-83.377
+30,"FLORIDA",780,"SEC",2,32,"Unranked",2011,"Cross Country","Men","I","FINAL - November 21st",102,29.644,-82.355
+31,"NEW MEXICO",885,"Mountain West",-15,16,"Ranked",2011,"Cross Country","Men","I","FINAL - November 21st",5174,35.084,-106.62
+1,"GEORGETOWN",162,"Big East (1st Ed.)",3,4,"Ranked",2011,"Cross Country","Women","I","FINAL - November 21st",141,38.908,-77.072
+2,"WASHINGTON",170,"Pac-12",14,16,"Ranked",2011,"Cross Country","Women","I","FINAL - November 21st",95,47.236,-122.55
+3,"VILLANOVA",181,"Big East (1st Ed.)",-2,1,"Ranked",2011,"Cross Country","Women","I","FINAL - November 21st",459,40.037,-75.343
+4,"FLORIDA STATE",189,"ACC",-2,2,"Ranked",2011,"Cross Country","Women","I","FINAL - November 21st",79,30.442,-84.299
+5,"OREGON",281,"Pac-12",7,12,"Ranked",2011,"Cross Country","Women","I","FINAL - November 21st",446,44.045,-123.073
+6,"VANDERBILT",282,"SEC",26,32,"Unranked",2011,"Cross Country","Women","I","FINAL - November 21st",568,36.145,-86.803
+7,"IOWA STATE",290,"Big 12",1,8,"Ranked",2011,"Cross Country","Women","I","FINAL - November 21st",899,42.027,-93.647
+8,"WEST VIRGINIA",297,"Big East (1st Ed.)",24,32,"Unranked",2011,"Cross Country","Women","I","FINAL - November 21st",912,39.648,-79.97
+9,"NEW MEXICO",322,"Mountain West",-4,5,"Ranked",2011,"Cross Country","Women","I","FINAL - November 21st",5174,35.084,-106.62
+10,"STANFORD",332,"Pac-12",3,13,"Ranked",2011,"Cross Country","Women","I","FINAL - November 21st",89,37.428,-122.17
+11,"COLORADO",335,"Pac-12",-5,6,"Ranked",2011,"Cross Country","Women","I","FINAL - November 21st",5345,40.001,-105.266
+12,"BOSTON COLLEGE",347,"ACC",7,19,"Ranked",2011,"Cross Country","Women","I","FINAL - November 21st",154,42.336,-71.169
+13,"PENN STATE",368,"Big Ten",13,26,"Ranked",2011,"Cross Country","Women","I","FINAL - November 21st",1148,40.798,-77.86
+14,"ARKANSAS",375,"SEC",18,32,"Unranked",2011,"Cross Country","Women","I","FINAL - November 21st",1434,36.069,-94.175
+15,"MICHIGAN",383,"Big Ten",7,22,"Ranked",2011,"Cross Country","Women","I","FINAL - November 21st",879,42.278,-83.738
+16,"MICHIGAN STATE",386,"Big Ten",7,23,"Ranked",2011,"Cross Country","Women","I","FINAL - November 21st",863,42.702,-84.482
+17,"SYRACUSE",401,"Big East (1st Ed.)",-7,10,"Ranked",2011,"Cross Country","Women","I","FINAL - November 21st",551,43.039,-76.135
+18,"CALIFORNIA",433,"Pac-12",14,32,"Unranked",2011,"Cross Country","Women","I","FINAL - November 21st",305,37.872,-122.259
+19,"ARIZONA",447,"Pac-12",-8,11,"Ranked",2011,"Cross Country","Women","I","FINAL - November 21st",2441,32.232,-110.95
+20,"VIRGINIA",466,"ACC",1,21,"Ranked",2011,"Cross Country","Women","I","FINAL - November 21st",568,38.034,-78.508
+21,"TOLEDO",483,"Mid-American",7,28,"Ranked",2011,"Cross Country","Women","I","FINAL - November 21st",591,41.658,-83.614
+22,"NOTRE DAME",512,"Big East (1st Ed.)",10,32,"Unranked",2011,"Cross Country","Women","I","FINAL - November 21st",725,41.699,-86.239
+23,"NC STATE",518,"ACC",1,24,"Ranked",2011,"Cross Country","Women","I","FINAL - November 21st",404,35.785,-78.682
+24,"WISCONSIN",529,"Big Ten",8,32,"Unranked",2011,"Cross Country","Women","I","FINAL - November 21st",883,43.077,-89.413
+25,"SAN FRANCISCO",531,"WCC",7,32,"Unranked",2011,"Cross Country","Women","I","FINAL - November 21st",335,37.777,-122.451
+26,"TEXAS",559,"Big 12",-6,20,"Ranked",2011,"Cross Country","Women","I","FINAL - November 21st",522,30.285,-97.734
+27,"MINNESOTA",577,"Big Ten",0,27,"Ranked",2011,"Cross Country","Women","I","FINAL - November 21st",830,44.974,-93.228
+28,"BYU",636,"WCC",4,32,"Unranked",2011,"Cross Country","Women","I","FINAL - November 21st",4665,40.252,-111.649
+29,"WEBER STATE",647,"Big Sky",3,32,"Unranked",2011,"Cross Country","Women","I","FINAL - November 21st",4715,41.192,-111.944
+30,"OKLAHOMA STATE",701,"Big 12",-13,17,"Ranked",2011,"Cross Country","Women","I","FINAL - November 21st",938,36.127,-97.074
+31,"ARIZONA STATE",752,"Pac-12",1,32,"Unranked",2011,"Cross Country","Women","I","FINAL - November 21st",1495,33.424,-111.928

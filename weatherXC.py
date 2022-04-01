@@ -9,6 +9,8 @@ import json
 import requests
 import pandas as pd
 from pandas.io.json import json_normalize
+import re
+from datetime import datetime
 
 #Weather v Cross Country
 df_list = []
@@ -34,10 +36,33 @@ for x, y, z in zip(zipcodes,dates,city):
     zipDF['Year'] = y[0:4]
     df_list.append(zipDF)
 
+#Concatenate dataframe
 weather = pd.concat(df_list)
 
-
+#Drop unnecssary columns
 weather = weather.drop(columns={'weatherIconUrl'})
 
+#Replace values in description to result in a plain weather description
+weather['weatherDesc'] = [re.sub(r"[\([{})\]]", "", x) for x in weather['weatherDesc']]
+weather['weatherDesc'] = [re.sub("value",'', x) for x in weather['weatherDesc']]
+weather['weatherDesc'] = [re.sub(":",'', x) for x in weather['weatherDesc']]
+weather['weatherDesc'] = [re.sub("'",'', x) for x in weather['weatherDesc']]
+
+#Convert time variable to string
+weather['time'] = weather['time'].apply(str)
+
+#Convert military time to typical time AM/PM
+time = []
+for x in weather['time']:
+    if x == '0':
+        y = datetime.strptime(x, '%H').strftime('%I:%M %p')
+        time.append(y)
+    else:
+        z = datetime.strptime(x, '%H%M').strftime('%I:%M %p')
+        time.append(z)
+
+weather['time'] = time
+
+#Write to csv
 weather.to_csv('weather_xc.csv', index=False)
 
