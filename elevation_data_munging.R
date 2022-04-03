@@ -6,7 +6,7 @@ library(dplyr)
 elevation_data = read.csv("xc_rank.csv")
 elevation_data = subset(elevation_data, select = c(Team))
 
-## Finding the unqiue teams
+## Finding the unique teams
 elevation_data = 
   elevation_data %>% 
   group_by(Team) %>% 
