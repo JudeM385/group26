@@ -3,7 +3,7 @@ library(tidyverse)
 library(dplyr)
 
 ## Loading the data
-elevation_data = read.csv("xc_rank.csv")
+elevation_data = read.csv("Ranking_Data/xc_rank.csv")
 elevation_data = subset(elevation_data, select = c(Team))
 
 ## Finding the unique teams

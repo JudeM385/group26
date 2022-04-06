@@ -3,7 +3,7 @@ library(stringr)
 library(tidyverse)
 
 ### Read in dataframe
-df<-read.csv("xc_rank.csv")
+df<-read.csv("Ranking_Data/xc_rank.csv")
 
 ###Replace Receiving Votes with NR
 df$Change[df$Change == "(LW: RV)"] <- "NR"

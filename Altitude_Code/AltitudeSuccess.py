@@ -12,8 +12,8 @@ import pandas as pd
 
 df_full = pd.read_csv("Merged_Ranking_Lat_Long.csv")
 dfconference = df_full.iloc[:,[1,3]]
-dfgeoelevation = pd.read_csv("XC_Team_Elevation_Lat_Long.csv")
-dfsuccess = pd.read_csv("team_caliber.csv")
+dfgeoelevation = pd.read_csv("Altitude_Data/XC_Team_Elevation_Lat_Long.csv")
+dfsuccess = pd.read_csv("Ranking_Data/team_caliber.csv")
 
 df = dfgeoelevation.merge(dfsuccess, how='left')
 df = df.merge(dfconference, how='right')
