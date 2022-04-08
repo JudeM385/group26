@@ -8,6 +8,11 @@ h3 {text-align: center;}
 h4 {text-align: center;}
 p {text-align: center; margin-left:auto; margin-right:auto; width:800px}
 div {text-align: center;}
+table {text-align: center;}
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
 </style>
 </head>
 
@@ -90,7 +95,82 @@ Championships.
 
 <h3>Investigation of Race Day Weather Conditions on Team Performance</h3>
 
-<p></p>
+<p>
+As has been previously discussed, there are a plethora of variables and considerations that go into a successful Cross Country Team performance. 
+Cross Country teams will spend months and years training and preparing for “The Big Dance” that is the National Cross Country meet in November. 
+Even so, there is one variable that can never be truly prepared for: the weather on race day. 
+The variable of weather conditions is uncontrollable by all teams and its effects are unbiased – with every athlete experiencing the same conditions. 
+Because of this unique uncontrollable and unbiased nature, an investigation into how national caliber teams performed across various weather conditions was catalyzed to help determine what teams competed to their potential even in the harshest of weather conditions.
+<br>
+The following two visualization depict the overall team performance for both the Men and Women’s races at four recent NCAA D1 Cross Country Championship Meets, each of which experienced vastly different weather conditions: Rain, Snow, Sun, and Wind. 
+The following table is included to help provide additional context to the variables related to each weather condition investigated and the location and year of each race.
+</p>
+
+<table class = "center">
+	<tr>
+		<th>Weather Condition</th>
+		<th>Year</th>
+		<th>Location</th>
+		<th>Temp (F)</th>
+		<th>Wind Speed (mph)</th>
+		<th>Cloud Cover</th>
+	</tr>
+
+	<tr>
+		<td>Sun</td>
+		<td>2021</td>
+		<td>Tallahassee, Flordia</td>
+		<td>57.0</td>
+		<td>9.21</td>
+		<td>Clear</td>
+	</tr>
+
+	<tr>
+		<td>Rain</td>
+		<td>2019</td>
+		<td>Terre Haute, Indiana</td>
+		<td>36.0</td>
+		<td>10.40</td>
+		<td>Overcast</td>
+	</tr>
+
+	<tr>
+		<td>Snow</td>
+		<td>2018</td>
+		<td>Madison, Wisconsin</td>
+		<td>28.9</td>
+		<td>10.30</td>
+		<td>Overcast</td>
+	</tr>
+
+	<tr>
+		<td>Wind</td>
+		<td>2017</td>
+		<td>Louisville, Kentucky</td>
+		<td>64.9</td>
+		<td>23.00</td>
+		<td>Overcast</td>
+	</tr>
+</table>
+
+<p>
+The visualizations themselves have been created similar to those that investigated the effect of altitude on team performance. 
+Each team is plotted on a map of the United States according to its school’s geographic location. 
+The teams are represented by square boxes located at their respective latitude and longitudinal coordinates. 
+Moreover, the boxes are shaded along a continuous color change from green to red according to how well a team placed at the Championship Meet in that specific year and weather condition compared to what the team was ranked the week prior to the meet. 
+A legend is included on the right to describe this and provide insight that greener boxes represent a positive change in placement, meaning that the team performed better than they were ranked. 
+While redder represent a negative change in placement, meaning that the team performed worse than they were ranked. 
+As such, a more yellow color simply notes the team performed relatively equal to their initial ranking.
+This diverging color encoding between green and red was included to help viewers easily understand positive (green) and negative (red) changes in a specific weather scenario. 
+Additionally, this visualization offers tooltip functionality that displays a text box when a square data point is hovered over. 
+Within this box is the name of the school, their placement at the Championship Meet, their ranking the week prior, and the year of the race. 
+This was included to provide viewers with another method to compare how a team competed in a specific weather condition rather than just relying on the diverging color encoding. 
+Also, this allowed for the name of each school to be noted, as not all viewers will know the geographic location of NCAA institutions. 
+Finally, the visual employs a slider to allow viewers to compare different team performances across the various weather conditions analyzed.
+</p>
+
+<br>
+<br>
 
 <div>
 <iframe src="men_weather_dependent.html" width="800" height="500"></iframe>
@@ -103,6 +183,26 @@ Championships.
 <div>
 <iframe src="women_weather_dependent.html" width="800" height="500"></iframe>
 </div>
+
+<p>
+It should be noted that at this current time, these visuals are only rough drafts of the final versions. 
+Presently, they are beneficial at providing initial observations into the data and are formatted to at least address the specific points of interest in this study; 
+however, additional edits and changes are planned to fully enable them to provide high level observations and expertly answer the specific interest points of this study. 
+Some current ideas as to how to bolster the weather dependent visuals are
+<br>
+The following are some current ideas as to how to bolster the weather dependent visuals:
+<br>
+Employing a button/dropdown tool rather than a slider to change the weather visual being displayed. 
+This would be changed because the slider is better suited for representing a continuous variable and the discrete nature of the four specific weather conditions would be better suited for a button/dropdown menu.
+<br>
+Starting the visuals at the “Sun” weather condition to provide a general basis in good weather conditions before displaying harsher weather.
+<br>
+Inclusion of a text box under the legend that can display the race year, location, temperature, wind speed, and cloud cover associated with each of the four investigated weather conditions. 
+This would allow the viewers better insight into the specifics of the weather, not just a simple one-word description.
+</p>
+
+<br>
+<br>
 
 <h2>Conclusion of Mid-Point Summary</h2>
 <p>
