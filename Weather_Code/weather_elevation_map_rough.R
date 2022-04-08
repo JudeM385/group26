@@ -15,8 +15,8 @@ library(plotly)
 
 
 #### Accessing Data ####
-lat_long_data <- read.csv("XC_Team_Elevation_Lat_Long.csv")
-ranking_data <- read.csv("updated_xc_rank.csv")
+lat_long_data <- read.csv("Altitude_Data/XC_Team_Elevation_Lat_Long.csv")
+ranking_data <- read.csv("Ranking_Data/updated_xc_rank.csv")
 weather_data <- read.csv("Weather_Data/xc_basic_weather_data.csv", fileEncoding = "UTF-8-BOM")
 
 
@@ -53,9 +53,11 @@ geo <- list(
   scope = "usa",
   projection = list(type = "albers usa"),
   showland = TRUE,
-  landcolor = toRGB("gray95"),
-  subunitcolor = toRGB("gray85"),
-  countrycolor = toRGB("gray85"),
+  landcolor = toRGB("white"),
+  lakecolor = toRGB("white"),
+  subunitcolor = toRGB("grey85"),
+  countrycolor = toRGB("grey85"),
+  coastlinecolor = toRGB("black"),
   countrywidth = 0.5,
   subunitwidth = 0.5
 )
@@ -63,13 +65,14 @@ geo <- list(
 
 #### Creating XC Men's Teams Visualization ####
 ## Creating geographic plot
-fig_men <- plot_geo(na.omit(xc_men), lat = ~lat, lon = ~long)
+fig_men <- plot_geo(na.omit(xc_men), lat = ~lat, lon = ~long, stroke = I("black"))
 ## Adding markers and hover stats.
 fig_men <- fig_men %>% add_markers(
-  text = ~ paste(Team,
-    paste("Elevation (ft):", elevation),
+  text = ~ paste(
+    paste("School: ", Team),
     paste("National Placement: ", Rank),
     paste("Previous Week Ranking: ", Previous.Rank),
+    paste("Year of Race: ", Year),
     sep = "<br />"
   ),
   color = ~Change,
@@ -89,21 +92,22 @@ fig_men <- fig_men %>% layout(
 ## Adding slider animation
 fig_men <- ggplotly(fig_men) %>%
   animation_opts(1000, easing = "elastic", redraw = FALSE) %>%
-  animation_button(x = 1, xanchor = "right", y = 0, yanchor = "bottom") %>%
-  animation_slider(currentvalue = list(prefix = "Weather Condition: ", font = list(color = "red")))
+  #animation_button(x = 1, xanchor = "right", y = 0, yanchor = "bottom") %>%
+  animation_slider(currentvalue = list(prefix = "Weather Condition: ", font = list(color = "Black")))
 ## Displaying the figure for the XC Men's Teams
 fig_men
 
 
 #### Creating XC Womens Teams Visualization ####
 ## Creating geographic plot
-fig_women <- plot_geo(na.omit(xc_women), lat = ~lat, lon = ~long)
+fig_women <- plot_geo(na.omit(xc_women), lat = ~lat, lon = ~long, stroke = I("black"))
 ## Adding markers and hover stats.
 fig_women <- fig_women %>% add_markers(
-  text = ~ paste(Team,
-    paste("Elevation (ft):", elevation),
+  text = ~ paste(
+    paste("School: ", Team),
     paste("National Placement: ", Rank),
     paste("Previous Week Ranking: ", Previous.Rank),
+    paste("Year of Race: ", Year),
     sep = "<br />"
   ),
   color = ~Change,
@@ -123,13 +127,13 @@ fig_women <- fig_women %>% layout(
 ## Adding slider animation
 fig_women <- ggplotly(fig_women) %>%
   animation_opts(1000, easing = "elastic", redraw = FALSE) %>%
-  animation_button(x = 1, xanchor = "right", y = 0, yanchor = "bottom") %>%
-  animation_slider(currentvalue = list(prefix = "Weather Condition: ", font = list(color = "red")))
+  #animation_button(x = 1, xanchor = "right", y = 0, yanchor = "bottom") %>%
+  animation_slider(currentvalue = list(prefix = "Weather Condition: ", font = list(color = "Black")))
 ## Displaying the figure for the XC Men's Teams
 fig_women
 
 
 #### Saving visuals as a html files ####
-htmlwidgets::saveWidget(as_widget(fig_men), "Weather_Visuals/men_weather_dependent.html")
-htmlwidgets::saveWidget(as_widget(fig_women), "Weather_Visuals/women_weather_dependent.html")
+htmlwidgets::saveWidget(as_widget(fig_men), "men_weather_dependent.html")
+htmlwidgets::saveWidget(as_widget(fig_women), "women_weather_dependent.html")
 
