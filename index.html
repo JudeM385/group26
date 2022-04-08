@@ -13,114 +13,107 @@ div {text-align: center;}
 
 <body>
 
-<h1>ANLY 503 Assignment #4</h1>
-<h2>index.html submission</h2>
-<h3>Author: Scott Johnson</h3>
-<h4>Date: 20 March 2022</h4>
-<br>
+<h1>Success Factors in NCAA D1 Cross Country</h1>
+<h2>ANLY 503: Mid-Point Summary</h2>
+<h3>Authors: Matt Harding, Scott Johnson, Jude Moukarzel, Matt Young</h3>
+<h4>Date: 10 April 2022</h4>
 <br>
 
-<h1>An Exploration into the Electricity Consumption and Occupancy (ECO) Data Set</h1>
-
-<h2>Dataset Description</h2>
+<h2>Overview</h2>
 <p>
-The provided ECO data set provided electricity consumption data for three households in Switzerland.
-The timespan of the data collection was over approximately an eight-month period from the end of July in 2012 to the end of January in 2013.
-This data was gathered through the use of smart meters in these homes and includes measurements on current, voltage, and phase shift for each of the three phases in the household.
-Additionally, plug-level data measuring the consumption of specific appliances was also provided.
-The data was contained in a multitude of CSV files, with each file containing aggregate consumption data of a single day.
-Each file then contains 86,400 rows, with each of these rows representing one second in the day.
+Running is a type of activity widely seen as a form of endurance training in order to improve one’s
+cardiovascular health. Just like any activity, there are those who do it for recreational purposes, and others,
+such as athletes, who do it with a more competitive spirit.
+Cross Country is a sport that has grown in popularity over the years. Each year, runners of all ages
+compete at various levels with the goal of outperforming one another. Some of the world’s best runners
+perform and compete at the collegiate level at various colleges, such as BYU, Northern Arizona, Colorado,
+New Mexico, Oregon and Arkansas.
+Some collegiate teams are more successful than others, so we propose building our visualizations
+around the different factors affecting success, such as location, weather, topography, and individual/team
+attributes, which would enable users to better understand what exactly makes success in this sport.
 </p>
 
-<h2>Data Science Questions Posed</h2>
+<h2>Data Descriptions and Data Pre-Processing</h2>
 <p>
-1.) Are there any noticeable differences between each households average daily energy usage?
-<br>
-<br>
-2.) Do the households consume more energy in the winter compared to the summer?
+Using web scraping via various URL paths, we collected championship data for the last 10 years for
+cross country. One notable variable is the change in ranking since the previous week, where we can analyze
+which teams performed better in championships based on a variety of factors gathered below.
+
+After cross-referencing the dates and locations of the NCAA XC Championships from USTFCCCA,
+we used this weather API to get a full scope of the weather at the site of the championship based on date and
+zipCode. Merging this data with the championship data will hopefully provide some trends in which teams
+performed better in various types of weather.
+
+Using the topographical API, we were able to download elevation data at a location of a known cross
+country course. The data in this repository is a sample of that data as the full dataset was too large to upload.
+The data using latitude and longitude to mark elevations determined by lidar technology. There are many
+different locations that we have access to with known cross country courses and we plan to use this data to
+compare different courses and performances.
+
+We plan to use this data to create visualizations that show the easier and more difficult portions of
+courses and give insight into where runners may be able to take advantage of places on the course.
+
+We collected text data using the Reddit API where we gathered 200 posts considered trendy or “hot”
+from popular subreddits "Track and Field" and "Cross Country" . The text data was structured within a data
+frame, with the 2 main columns "title" and "body" containing the text content of the posts. 
+We plan on vectorizing the text data within each post (title and body) in order to build a word cloud and/or a
+term frequency histogram as our visualization, which would hopefully shed some light on what some of the
+most talked about factors are, and whether that impacts success in the sport.
+
+In addition, we would possibly be able to identify schools that are noted in the text data and note what word(s)
+is/are most associated with that school in the reddit data (word association visualization).
 </p>
 
-<h2>Data Munging Process</h2>
+<p>ADD LINKS TO ORIGINAL DATA SOURCES HERE</p>
+
+<h2>Usage Scenario & Tasks</h2>
 <p>
-Because of the vast amount of data provided, multiple aggregation steps were conducted to allow for easier visualization and answering of the proposed data science questions.
-Firstly, subsetted datasets for each home were created that contained the average daily energy consumption per second for each day covered. 
-These datasets were then combined, with the observation for each specific household being noted, and saved for later visualization.
-Additionally, another dataset for each home that contained the average weekly energy consumption per second for each day covered was created from this daily data.
-Similar to the daily datasets, these weekly datasets were then combined, with the observation for each specific household again being noted, and saved for later visualization.
+Carter is an East Coast cross country coach for an up-and-coming program in the NCAA. He anticipates that
+his team will be able to qualify for the NCAA championships in Stillwater in 2022, but he does not know
+exactly the best way to train his athletes for the upcoming season. He wants to be able to explore a dataset in
+order to compare the effect of various factors on cross country success in the NCAA and identify the most
+relevant variables in order to adequately prepare and predict how his team will perform. When Carter logs into
+his DirectAthletics app, he will see an overview of the variables that affect cross country performance. He can
+filter out variables and see which particular variables impact performance the most. He might notice that a
+school’s altitude is a strong predictor of the success of the team. He hypothesizes that if his athletes spend the
+summer training in a city at a relatively high altitude, they will perform better at the following NCAA XC
+Championships.
 </p>
 
-<h2>Interactive Visualizations</h2>
-<h3>Plotly Visualization</h3>
-<p>The following Plotly Visualization was created to provide a compelling answer to the first data science question:</p>
-<p>Are there any noticeable differences between each households average daily energy usage?</p>
+<h2>Rough Draft Visualizations</h2>
+
+<h3>ENTER TITLE OF WORD CLOUD VISUALIZATION HERE</h3>
+
+<h3>ENTER TITLE OF COURSE MAP VISUALIZATION HERE</h3>
+
+<h3>ENTER TITLE OF ELEVATION VISUALIZATION HERE</h3>
+
+<h3>Investigation of Race Day Weather Conditions on Team Performance</h3>
+
+<p></p>
+
 <div>
-<iframe src="plotly.html" width="900" height="600">
-</iframe>
+<iframe src="men_weather_dependent.html" width="800" height="500"></iframe>
 </div>
-<p>
-The first data science question was asked because of the unique lens provided by the inclusion of multiple different household’s electricity consumption in the data.
-Specifically, no one person, or family, lives the same lifestyle. 
-As such, with the increasing reliance on technology, and thus electricity, to achieve even the simplest of tasks, the data offered a peek into how different households consume their electricity.
-Thus, this visual sought to provide viewers with an overarching exploration of various factors related to each household’s average daily electricity usage.
-<br>
-<br>
-To accomplish this goal, a visual employing a boxplot specific for each household was determined as the optimal visual.
-This boxplot visual was constructed with a sideways orientation to allow viewers ease of top-down comparison between each household.
-Though seemingly simple, a boxplot is quite powerful in providing viewers with multiple summary statistics (to include the median, the IQR, and outliers) about the data in an easily interpretable manner. 
-Moreover, this specific boxplot visual also included an encoding denoting the mean daily electricity usage value for each household.
-Additionally, the boxplot visuals are accompanied by the data points used to create the boxplot underneath them. 
-This permits viewers a more detailed look into the actual distribution of the data points and allows for even more observations to be made across each household’s energy consumption.
-It should also be noted that this visual displays the natural logarithm of average daily energy usage (as noted in the x-axis). 
-This specific data normalization was conducted to allow for easier observation and comparison of each household’s boxplots and data points. 
-Without this normalization the boxplots for household 4 and 6 were compressed and barely legible due to the drastic data distribution difference of household 5.
-Furthermore, with the use of plotly these boxplot visuals and associated jittered points do not simply display the boxplot and points for each household and ask the viewer to interpret key statistics on their own. 
-Rather, through the use of interaction encodings, summary statistic labels and values for a household are displayed to viewers when they choose to hover their mouse over any portion of the boxplot, 
-and the value of individual points is displayed when hovered over as well.
-This allows viewers to engage and explore the data to a much greater degree than a simple static boxplot visual.
-<br>
-<br>
-In summary, this visual enables viewers to take a much deeper dive into the summary statistics and distribution of the daily average energy consumption across each household. 
-As such, viewers are able to determine that there does seem to be noticeable differences between each household’s average daily energy usage. 
-Then, with this new discovery, even more questions and hypothesis are formulated.
-</p>
 
+<br>
+<br>
+<br>
 
-<h3>Altair Visualisation</h3>
-<p>The following Altair Visualization was created to provide a compelling answer to the second data science question:</p>
-<p>Do the households consume more energy in the winter compared to the summer?</p>
 <div>
-<iframe src="altair.html" width="1100" height="450">
-</iframe>
+<iframe src="women_weather_dependent.html" width="800" height="500"></iframe>
 </div>
-<p>
-After exploring the visual that provided an answer for the first data science question, a new data science question was formulated. 
-In the first visual it was observed that the data for household number five was not distributed like that of the other two households: with two major groupings of data points at each end of the IQR.
-Thus, the second data science question was asked as it could provide more insight into this drastic difference data distribution in comparison to the other households.
-<br>
-<br>
-To find and answer to this new question a visual that employed line charts for each household on a single axis across the additional dimension of time was created. 
-Firstly, in an effort to maintain consistency and ease of interpretability, this new visual utilized the same colors to label each of the three households being investigated.
-However, one major difference between this visual and that of the first is that this new visual observed a new unit of time. 
-The first visual observed the average electricity consumption per day, but this second visual now displayed the average electricity consumption per week for each household.
-This additional aggregation step was employed because it lowered the number of data points and axis labels, 
-and thus minimized the clutter on the chart and allowed for a much greater ease in comparing data points across the various months and seasons specific to the question posed.
-The visual was created with the module altair and thus also included several interactive effects.
-To again provide viewers with the opportunity to explore the visual for themselves and gain additional insights into the data a mouse hover functionality was encoded.
-Viewers are able to hover their mouse over a data point and the date and average energy expenditure values that data point represents appear.
-Moreover, to help viewers know the respective household of that data point, when a data point is hovered over the entire line for that household is highlighted.
-This can help viewers associate the household to each point in cluttered areas such as the far left of the visual.
-<br>
-<br>
-Not only does this visual offer engaging and beneficial interaction techniques, but it also is powerful in describing the change in average energy usage across different months and seasons.
-As can be observed, each of the three households maintain a relatively low weekly average energy expenditure in the months of July through September (summer months).
-However, in October household five begins to see a drastic increase in its weekly average energy expenditure.
-Moreover, this rise continues into November and then stays noticeably higher than the other two households throughout the rest of the data collection period (to the end of January).
-Additionally, it can be seen that household four also experiences a slight increase in the weekly average energy expenditure in the winter months.
-Sadly, a large portion of the data for household six was missing during the winter months and no reasonable conclusions can be made regarding that household.
-Even so, this visual does provide ample opportunity for viewers to recognize the drastic difference in average energy consumption for household five, and even a slight increase for household four, in the winter months.
-In summary, this visual provides an interactive and engaging experience for viewers to help viewers determine an answer to the data science question posed.
-</p>
 
+<h2>Conclusion of Mid-Point Summary</h2>
+<p>
+DIRECTIONS:
+<br>
+TALK ABOUT HOW YOUR VISION HAS CHANGED SINCE YOUR PROPOSAL.
+<br>
+HOW HAVE YOUR VISUALIZATION GOALS CHANGED?
+<br>
+DOES YOUR VISUALIZATION ENABLE THE TASKS YOU SET OUT TO FACILITATE OR SUCCESSFULLY COMMUNICATE THE STORY YOU WANT TO TELL?
+</p>
 
 </body>
 </html>
