@@ -57,18 +57,20 @@ df_women = df %>% filter(Gender == "Women")
 
 ## Compute average rank, average previous rank, and average change
 df_men = df_men %>%
-  select(Rank, `Previous Rank`, Change, Team, Conference) %>%
-  group_by(Team, Conference) %>%
+  select(Rank, `Previous Rank`, Change, Team) %>%
+  group_by(Team) %>%
+  add_count(Team) %>%
   summarize(across(everything(), mean))
 
 df_women = df_women %>%
-  select(Rank, `Previous Rank`, Change, Team, Conference) %>%
-  group_by(Team, Conference) %>%
+  select(Rank, `Previous Rank`, Change, Team) %>%
+  group_by(Team) %>%
+  add_count(Team) %>%
   summarize(across(everything(), mean))
 
 ## Rename as average
-df_men = rename(df_men, Average.Rank=Rank, Average.Previous.Rank = `Previous Rank`, Average.Change = Change)
-df_women = rename(df_women, Average.Rank=Rank, Average.Previous.Rank = `Previous Rank`, Average.Change = Change)
+df_men = rename(df_men, Average.Rank=Rank, Average.Previous.Rank = `Previous Rank`, Average.Change = Change, Appearances = n)
+df_women = rename(df_women, Average.Rank=Rank, Average.Previous.Rank = `Previous Rank`, Average.Change = Change, Appearances = n)
 
 ## Read in altitude and location dataset
 alt<- read.csv("Altitude_Data/XC_Team_Elevation_Lat_long.csv")
