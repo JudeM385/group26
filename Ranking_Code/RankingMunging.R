@@ -1,3 +1,7 @@
+######
+##Clean up raw data
+#####
+
 ### Read in library
 library(stringr)
 library(tidyverse)
@@ -42,23 +46,37 @@ df <- df %>% rename(Change = ChangeNew)
 ## Save csv
 write.csv(df, "Ranking_Data/updated_xc_rank.csv", row.names=FALSE)
 
-## Now find the sum of the reverse rank in order to see which teams performed really well over the span of the entire 10 years
-df$team_performance<-(32 - df$Rank)
-df$reg_season_performance<-(32 - df$Previous.Rank)
 
-### Summarize by team
-sum_df <- df[c(1:3,5,6,13:14)]
-sum_df <- sum_df %>%
-  group_by(Team) %>%
-  summarize(across(everything(), sum))
+#########
+### Part 2 -- Find average across teams & combine with elevation data
+#########
 
-## Reduce variables
-sum_df <-sum_df[c(1,6:7)]
+## Subset dataframe by men's teams and women's teams
+df_men = df %>% filter(Gender == "Men")
+df_women = df %>% filter(Gender == "Women")
 
-## Normalize
-normalized <- function(x) (x- min(x))/(max(x) - min(x))
-sum_df$reverse_rank <- normalized(sum_df$reverse_rank)
-sum_df$reverse_previous <- normalized(sum_df$reverse_previous)
+## Compute average rank, average previous rank, and average change
+df_men = df_men %>%
+  select(Rank, `Previous Rank`, Change, Team, Conference) %>%
+  group_by(Team, Conference) %>%
+  summarize(across(everything(), mean))
+
+df_women = df_women %>%
+  select(Rank, `Previous Rank`, Change, Team, Conference) %>%
+  group_by(Team, Conference) %>%
+  summarize(across(everything(), mean))
+
+## Rename as average
+df_men = rename(df_men, Average.Rank=Rank, Average.Previous.Rank = `Previous Rank`, Average.Change = Change)
+df_women = rename(df_women, Average.Rank=Rank, Average.Previous.Rank = `Previous Rank`, Average.Change = Change)
+
+## Read in altitude and location dataset
+alt<- read.csv("Altitude_Data/XC_Team_Elevation_Lat_long.csv")
+
+## Merge with existing dataset
+df_men_final <- df_men %>% left_join(alt, by="Team")
+df_women_final <- df_women %>% left_join(alt, by="Team")
 
 ## Write to csv
-write.csv(sum_df, "Ranking_Data/team_caliber.csv", row.names=FALSE)
+write.csv(df_men_final, "Ranking_Data/men_team_caliber.csv", row.names=FALSE)
+write.csv(df_women_final, "Ranking_Data/women_team_caliber.csv", row.names=FALSE)
