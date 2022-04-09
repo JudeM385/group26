@@ -40,7 +40,7 @@ df<- df[c(1:4, 12, 11, 13, 6:10)]
 df <- df %>% rename(Change = ChangeNew)
 
 ## Save csv
-write.csv(df, "updated_xc_rank.csv", row.names=FALSE)
+write.csv(df, "Ranking_Data/updated_xc_rank.csv", row.names=FALSE)
 
 ## Now find the sum of the reverse rank in order to see which teams performed really well over the span of the entire 10 years
 df$team_performance<-(32 - df$Rank)
@@ -61,4 +61,4 @@ sum_df$reverse_rank <- normalized(sum_df$reverse_rank)
 sum_df$reverse_previous <- normalized(sum_df$reverse_previous)
 
 ## Write to csv
-write.csv(sum_df, "team_caliber.csv", row.names=FALSE)
+write.csv(sum_df, "Ranking_Data/team_caliber.csv", row.names=FALSE)
